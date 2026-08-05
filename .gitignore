@@ -10,11 +10,6 @@ data/tmp/
 # Yedek veri dosyaları
 *_yedek_*.json
 
-# Ara katman verileri (sadece çalışan site yayınlanıyor)
-data/ilce_*.json
-data/eksik_puanlar.json
-data/ankara_meslek_liseleri.json
-
 # Önbellekler ve araç çıktıları
 .ruff_cache/
 .screenshots/
