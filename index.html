@@ -1,0 +1,432 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Ankara Meslek Liseleri Rehberi — LGS 2026</title>
+<style>
+:root {
+  --bg: #0b0f14;
+  --bg-2: #11161d;
+  --surface: #171e27;
+  --surface-2: #1d2631;
+  --border: #2a3644;
+  --text: #e6edf3;
+  --text-dim: #9aa7b4;
+  --accent: #ffb020;
+  --accent-2: #ff7a1a;
+  --good: #35d07f;
+  --warn: #ffb020;
+  --bad: #ff5d5d;
+  --radius: 14px;
+  --shadow: 0 10px 30px rgba(0,0,0,.35);
+}
+* { margin:0; padding:0; box-sizing:border-box; }
+html { scroll-behavior:smooth; }
+body {
+  font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+  background:
+    radial-gradient(1200px 600px at 85% -10%, rgba(255,122,26,.08), transparent 60%),
+    radial-gradient(900px 500px at -10% 20%, rgba(255,176,32,.06), transparent 55%),
+    var(--bg);
+  color: var(--text);
+  min-height: 100vh;
+  line-height: 1.55;
+}
+a { color: var(--accent); text-decoration:none; }
+a:hover { text-decoration:underline; }
+
+/* ---------- HEADER ---------- */
+header {
+  position: sticky; top:0; z-index:50;
+  background: rgba(11,15,20,.85);
+  backdrop-filter: blur(12px);
+  border-bottom:1px solid var(--border);
+  padding: 14px 28px;
+  display:flex; align-items:center; justify-content:space-between; gap:20px;
+  flex-wrap: wrap;
+}
+.logo { display:flex; align-items:center; gap:14px; }
+.logo-badge {
+  width:46px; height:46px; border-radius:12px;
+  background: linear-gradient(135deg, var(--accent), var(--accent-2));
+  display:flex; align-items:center; justify-content:center;
+  font-weight:800; font-size:20px; color:#1a1206;
+  box-shadow: 0 4px 16px rgba(255,122,26,.4);
+}
+.logo h1 { font-size:1.15rem; font-weight:700; letter-spacing:.2px; }
+.logo p { font-size:.8rem; color:var(--text-dim); }
+.header-stats { display:flex; gap:18px; flex-wrap:wrap; }
+.stat { text-align:center; padding: 4px 14px; border-left:1px solid var(--border); }
+.stat b { display:block; font-size:1.25rem; color:var(--accent); }
+.stat span { font-size:.7rem; text-transform:uppercase; letter-spacing:.08em; color:var(--text-dim); }
+
+/* ---------- LAYOUT ---------- */
+main { max-width: 1440px; margin:0 auto; padding: 24px 28px 80px; display:grid; grid-template-columns: 320px 1fr; gap: 26px; align-items: start; }
+
+/* ---------- FILTER PANEL ---------- */
+.filters {
+  position: sticky; top: 92px;
+  background: var(--surface);
+  border:1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 20px;
+  box-shadow: var(--shadow);
+  display:flex; flex-direction:column; gap:16px;
+}
+.filters h2 { font-size:.85rem; text-transform:uppercase; letter-spacing:.1em; color:var(--text-dim); display:flex; justify-content:space-between; align-items:center; }
+.filters h2 button {
+  background:none; border:none; color:var(--accent); cursor:pointer; font-size:.75rem; text-transform:none; letter-spacing:0;
+}
+.filters h2 button:hover { text-decoration:underline; }
+.field label { display:block; font-size:.75rem; color:var(--text-dim); margin-bottom:5px; }
+.field input[type=text], .field select {
+  width:100%; padding:10px 12px;
+  background: var(--bg-2); border:1px solid var(--border); border-radius:8px;
+  color:var(--text); font-size:.9rem; outline:none;
+}
+.field input:focus, .field select:focus { border-color: var(--accent); }
+.range-row { display:flex; gap:8px; align-items:center; }
+.range-row input { flex:1; }
+.chips { display:flex; flex-wrap:wrap; gap:6px; }
+.chip {
+  padding:6px 12px; border-radius:20px; border:1px solid var(--border);
+  background:var(--bg-2); font-size:.8rem; cursor:pointer; color:var(--text-dim);
+  transition: all .15s ease; user-select:none;
+}
+.chip:hover { border-color: var(--accent); color: var(--text); }
+.chip.active { background: linear-gradient(135deg, var(--accent), var(--accent-2)); color:#1a1206; border-color:transparent; font-weight:600; }
+.tip-toggle { display:flex; align-items:center; gap:10px; font-size:.85rem; cursor:pointer; }
+.tip-toggle input { accent-color: var(--accent); width:16px; height:16px; }
+
+/* ---------- RESULTS ---------- */
+.results-head { display:flex; align-items:center; justify-content:space-between; margin-bottom:16px; flex-wrap:wrap; gap:12px; }
+.results-head h2 { font-size:1.3rem; }
+.results-head .count { color:var(--text-dim); font-size:.9rem; }
+.sort-row { display:flex; align-items:center; gap:8px; font-size:.85rem; color:var(--text-dim); }
+.sort-row select { background:var(--surface); border:1px solid var(--border); color:var(--text); border-radius:8px; padding:8px 10px; font-size:.85rem; }
+
+.grid { display:grid; grid-template-columns: repeat(auto-fill, minmax(330px, 1fr)); gap:18px; }
+
+.card {
+  background: var(--surface);
+  border:1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 18px;
+  cursor:pointer;
+  transition: transform .15s ease, border-color .15s ease, box-shadow .15s ease;
+  position:relative;
+  overflow:hidden;
+  animation: rise .3s ease backwards;
+}
+@keyframes rise { from { opacity:0; transform: translateY(10px);} to { opacity:1; transform:none;} }
+.card:hover { transform: translateY(-3px); border-color: var(--accent); box-shadow: var(--shadow); }
+.card .topline { display:flex; justify-content:space-between; align-items:flex-start; gap:10px; }
+.card h3 { font-size:1rem; line-height:1.35; margin-bottom:6px; }
+.badge {
+  flex-shrink:0; font-size:.65rem; padding:4px 9px; border-radius:20px; font-weight:700; text-transform:uppercase; letter-spacing:.05em;
+}
+.badge.resmi { background:rgba(53,208,127,.12); color:var(--good); border:1px solid rgba(53,208,127,.3); }
+.badge.ozel { background:rgba(255,176,32,.12); color:var(--warn); border:1px solid rgba(255,176,32,.3); }
+.card .ilce { display:inline-flex; align-items:center; gap:5px; font-size:.78rem; color:var(--text-dim); margin-bottom:10px; }
+.card .ilce svg { width:13px; height:13px; }
+.tags { display:flex; flex-wrap:wrap; gap:6px; margin:10px 0 12px; }
+.tag { font-size:.72rem; background:var(--surface-2); border:1px solid var(--border); padding:3px 9px; border-radius:6px; color:var(--text-dim); }
+.score-row { display:flex; align-items:center; gap:14px; border-top:1px solid var(--border); padding-top:12px; }
+.score { font-size:1.2rem; font-weight:700; color:var(--accent); }
+.score-label { font-size:.68rem; color:var(--text-dim); text-transform:uppercase; letter-spacing:.06em; }
+.score small { font-size:.7rem; color:var(--text-dim); font-weight:400; }
+.percent { font-size:1rem; font-weight:600; color:var(--text); }
+.no-score { font-size:.8rem; color:var(--text-dim); font-style:italic; }
+.entry { margin-left:auto; font-size:.72rem; padding:4px 10px; border-radius:6px; background:rgba(255,122,26,.1); color:var(--accent-2); border:1px solid rgba(255,122,26,.25); }
+
+/* ---------- DETAIL MODAL ---------- */
+.modal-backdrop {
+  position:fixed; inset:0; background:rgba(5,8,12,.7); backdrop-filter: blur(4px);
+  display:none; align-items:flex-start; justify-content:center; z-index:100; padding: 40px 16px; overflow-y:auto;
+}
+.modal-backdrop.open { display:flex; }
+.modal {
+  background: var(--surface); border:1px solid var(--border); border-radius:18px;
+  max-width: 760px; width:100%; padding:28px; box-shadow: 0 30px 80px rgba(0,0,0,.6);
+  animation: pop .2s ease;
+}
+@keyframes pop { from { opacity:0; transform: scale(.97);} to { opacity:1; transform:none;} }
+.modal .close { float:right; background:none; border:none; color:var(--text-dim); font-size:1.5rem; cursor:pointer; line-height:1; }
+.modal .close:hover { color:var(--text); }
+.modal h2 { font-size:1.45rem; margin-bottom:4px; padding-right:30px; }
+.modal .sub { color:var(--text-dim); font-size:.9rem; margin-bottom:18px; }
+.modal-grid { display:grid; grid-template-columns: 1fr 1fr; gap:14px; margin:18px 0; }
+.info-box { background:var(--bg-2); border:1px solid var(--border); border-radius:10px; padding:14px; }
+.info-box h4 { font-size:.72rem; text-transform:uppercase; letter-spacing:.08em; color:var(--text-dim); margin-bottom:8px; }
+.info-box p { font-size:.9rem; word-break: break-word; }
+.info-box .big { font-size:1.5rem; font-weight:800; color:var(--accent); }
+.alan-table { width:100%; border-collapse: collapse; margin-top:10px; font-size:.88rem; }
+.alan-table th, .alan-table td { text-align:left; padding:8px 10px; border-bottom:1px solid var(--border); }
+.alan-table th { color:var(--text-dim); font-size:.72rem; text-transform:uppercase; letter-spacing:.06em; }
+.alan-table tr:last-child td { border-bottom:none; }
+.sources { margin-top:18px; font-size:.8rem; color:var(--text-dim); }
+.sources ul { list-style:none; margin-top:6px; }
+.sources li { margin-bottom:4px; overflow:hidden; text-overflow:ellipsis; white-space:nowrap; }
+.sources a { color: var(--text-dim); }
+.sources a:hover { color: var(--accent); }
+
+/* ---------- EMPTY ---------- */
+.empty { text-align:center; padding:60px 20px; color:var(--text-dim); }
+.empty b { display:block; font-size:1.2rem; color:var(--text); margin-bottom:8px; }
+
+/* ---------- FOOTER ---------- */
+footer { border-top:1px solid var(--border); padding:20px 28px; color:var(--text-dim); font-size:.8rem; text-align:center; }
+
+/* ---------- RESPONSIVE ---------- */
+@media (max-width: 1024px) {
+  main { grid-template-columns: 1fr; }
+  .filters { position: static; }
+}
+@media (max-width: 768px) {
+  header { padding:12px 16px; }
+  main { padding:16px 14px 60px; }
+  .grid { grid-template-columns: 1fr; }
+  .modal-grid { grid-template-columns: 1fr; }
+  .header-stats { display:none; }
+}
+</style>
+</head>
+<body>
+
+<header>
+  <div class="logo">
+    <div class="logo-badge">A</div>
+    <div>
+      <h1>Ankara Meslek Liseleri Rehberi</h1>
+      <p>LGS 2026 · Mesleki ve Teknik Anadolu Liseleri</p>
+    </div>
+  </div>
+  <div class="header-stats">
+    <div class="stat"><b id="statSchool">0</b><span>Okul</span></div>
+    <div class="stat"><b id="statIlce">0</b><span>İlçe</span></div>
+    <div class="stat"><b id="statAlan">0</b><span>Alan</span></div>
+  </div>
+</header>
+
+<main>
+  <!-- FILTERS -->
+  <aside class="filters" id="filters">
+    <h2>Filtreler <button onclick="resetFilters()">Temizle</button></h2>
+    <div class="field">
+      <label>Okul adı ara</label>
+      <input type="text" id="fName" placeholder="Örn: Gazi, TUSAŞ..." oninput="applyFilters()">
+    </div>
+    <div class="field">
+      <label>İlçe</label>
+      <select id="fIlce" onchange="applyFilters()"><option value="">Tümü</option></select>
+    </div>
+    <div class="field">
+      <label>Alan / Bölüm</label>
+      <select id="fAlan" onchange="applyFilters()"><option value="">Tümü</option></select>
+    </div>
+    <div class="field">
+      <label>Okul türü</label>
+      <div class="chips">
+        <span class="chip" data-tip="resmi" onclick="toggleChip(this)">Resmi</span>
+        <span class="chip" data-tip="ozel" onclick="toggleChip(this)">Özel</span>
+      </div>
+    </div>
+    <div class="field">
+      <label>Taban puan aralığı (LGS)</label>
+      <div class="range-row">
+        <input type="number" id="fPuanMin" placeholder="Min" min="0" max="500" oninput="applyFilters()">
+        <span>—</span>
+        <input type="number" id="fPuanMax" placeholder="Max" min="0" max="500" oninput="applyFilters()">
+      </div>
+    </div>
+    <div class="field">
+      <label>Giriş türü</label>
+      <select id="fGiris" onchange="applyFilters()">
+        <option value="">Tümü</option>
+        <option value="merkezi_yerlestirme">Merkezi yerleştirme (sınavla)</option>
+        <option value="adrese_gore">Adrese göre (sınavsız)</option>
+        <option value="ozel_okul">Özel okul</option>
+      </select>
+    </div>
+    <label class="tip-toggle"><input type="checkbox" id="fSadecePuanli" onchange="applyFilters()"> Sadece puanı olanlar</label>
+    <label class="tip-toggle"><input type="checkbox" id="fSadeceOzellikli" onchange="applyFilters()"> Sadece özel/öncelikli şartlılar</label>
+  </aside>
+
+  <!-- RESULTS -->
+  <section>
+    <div class="results-head">
+      <h2>Okullar <span class="count" id="resultCount"></span></h2>
+      <div class="sort-row">
+        Sırala:
+        <select id="fSort" onchange="applyFilters()">
+          <option value="puan_desc">Taban puan (yüksek → düşük)</option>
+          <option value="puan_asc">Taban puan (düşük → yüksek)</option>
+          <option value="ilce">İlçe (A→Z)</option>
+          <option value="adi">Okul adı (A→Z)</option>
+        </select>
+      </div>
+    </div>
+    <div class="grid" id="grid"></div>
+    <div class="empty" id="empty" style="display:none">
+      <b>Sonuç bulunamadı</b>
+      Filtreleri gevşetmeyi deneyin.
+    </div>
+  </section>
+</main>
+
+<footer>
+  Veri: MEB / LGS yerleştirme sonuçları ve web araştırması (2025-2026) · Kaynaklar okul kartlarında · Bilgiler eksik veya değişmiş olabilir; kesin bilgi için MEB e-okul ve ilçe MEM'lerini teyit edin.
+</footer>
+
+<div class="modal-backdrop" id="modal" onclick="if(event.target===this)closeModal()">
+  <div class="modal" id="modalBox"></div>
+</div>
+
+<script>
+/* ===== VERİ (data.js tarafından doldurulur) ===== */
+let DATA = [];
+let ILÇELER = [];
+
+/* ===== FİLTRE DURUMU ===== */
+const state = { tip: new Set() };
+
+/* ===== YARDIMCILAR ===== */
+const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const fmtPuan = p => p != null ? Number(p).toFixed(2) : null;
+
+/* ===== MODAL ===== */
+function openModal(id) {
+  const s = DATA.find(x => x.id === id);
+  if (!s) return;
+  const ap = s.alan_puanlari || [];
+  const rows = ap.length ? ap.map(a => `<tr><td>${esc(a.alan)}</td><td>${fmtPuan(a.puan) ?? '—'}</td><td>${a.yuzdelik != null ? a.yuzdelik : '—'}</td></tr>`).join('')
+    : `<tr><td colspan="3" style="color:var(--text-dim)">Alan bazlı puan bilgisi bulunamadı</td></tr>`;
+  const kaynaklar = (s.kaynak || []).length
+    ? `<ul>${s.kaynak.map(u => `<li><a href="${esc(u)}" target="_blank" rel="noopener">${esc(u)}</a></li>`).join('')}</ul>`
+    : '<p>Kaynak listelenmedi.</p>';
+  const girisText = {merkezi_yerlestirme:'Merkezi yerleştirme (LGS sınavı)', yerel_yerlestirme:'Adrese göre (sınavsız)', adrese_gore:'Adrese göre (sınavsız)', ozel_okul:'Özel okul (ücretli / kendi sınavı)'}[s.giris_turu] || s.giris_turu;
+  document.getElementById('modalBox').innerHTML = `
+    <button class="close" onclick="closeModal()">&times;</button>
+    <h2>${esc(s.adi)}</h2>
+    <div class="sub">${esc(s.ilce)}${s.adres ? ' · ' + esc(s.adres) : ''}</div>
+    <div class="modal-grid">
+      <div class="info-box"><h4>LGS Taban Puan</h4><div class="big">${fmtPuan(s.lgs_taban_puan) ?? '—'}</div>${s.lgs_yuzdelik != null ? `<p>Yüzdelik dilim: <b>${s.lgs_yuzdelik}</b></p>` : ''}${s.lgs_yil ? `<p style="font-size:.75rem;color:var(--text-dim)">Veri yılı: ${s.lgs_yil}</p>` : ''}</div>
+      <div class="info-box"><h4>Giriş Türü</h4><p>${girisText}</p></div>
+      <div class="info-box"><h4>Alanlar</h4><p>${(s.alanlar||[]).join(' · ') || 'Bilgi yok'}</p></div>
+      <div class="info-box"><h4>İletişim</h4><p>${s.telefon ? esc(s.telefon) + '<br>' : ''}${s.web ? `<a href="${esc(s.web)}" target="_blank" rel="noopener">${esc(s.web)}</a>` : 'Bilgi yok'}</p></div>
+    </div>
+    ${ap.length ? `<h4 style="margin-top:14px;font-size:.8rem;text-transform:uppercase;letter-spacing:.06em;color:var(--text-dim)">Alan Bazlı Taban Puanlar</h4><table class="alan-table"><tr><th>Alan</th><th>Puan</th><th>% Dilim</th></tr>${rows}</table>` : ''}
+    <div class="sources"><b>Kaynaklar</b>${kaynaklar}</div>`;
+  document.getElementById('modal').classList.add('open');
+  document.body.style.overflow = 'hidden';
+}
+function closeModal() {
+  document.getElementById('modal').classList.remove('open');
+  document.body.style.overflow = '';
+}
+
+/* ===== CHIP ===== */
+function toggleChip(el) {
+  const v = el.dataset.tip;
+  el.classList.toggle('active');
+  if (state.tip.has(v)) state.tip.delete(v); else state.tip.add(v);
+  applyFilters();
+}
+
+/* ===== ANA FİLTRELEME ===== */
+function applyFilters() {
+  const name = (document.getElementById('fName').value || '').toLowerCase();
+  const ilce = document.getElementById('fIlce').value;
+  const alan = document.getElementById('fAlan').value;
+  const pMin = document.getElementById('fPuanMin').value ? Number(document.getElementById('fPuanMin').value) : null;
+  const pMax = document.getElementById('fPuanMax').value ? Number(document.getElementById('fPuanMax').value) : null;
+  const giris = document.getElementById('fGiris').value;
+  const sadecePuan = document.getElementById('fSadecePuanli').checked;
+  const sadeceOzel = document.getElementById('fSadeceOzellikli').checked;
+  const sort = document.getElementById('fSort').value;
+
+  let list = DATA.filter(s => {
+    if (name && !s.adi.toLowerCase().includes(name) && !(s.alanlar||[]).some(a => a.toLowerCase().includes(name))) return false;
+    if (ilce && s.ilce !== ilce) return false;
+    if (alan && !(s.alanlar||[]).some(a => a === alan)) return false;
+    if (state.tip.size && !state.tip.has(s.tip)) return false;
+    if (pMin != null && (s.lgs_taban_puan == null || s.lgs_taban_puan < pMin)) return false;
+    if (pMax != null && (s.lgs_taban_puan == null || s.lgs_taban_puan > pMax)) return false;
+    if (giris && s.giris_turu !== giris) return false;
+    if (sadecePuan && s.lgs_taban_puan == null) return false;
+    if (sadeceOzel && !(s.alan_puanlari && s.alan_puanlari.length)) return false;
+    return true;
+  });
+
+  const byPuan = (a,b) => (b.lgs_taban_puan ?? -1) - (a.lgs_taban_puan ?? -1);
+  if (sort === 'puan_desc') list.sort(byPuan);
+  else if (sort === 'puan_asc') list.sort((a,b) => (a.lgs_taban_puan ?? 9999) - (b.lgs_taban_puan ?? 9999));
+  else if (sort === 'ilce') list.sort((a,b) => a.ilce.localeCompare(b.ilce,'tr') || a.adi.localeCompare(b.adi,'tr'));
+  else list.sort((a,b) => a.adi.localeCompare(b.adi,'tr'));
+
+  render(list);
+}
+
+function render(list) {
+  document.getElementById('resultCount').textContent = `(${list.length} sonuç)`;
+  document.getElementById('empty').style.display = list.length ? 'none' : 'block';
+  const grid = document.getElementById('grid');
+  grid.innerHTML = list.map(s => {
+    const p = fmtPuan(s.lgs_taban_puan);
+    const scoreHtml = p
+      ? `<div class="score">${p} <small>puan</small></div>${s.lgs_yuzdelik != null ? `<div><div class="percent">%${s.lgs_yuzdelik}</div><div class="score-label">dilim</div></div>` : ''}`
+      : '<div class="no-score">Puan bilgisi yok</div>';
+    const girisText = {merkezi_yerlestirme:'Sınavla', yerel_yerlestirme:'Adrese göre', adrese_gore:'Adrese göre', ozel_okul:'Özel'}[s.giris_turu] || s.giris_turu;
+    return `<article class="card" style="animation-delay:${Math.min(list.indexOf(s)*20, 400)}ms" onclick="openModal('${s.id}')">
+      <div class="topline"><h3>${esc(s.adi)}</h3><span class="badge ${s.tip}">${s.tip === 'resmi' ? 'Resmi' : 'Özel'}</span></div>
+      <div class="ilce"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 21s-7-5.5-7-11a7 7 0 1 1 14 0c0 5.5-7 11-7 11z"/><circle cx="12" cy="10" r="2.5"/></svg>${esc(s.ilce)}</div>
+      <div class="tags">${(s.alanlar||[]).slice(0,5).map(a => `<span class="tag">${esc(a)}</span>`).join('')}${(s.alanlar||[]).length > 5 ? `<span class="tag">+${s.alanlar.length-5}</span>` : ''}</div>
+      <div class="score-row">${scoreHtml}<span class="entry">${girisText}</span></div>
+    </article>`;
+  }).join('');
+}
+
+function resetFilters() {
+  document.getElementById('fName').value = '';
+  document.getElementById('fIlce').value = '';
+  document.getElementById('fAlan').value = '';
+  document.getElementById('fPuanMin').value = '';
+  document.getElementById('fPuanMax').value = '';
+  document.getElementById('fGiris').value = '';
+  document.getElementById('fSadecePuanli').checked = false;
+  document.getElementById('fSadeceOzellikli').checked = false;
+  document.getElementById('fSort').value = 'puan_desc';
+  state.tip.clear();
+  document.querySelectorAll('.chip.active').forEach(c => c.classList.remove('active'));
+  applyFilters();
+}
+
+/* ===== VERİ YÜKLEME ===== */
+function loadData(data) {
+  DATA = data.map((s, i) => ({...s, id: 's' + i}));
+  ILÇELER = [...new Set(DATA.map(s => s.ilce))].sort((a,b) => a.localeCompare(b,'tr'));
+  const ilceSel = document.getElementById('fIlce');
+  ILÇELER.forEach(il => {
+    const o = document.createElement('option');
+    o.value = il; o.textContent = il;
+    ilceSel.appendChild(o);
+  });
+  const alanSet = new Set();
+  DATA.forEach(s => (s.alanlar||[]).forEach(a => alanSet.add(a)));
+  const alanSel = document.getElementById('fAlan');
+  [...alanSet].sort((a,b) => a.localeCompare(b,'tr')).forEach(a => {
+    const o = document.createElement('option');
+    o.value = a; o.textContent = a;
+    alanSel.appendChild(o);
+  });
+  const alanCount = alanSet.size;
+  document.getElementById('statSchool').textContent = DATA.length;
+  document.getElementById('statIlce').textContent = ILÇELER.length;
+  document.getElementById('statAlan').textContent = alanCount;
+  applyFilters();
+}
+</script>
+<script src="data.js"></script>
+</body>
+</html>

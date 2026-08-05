@@ -1,0 +1,25 @@
+# GÜVENLİK: API anahtarları ASLA commit edilmemeli
+api.txt
+
+# Yardımcı scriptler (py/js) — repo dışı, sadece site push ediliyor
+tools/
+
+# Ham araştırma artıkları (PDF'ler, büyük metin dökümleri)
+data/tmp/
+
+# Yedek veri dosyaları
+*_yedek_*.json
+
+# Ara katman verileri (sadece çalışan site yayınlanıyor)
+data/ilce_*.json
+data/eksik_puanlar.json
+data/ankara_meslek_liseleri.json
+
+# Önbellekler ve araç çıktıları
+.ruff_cache/
+.screenshots/
+__pycache__/
+*.pyc
+node_modules/
+.DS_Store
+
