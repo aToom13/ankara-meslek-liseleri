@@ -3281,6 +3281,10 @@
       "lgs_taban_puan": null,
       "lgs_yuzdelik": 6.0,
       "lgs_yil": 2026,
+      "tahmini_taban_puan_min": 413.0,
+      "tahmini_taban_puan_max": 443.0,
+      "tahmini_taban_puan_orta": 428.0,
+      "tahmini_nedeni": "Yayınlanmış LGS taban puanı yok; %6.0 yüzdelik dilim, 2026 yılı MEB merkezi yerleştirme veri eğrisinden tahmini aralığa dönüştürüldü (tahminidir, resmi puan değildir).",
       "giris_turu": "ozel_okul",
       "alan_puanlari": [],
       "kaynak": [

@@ -128,6 +128,7 @@ main { max-width: 1440px; margin:0 auto; padding: 24px 28px 80px; display:grid; 
 }
 .badge.resmi { background:rgba(53,208,127,.12); color:var(--good); border:1px solid rgba(53,208,127,.3); }
 .badge.ozel { background:rgba(255,176,32,.12); color:var(--warn); border:1px solid rgba(255,176,32,.3); }
+.badge.tahmini { background:rgba(90,150,255,.15); color:#8ab6ff; border:1px solid rgba(90,150,255,.35); }
 .card .ilce { display:inline-flex; align-items:center; gap:5px; font-size:.78rem; color:var(--text-dim); margin-bottom:10px; }
 .card .ilce svg { width:13px; height:13px; }
 .tags { display:flex; flex-wrap:wrap; gap:6px; margin:10px 0 12px; }
@@ -311,7 +312,7 @@ function openModal(id) {
     <h2>${esc(s.adi)}</h2>
     <div class="sub">${esc(s.ilce)}${s.adres ? ' · ' + esc(s.adres) : ''}</div>
     <div class="modal-grid">
-      <div class="info-box"><h4>LGS Taban Puan</h4><div class="big">${fmtPuan(s.lgs_taban_puan) ?? '—'}</div>${s.lgs_yuzdelik != null ? `<p>Yüzdelik dilim: <b>${s.lgs_yuzdelik}</b></p>` : ''}${s.lgs_yil ? `<p style="font-size:.75rem;color:var(--text-dim)">Veri yılı: ${s.lgs_yil}</p>` : ''}</div>
+      <div class="info-box"><h4>LGS Taban Puan</h4><div class="big">${fmtPuan(s.lgs_taban_puan) ?? (s.tahmini_taban_puan_min != null ? `~${s.tahmini_taban_puan_min}–${s.tahmini_taban_puan_max}` : '—')}</div>${s.lgs_taban_puan == null && s.tahmini_taban_puan_min != null ? `<p style="font-size:.75rem;color:var(--accent-2)">Tahmini puan aralığı — resmi değil</p>` : ''}${s.lgs_yuzdelik != null ? `<p>Yüzdelik dilim: <b>${s.lgs_yuzdelik}</b></p>` : ''}${s.lgs_yil ? `<p style="font-size:.75rem;color:var(--text-dim)">Veri yılı: ${s.lgs_yil}</p>` : ''}${s.tahmini_nedeni ? `<p style="font-size:.72rem;color:var(--text-dim);margin-top:6px">${esc(s.tahmini_nedeni)}</p>` : ''}</div>
       <div class="info-box"><h4>Giriş Türü</h4><p>${girisText}</p></div>
       <div class="info-box"><h4>Alanlar</h4><p>${(s.alanlar||[]).join(' · ') || 'Bilgi yok'}</p></div>
       <div class="info-box"><h4>İletişim</h4><p>${s.telefon ? esc(s.telefon) + '<br>' : ''}${s.web ? `<a href="${esc(s.web)}" target="_blank" rel="noopener">${esc(s.web)}</a>` : 'Bilgi yok'}</p></div>
@@ -346,22 +347,27 @@ function applyFilters() {
   const sadeceOzel = document.getElementById('fSadeceOzellikli').checked;
   const sort = document.getElementById('fSort').value;
 
+  // Etkin puan: gerçek taban puan varsa onu, yoksa tahmini orta noktayı kullan.
+  // Tahmini okullar, sıralamaya tahmini puan aralığının orta noktasıyla dahil edilir.
+  const effPuan = s => (s.lgs_taban_puan != null ? s.lgs_taban_puan : (s.tahmini_taban_puan_orta ?? null));
+
   let list = DATA.filter(s => {
+    const ep = effPuan(s);
     if (name && !s.adi.toLowerCase().includes(name) && !(s.alanlar||[]).some(a => a.toLowerCase().includes(name))) return false;
     if (ilce && s.ilce !== ilce) return false;
     if (alan && !(s.alanlar||[]).some(a => a === alan)) return false;
     if (state.tip.size && !state.tip.has(s.tip)) return false;
-    if (pMin != null && (s.lgs_taban_puan == null || s.lgs_taban_puan < pMin)) return false;
-    if (pMax != null && (s.lgs_taban_puan == null || s.lgs_taban_puan > pMax)) return false;
+    if (pMin != null && (ep == null || ep < pMin)) return false;
+    if (pMax != null && (ep == null || ep > pMax)) return false;
     if (giris && s.giris_turu !== giris) return false;
-    if (sadecePuan && s.lgs_taban_puan == null) return false;
+    if (sadecePuan && s.lgs_taban_puan == null && s.tahmini_taban_puan_orta == null) return false;
     if (sadeceOzel && !(s.alan_puanlari && s.alan_puanlari.length)) return false;
     return true;
   });
 
-  const byPuan = (a,b) => (b.lgs_taban_puan ?? -1) - (a.lgs_taban_puan ?? -1);
+  const byPuan = (a,b) => (effPuan(b) ?? -1) - (effPuan(a) ?? -1);
   if (sort === 'puan_desc') list.sort(byPuan);
-  else if (sort === 'puan_asc') list.sort((a,b) => (a.lgs_taban_puan ?? 9999) - (b.lgs_taban_puan ?? 9999));
+  else if (sort === 'puan_asc') list.sort((a,b) => (effPuan(a) ?? 9999) - (effPuan(b) ?? 9999));
   else if (sort === 'ilce') list.sort((a,b) => a.ilce.localeCompare(b.ilce,'tr') || a.adi.localeCompare(b.adi,'tr'));
   else list.sort((a,b) => a.adi.localeCompare(b.adi,'tr'));
 
@@ -374,15 +380,22 @@ function render(list) {
   const grid = document.getElementById('grid');
   grid.innerHTML = list.map(s => {
     const p = fmtPuan(s.lgs_taban_puan);
-    const scoreHtml = p
-      ? `<div class="score">${p} <small>puan</small></div>${s.lgs_yuzdelik != null ? `<div><div class="percent">%${s.lgs_yuzdelik}</div><div class="score-label">dilim</div></div>` : ''}`
-      : '<div class="no-score">Puan bilgisi yok</div>';
+    const tahmini = s.tahmini_taban_puan_min != null;
+    const pMin = s.tahmini_taban_puan_min, pMax = s.tahmini_taban_puan_max;
+    let scoreHtml;
+    if (p) {
+      scoreHtml = `<div class="score">${p} <small>puan</small></div>${s.lgs_yuzdelik != null ? `<div><div class="percent">%${s.lgs_yuzdelik}</div><div class="score-label">dilim</div></div>` : ''}`;
+    } else if (tahmini) {
+      scoreHtml = `<div class="score" title="Tahmini puan (resmi değil)">~${pMin}–${pMax} <small>tahmini puan</small></div><span class="badge tahmini">Tahmini</span>`;
+    } else {
+      scoreHtml = '<div class="no-score">Puan bilgisi yok</div>';
+    }
     const girisText = {merkezi_yerlestirme:'Sınavla', yerel_yerlestirme:'Adrese göre', adrese_gore:'Adrese göre', ozel_okul:'Özel'}[s.giris_turu] || s.giris_turu;
     return `<article class="card" style="animation-delay:${Math.min(list.indexOf(s)*20, 400)}ms" onclick="openModal('${s.id}')">
-      <div class="topline"><h3>${esc(s.adi)}</h3><span class="badge ${s.tip}">${s.tip === 'resmi' ? 'Resmi' : 'Özel'}</span></div>
+      <div class="topline">${tahmini ? `<span class="badge tahmini">Tahmini</span>` : ''}<h3>${esc(s.adi)}</h3><span class="badge ${s.tip}">${s.tip === 'resmi' ? 'Resmi' : 'Özel'}</span></div>
       <div class="ilce"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 21s-7-5.5-7-11a7 7 0 1 1 14 0c0 5.5-7 11-7 11z"/><circle cx="12" cy="10" r="2.5"/></svg>${esc(s.ilce)}</div>
       <div class="tags">${(s.alanlar||[]).slice(0,5).map(a => `<span class="tag">${esc(a)}</span>`).join('')}${(s.alanlar||[]).length > 5 ? `<span class="tag">+${s.alanlar.length-5}</span>` : ''}</div>
-      <div class="score-row">${scoreHtml}<span class="entry">${girisText}</span></div>
+      <div class="score-row">${scoreHtml}${tahmini && s.lgs_yuzdelik != null ? `<div class="percent">%${s.lgs_yuzdelik} dilim</div>` : ''}<span class="entry">${girisText}</span></div>
     </article>`;
   }).join('');
 }
