@@ -1,0 +1,81 @@
+{
+  "meta": {
+    "olusturulma": "2026-08-06",
+    "gorev": "Ankara Altındağ'daki 7 resmi meslek lisesinin LGS puan durumu doğrulaması",
+    "yontem": "websearch (Türkçe) + MEB 2025 sınavlı taban puanları listesi (data/tmp/2025_sinavli_taban.txt) + tabanpuanlari.net, hangisoru.com, terapotikakademi.com, rehberim.gen.tr, dersten.com, karnehesaplama.com, bilgenc.com listeleri",
+    "cok_onenli_not": "Bu 7 okulun TAMAMI tamamen SIVAVSIZ (yerel yerleştirme / OBP) öğrenci almaktadır. Hiçbirinin merkezi (sınavlı) LGS kontenjanı YOKTUR. MEB 2025 sınavlı taban puanları listesinde bu 7 okuldan hiçbiri geçmemektedir. Veritabanındaki 'yerel_yerlestirme' işareti DOĞRUDUR. 'alan_puanlari'ndaki değerler MEB 2025 sınavlı listesinden değil, terapotikakademi.com'un 'Sınavsız OBP ile öğrenci alan okullar' listesinden gelmektedir ve bu değerler LGS yüzdelik dilimi DEĞİL, 2025 yerel yerleştirme OBP taban puanlarıdır (0-100 arası ortaokul başarı puanı).",
+    "karsilastirma_meb_2025_sinavli": "MEB 2025 sınavlı listesinde Altındağ'da kontenjanı olan MTAL'ler: İskitler MTAL (Endüstriyel Otomasyon 286.4327 / %35.61), Ankara Mesleki ve Teknik A.L. (Adalet 230.7165 / %56.02), Atatürk MTAL (Yiyecek İçecek 230.2281 / %56.27; Gıda 205.5263 / %72.41), Altındağ MTAL (Makine Tasarım 222.4137 / %61.36), Ulus MTAL. Bu 7 okul listede YOK."
+  },
+  "okullar": [
+    {
+      "adi": "Ahmet Haluk Dursun Mesleki ve Teknik Anadolu Lisesi",
+      "giris_turu": "yerel",
+      "lgs_taban_puan": null,
+      "lgs_yuzdelik": null,
+      "lgs_yil": null,
+      "kaynak": "https://www.hangisoru.com/lgs-tercih-robotu/ahmet-haluk-dursun-mesleki-ve-teknik-anadolu-lisesi-13176",
+      "baglam": "Tamamen sınavsız (yerel yerleştirme / Anadolu Meslek Programı). MEB 2025 sınavlı listesinde yok; merkezi kontenjanı yok. 2025 yerel yerleştirme OBP taban puanı 33.2775 (bu bir LGS puanı/yüzdelik değildir; 2024: 33.0672, 2023: 38.7128, 2022: 55.0351).",
+      "alinti": "Yerleşim Şekli: Sınavsız Yerleştirme | OBP Puanı: 33.2775 — 'güncel MEB kılavuzunda belirtildiği üzere (OBP puanı) okul başarı puanı 33.2775'"
+    },
+    {
+      "adi": "Ahmet Yesevi Mesleki ve Teknik Anadolu Lisesi",
+      "giris_turu": "yerel",
+      "lgs_taban_puan": null,
+      "lgs_yuzdelik": null,
+      "lgs_yil": null,
+      "kaynak": "https://www.hangisoru.com/lgs-tercih-robotu/ahmet-yesevi-mesleki-ve-teknik-anadolu-lisesi-2541",
+      "baglam": "Tamamen sınavsız (yerel yerleştirme / Anadolu Meslek Programı). MEB 2025 sınavlı listesinde yok; merkezi kontenjanı yok. 2025 yerel yerleştirme OBP taban puanı 25.8126 (2024: 29.3747).",
+      "alinti": "Yerleşim Şekli: Sınavsız Yerleştirme | OBP Puanı: 25.8126 — 'güncel MEB kılavuzunda belirtildiği üzere (OBP puanı) okul başarı puanı 25.8126'"
+    },
+    {
+      "adi": "Aktaş Atatürk Mesleki ve Teknik Anadolu Lisesi",
+      "giris_turu": "yerel",
+      "lgs_taban_puan": null,
+      "lgs_yuzdelik": null,
+      "lgs_yil": null,
+      "kaynak": "https://www.hangisoru.com/lgs-tercih-robotu/aktas-ataturk-mesleki-ve-teknik-anadolu-lisesi-2542",
+      "baglam": "Tamamen sınavsız (yerel yerleştirme / Anadolu Meslek Programı). MEB 2025 sınavlı listesinde yok; merkezi kontenjanı yok. 2025 yerel yerleştirme OBP taban puanı 18.8822 (2024: 39.6575, 2023: 44.4852).",
+      "alinti": "Yerleşim Şekli: Sınavsız Yerleştirme | OBP Puanı: 18.8822 — 'güncel MEB kılavuzunda belirtildiği üzere (OBP puanı) okul başarı puanı 18.8822'"
+    },
+    {
+      "adi": "Altındağ Şehit Yıldız Gürsoy Kız Mesleki ve Teknik Anadolu Lisesi",
+      "giris_turu": "yerel",
+      "lgs_taban_puan": null,
+      "lgs_yuzdelik": null,
+      "lgs_yil": null,
+      "kaynak": "https://terapotikakademi.com/ankara-yerel-yerlestirme-ile-ogrenci-alan-okullarin-taban-puanlari",
+      "baglam": "Tamamen sınavsız (yerel yerleştirme / Anadolu Meslek Programı, Kız). MEB 2025 sınavlı listesinde yok; merkezi kontenjanı yok. 2025 yerel yerleştirme OBP taban puanı 43.1227 (2023: 49.2480, 2021: 56.2891).",
+      "alinti": "Terapotikakademi 'Sınavsız OBP ile öğrenci alan okullar' listesi: ALTINDAĞ — Altındağ Şehit Yıldız Gürsoy Kız MTAL / Anadolu Meslek Programı / Kayıt Alanında / Taban OBP: 43.1227"
+    },
+    {
+      "adi": "Süleyman Şah Mesleki ve Teknik Anadolu Lisesi",
+      "giris_turu": "yerel",
+      "lgs_taban_puan": null,
+      "lgs_yuzdelik": null,
+      "lgs_yil": null,
+      "kaynak": "https://www.hangisoru.com/lgs-tercih-robotu/suleyman-sah-mesleki-ve-teknik-anadolu-lisesi-2567",
+      "baglam": "Tamamen sınavsız (yerel yerleştirme / Anadolu Meslek Programı). MEB 2025 sınavlı listesinde yok; merkezi kontenjanı yok. 2025 yerel yerleştirme OBP taban puanı 44.6134 (2024: 46.1462, 2023: 53.9318, 2022: 64.3354).",
+      "alinti": "Yerleşim Şekli: Sınavsız Yerleştirme | OBP Puanı: 44.6134 — 'güncel MEB kılavuzunda belirtildiği üzere (OBP puanı) okul başarı puanı 44.6134'"
+    },
+    {
+      "adi": "Zübeyde Hanım Kız Mesleki ve Teknik Anadolu Lisesi",
+      "giris_turu": "yerel",
+      "lgs_taban_puan": null,
+      "lgs_yuzdelik": null,
+      "lgs_yil": null,
+      "kaynak": "https://terapotikakademi.com/ankara-yerel-yerlestirme-ile-ogrenci-alan-okullarin-taban-puanlari",
+      "baglam": "Tamamen sınavsız (yerel yerleştirme / Anadolu Meslek Programı, Kız). MEB 2025 sınavlı listesinde yok; merkezi kontenjanı yok. 2025 yerel yerleştirme OBP taban puanı 38.8597. NOT: hangisoru.com'da aynı isimli Hatay/Kırıkhan'daki okul karışıklık yaratmaktadır; Ankara Altındağ kaydı terapotikakademi sınavsız listesindedir.",
+      "alinti": "Terapotikakademi 'Sınavsız OBP ile öğrenci alan okullar' listesi: ALTINDAĞ — Zübeyde Hanım Kız MTAL / Anadolu Meslek Programı / Kayıt Alanında / Taban OBP: 38.8597"
+    },
+    {
+      "adi": "Çamlık Mesleki ve Teknik Anadolu Lisesi (Kız)",
+      "giris_turu": "yerel",
+      "lgs_taban_puan": null,
+      "lgs_yuzdelik": null,
+      "lgs_yil": null,
+      "kaynak": "https://www.hangisoru.com/lgs-tercih-robotu/camlik-mesleki-ve-teknik-anadolu-lisesi-13178",
+      "baglam": "Tamamen sınavsız (yerel yerleştirme / Anadolu Meslek Programı, Kız). MEB 2025 sınavlı listesinde yok; merkezi kontenjanı yok. 2025 yerel yerleştirme OBP taban puanı 22.094 (2024: 33.892, 2023: 61.7133, 2022: 48.4302, 2021: 52.1586).",
+      "alinti": "Yerleşim Şekli: Sınavsız Yerleştirme | OBP Puanı: 61.7133 (2023) — dersten.com: '2025 LGS sınavında yerel yerleştirme ile yani sınavsız öğrenci alacak okullar arasında yer almaktadır'; terapotikakademi 2025 OBP: 22.094"
+    }
+  ]
+}

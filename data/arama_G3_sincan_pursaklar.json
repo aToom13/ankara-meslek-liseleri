@@ -1,0 +1,72 @@
+{
+  "meta": {
+    "arastirma": "Ankara Sincan+Pursaklar Özel MTAL LGS Taban Puanı Araştırması",
+    "tarih": "2026-08-05",
+    "okul_sayisi": 6,
+    "puan_bulunan": 1,
+    "puan_bulunamayan": 5,
+    "not": "6 özel okulun tamamı MEB merkezi yerleştirme (LGS taban puanı) listelerinde yer almıyor; hangisoru.com, tabanpuanlari.net, rehberim.gen.tr, e-sehir.com, sinav.com.tr Sincan listeleri yalnızca devlet okullarını içeriyor. TEK SAYISAL VERİ: Özel ASO Teknik Koleji'nin resmi 2026-2027 kayıt duyurusunda kesin kayıt kabul aralığı Türkiye geneli yüzdelik dilim 0,00-6,00 olarak açıklandı (lgs_yuzdelik 6.0, lgs_yil 2026; bu okulun kendi kayıt kriteridir, MEB taban puanı değildir). ÖZEL BULGULAR: (1) Özel Akıllı Okul Sincan MTAL 2019'da KHK ile KAPATILDI (Sincan İlçe MEM duyurusu 02.08.2019; FETÖ soruşturması kapsamındaki Akıllı Okullar grubuna aitti); (2) egitimedair.com'daki Darüşşifa Sincan 'Taban 450/Tavan 480' kaydı ŞABLON VERİDİR — aynı sitedeki Özel Eryaman MTAL ve Özel Tulpar Havacılık MTAL kayıtlarıyla birebir aynı (aynı 450-480, aynı 25000₺ kayıt/500₺ servis/7500₺ yemek, aynı buz pisti/olimpik havuz imkanları, aynı tanıtım metni), kurum tarafından doğrulanmış gerçek taban puanı değildir, bu yüzden puan null bırakıldı; (3) Devlet okulu karışıklığı: 'ASO Teknik Koleji' özel kurumdur (ASO Eğitim Vakfı), Sincan MEB listelerinde ASO adıyla devlet okulu yok; Deva için Kocaeli'deki Özel Gebze Deva MTAL ve Gaziantep'teki Özel Deva Fen ve Teknoloji Lisesi ile karıştırılmamalıdır.",
+    "kapatilan_okullar": [
+      "Özel Akıllı Okul Sincan Mesleki ve Teknik Anadolu Lisesi (2019 KHK ile kapatıldı)"
+    ],
+    "sablon_veri_uyarisi": [
+      "Özel Ankara Darüşşifa Sincan MTAL — egitimedair.com 450/480 (Eryaman ve Tulpar MTAL kayıtlarıyla birebir aynı şablon)"
+    ]
+  },
+  "okullar": [
+    {
+      "adi": "Özel Akıllı Okul Sincan Mesleki ve Teknik Anadolu Lisesi",
+      "lgs_taban_puan": null,
+      "lgs_yuzdelik": null,
+      "lgs_yil": null,
+      "kaynak": "https://sincan.meb.gov.tr/www/kapatilan-ozel-akilli-okul-sincan-mesleki-ve-teknik-anadolu-lisesi-ogrenci-velilerinin-dikkatine/icerik/997",
+      "baglam": "OKUL KAPATILMIŞTIR. Sincan İlçe Milli Eğitim Müdürlüğü'nün 02.08.2019 tarihli duyurusuna göre Özel Akıllı Okul Sincan MTAL, 6749 sayılı OHAL KHK'sı kapsamında oluşturulan komisyonun 25 sayılı kararı gereğince kapatılmış; velilerin nakil işlemleri için 05-23/08/2019 arasında müdürlüğe başvurması istenmiştir. Okul, 2018'de FETÖ soruşturması kapsamında operasyon düzenlenen Akıllı Okullar grubuna (kurucu İdris Yurteri) aitti; AA/TRT Haber kayıtlarında 'Özel Akıllı Okul Sincan MTAL (Sincan Teknoloji ve İnovasyon Lisesi)' soruşturma kapsamındaki 12 okul arasında listelenmiştir. Okul faal olmadığı için 2026 veya 2025 LGS taban puanı yoktur; ana veri dosyasındaki kayıt (Pınarbaşı Mah. Kuyumcu Cad. No:98) tarihsel olarak doğru ama güncel değildir. (d) hiçbir şey yok — okul kapalı.",
+      "alinti": "KAPATILAN ÖZEL AKILLI OKUL SİNCAN MESLEKİ VE TEKNİK ANADOLU LİSESİ ÖĞRENCİ VELİLERİNİN DİKKATİNE ... 6749 sayılı ... KHK ... komisyonun 25 sayılı kararı gereğince kapatılmıştır."
+    },
+    {
+      "adi": "Özel Anka Anakent Mesleki ve Teknik Anadolu Lisesi",
+      "lgs_taban_puan": null,
+      "lgs_yuzdelik": null,
+      "lgs_yil": null,
+      "kaynak": "https://sinavizcisi.com/lise/ozel-anka-anakent-mesleki-ve-teknik-anadolu-lisesi--16481012/",
+      "baglam": "Özel okul olduğu için MEB merkezi yerleştirme listelerinde yer almıyor; hangisoru/ tabanpuanlari/ rehberim/ e-sehir Sincan listelerinde bu okul yok. sinavizcisi.com'da okul kaydı mevcut (2022-2025 dönemi, 78 mezun, mezuna bırakma oranı %100 olarak görünüyor — veri analizi sayfası, LGS puanı içermiyor). 2015 tarihli özel okullar listesinde (ozelokuldanismanlik.com) hem 'Özel Anka Anakent Ankara Anadolu Lisesi' hem 'Özel Anka Anakent MTAL' aynı adreste (Selçuklu Mah. Prof. Dr. Necmettin Erbakan Cad. No:30A, 312 260 01 12) kayıtlı. LinkedIn kayıtlarında okulun bir dönem 'Anadolu Sağlık Meslek Lisesi' olarak da adlandırıldığı görülüyor (hemşirelik/hemşire yardımcılığı mezunları). Okulun güncel bir web sitesi ve yayınlanmış LGS puan eşiği/burs eşiği bulunamadı; 2026 veya 2025 için puan bulunamadı. (d) hiçbir şey yok — kayıt/burs eşiği yayınlanmamış.",
+      "alinti": "ÖZEL ANKA ANAKENT MESLEKİ VE TEKNİK ANADOLU LİSESİ ... 2022-2025 başarı istatistikleri ... 78 mezun (sinavizcisi.com kaydı; LGS puanı içermiyor)."
+    },
+    {
+      "adi": "Özel Ankara Darüşşifa Sincan Mesleki ve Teknik Anadolu Lisesi",
+      "lgs_taban_puan": null,
+      "lgs_yuzdelik": null,
+      "lgs_yil": null,
+      "kaynak": "https://egitimedair.com/kurum/ozel-ankara-darussifa-sincan-mesleki-ve-teknik-anadolu-lisesi-34936",
+      "baglam": "Özel okul, MEB merkezi yerleştirmede yok. egitimedair.com kurum kaydında '2026 Yılı Puanlar: Taban 450 / Tavan 480' görünüyor ancak bu değer GÜVENİLİR DEĞİL: aynı sitedeki Özel Eryaman MTAL ve Özel Tulpar Havacılık MTAL kayıtlarıyla birebir aynı şablon (aynı 450-480 puan aralığı, aynı ücretler: kayıt 25000₺, servis 500₺, yemek 7500₺, aynı imkan listesi: buz pisti, olimpik havuz, aynı tanıtım metni) — kurum tarafından doğrulanmış gerçek taban puanı değildir, bu yüzden puan null bırakıldı. Resmi site darussifasincan.com.tr (312 261 20 02) erişim denemesinde yanıt vermedi (site aktif görünmüyor/erişilemiyor). iyiokullar.com.tr'de okul kaydı var ama fiyat ve puan VERİ YOK. sinavizcisi.com'da 2022-2025 dönemi mezun analizi var (197 mezun, sağlık ağırlıklı tercihler — İlk ve Acil Yardım, Laborant, Engelli Bakımı), bu okulun yakın zamana kadar öğrenci mezun ettiğini gösteriyor. Resmi LGS puan eşiği/burs eşiği yayınlanmamış; 2026 veya 2025 için doğrulanmış puan bulunamadı. (d) hiçbir şey yok — tek sayısal veri şablon kayıt.",
+      "alinti": "2026 Yılı Puanlar: Taban Puan 450 | Tavan Puan 480 (egitimedair.com — şablon kayıt, Özel Eryaman ve Özel Tulpar MTAL kayıtlarıyla birebir aynı)."
+    },
+    {
+      "adi": "Özel Ankara Sanayi Odası (ASO) Teknik Koleji Mesleki ve Teknik Anadolu Lisesi",
+      "lgs_taban_puan": null,
+      "lgs_yuzdelik": 6.0,
+      "lgs_yil": 2026,
+      "kaynak": "https://www.asotek.k12.tr/duyurular/2026-2027-egitim-ogretim-yili-kayit-donemi-bilgilendirmesi",
+      "baglam": "Özel okul olduğu için MEB merkezi yerleştirme listelerinde yok; Sincan devlet okulu listelerinde ASO adıyla okul bulunmuyor (Sincan'daki devlet MTAL'ler Fatih, Şehit Özgür Can İnce, Şehit Erdal Koçak, Başkent OSB, Ahmet Andiçen'dir) — devlet okulu karışıklığı yok, 'ASO Teknik Koleji' özel kurumdur (ASO Eğitim Vakfı'na bağlı). RESMİ KAYIT EŞİĞİ BULUNDU: resmi sitedeki 2026-2027 Kayıt Dönemi Bilgilendirmesi duyurusuna (27.06.2026) göre 'Kesin kayıt kabul aralığı, Türkiye geneli yüzdelik dilim 0,00 – 6,00 arasında olan öğrencileri kapsamaktadır'; kayıt dönemi 13-31 Temmuz 2026 ve okul 'tüm öğrencilerimize %100 burslu eğitim' veriyor. Kayıt Kılavuzu PDF'inde de (asotek.k12.tr/uploads/2026-2027-kayit-klavuzu.pdf) ön kayıtta öğrencilerin 'Türkiye geneli yüzdelik başarı dilimine göre sıralandığı' ve kontenjan kadar kesin kayıt yapıldığı belirtiliyor; kurumsal sayfada 2024-2025'te %3,79 yüzdelik dilim ortalamasıyla kayıt tamamlandığı yazıyor. Bu bir LGS taban PUANI değil, okulun kendi kayıt/kabul eşiğidir: lgs_yuzdelik 6.0 olarak kaydedildi (kabul edilen en kötü yüzdelik dilim üst sınırı; yani %6'lık dilime kadar olan öğrenciler). lgs_taban_puan null çünkü okul puan değil yüzdelik dilim eşiği duyuruyor. (b)/(c) burs eşiği ve kendi kayıt kriteri.",
+      "alinti": "Kesin kayıt kabul aralığı, Türkiye geneli yüzdelik dilim 0,00 – 6,00 arasında olan öğrencileri kapsamaktadır. (ASO Teknik Koleji resmi duyuru, 2026-2027)"
+    },
+    {
+      "adi": "Özel Deva Mesleki ve Teknik Anadolu Lisesi",
+      "lgs_taban_puan": null,
+      "lgs_yuzdelik": null,
+      "lgs_yil": null,
+      "kaynak": "https://deva.k12.tr/",
+      "baglam": "Özel okul, MEB merkezi yerleştirmede yok. Deva Koleji grubu Sincan'da faal; resmi site deva.k12.tr (312 277 5500, Menderes Mah. 788 Cad. Deva Koleji Blok No:1). Grubun kayıt işlemleri sayfasında (devaokullari.k12.tr) Anadolu Lisesi için 'Okula Kabul Sınavı' (Deva Okullarına Giriş Sınavı + PDR + idari görüşme), Fen ve Teknoloji Lisesi için 'LGS puanı ve yüzdelik dilimine bakılır' deniyor; ancak MTAL için ayrı bir LGS puan eşiği veya burs eşiği yayınlanmamış. DİKKAT - karıştırma riski: 'Özel Gebze Deva MTAL' (Kocaeli) ve 'Özel Deva Fen ve Teknoloji Lisesi' (Gaziantep) aynı grubun farklı illerdeki okullarıdır; aranan Sincan'daki MTAL'dir. 2015 özel okullar listesinde Özel Deva MTAL, Menderes Mah. Yavuz Sultan Selim Cad. No:35 adresiyle kayıtlı. Güncel resmi sitede lise türleri arasında MTAL yerine Anadolu Lisesi/Fen ve Teknoloji Lisesi öne çıkıyor; MTAL unvanının güncel durumu okulla teyit edilmeli. 2026 veya 2025 için LGS puanı bulunamadı. (d) hiçbir şey yok — MTAL için eşik yayınlanmamış.",
+      "alinti": "ANADOLU LİSESİ ... 'Okula Kabul Sınavı' neticesinde ... kaydı gerçekleşir. FEN VE TEKNOLOJİ LİSESİ ... öğrencinin LGS puanı ve LGS sonucundaki yüzdelik dilimine bakılır. (devaokullari.k12.tr Kayıt İşlemleri)"
+    },
+    {
+      "adi": "Özel Pursaklar Ankatek Koleji Mesleki ve Teknik Anadolu Lisesi",
+      "lgs_taban_puan": null,
+      "lgs_yuzdelik": null,
+      "lgs_yil": null,
+      "kaynak": "https://www.ankatekkoleji.com/",
+      "baglam": "Özel okul, MEB merkezi yerleştirmede yok. Resmi site ankatekkoleji.com faal; okul kendini '%100 Devlet Destekli Meslek Lisesi' olarak tanıtıyor ve 'Her Öğrenciye Tam Burs: öğrencilerimizin tamamına %100 eğitim bursu vererek ücretsiz özel eğitim imkanı sağlıyoruz' diyor (yani ücret değil burs modeli). Pursaklar kampüsü (Saray Cumhuriyet Mah. Işık Sk. No:6/1) ve Etimesgut kampüsü olmak üzere iki kampüs var; aranan Pursaklar kampüsüdür. Kayıt Bilgileri sayfası içerik olarak boş (başlık dışında bilgi yok); okul kendi sınav başvuru sistemi (ankatek.eyotek.com STS) üzerinden bursluluk/kabul sınavı yapıyor. Alanlar: Endüstriyel Bakım ve Onarım, Elektrik Tesisatları ve Dağıtımı (Elektrik-Elektronik Teknolojisi). LGS puan eşiği veya yüzdelik dilim eşiği yayınlanmamış; 2026 veya 2025 için puan bulunamadı. (c) kendi bursluluk/kabul sınavı var — LGS eşiği yok.",
+      "alinti": "%100 Devlet Destekli Meslek Lisesi ... Her Öğrenciye Tam Burs: öğrencilerimizin tamamına %100 eğitim bursu vererek ücretsiz özel eğitim imkanı sağlıyoruz. (ankatekkoleji.com)"
+    }
+  ]
+}

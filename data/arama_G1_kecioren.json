@@ -1,0 +1,129 @@
+{
+  "meta": {
+    "arastirma": "Ankara Keçiören Özel Mesleki ve Teknik Anadolu Liseleri LGS Taban Puanı Araştırması",
+    "tarih": "2026-08-05",
+    "okul_sayisi": 13,
+    "puan_bulunan": 0,
+    "puan_bulunamayan": 13,
+    "not": "Özel okullar MEB merkezi yerleştirmede yer almaz; taban puanları kamuya açık merkezi yerleştirme verisi olarak bulunmamaktadır. Bu 13 okulun hiçbiri TÖZOK LGS puanıyla öğrenci alan özel okullar listesinde de yer almamaktadır. Okullar doğrudan kayıt/burs süreciyle öğrenci almaktadır; resmi sitelerinde açıklanmış bir LGS taban puanı/burs eşiği tespit edilememiştir. İki 'Akıllı Okul' okulu 2018 FETÖ soruşturması kapsamında kapatılmıştır."
+  },
+  "okullar": [
+    {
+      "adi": "Özel Akıllı Okul Keçiören Mesleki ve Teknik Anadolu Lisesi",
+      "lgs_taban_puan": null,
+      "lgs_yuzdelik": null,
+      "lgs_yil": null,
+      "kaynak": "https://www.aa.com.tr/tr/15-temmuz-darbe-girisimi/ozel-akilli-okullara-feto-sorusturmasi/1224359",
+      "baglam": "Okul 2018 FETÖ soruşturması kapsamında kapatılmıştır (Anadolu Ajansı 07.08.2018). Keçiören MEM 2021 özel okullar listesinde yer almamaktadır. Mevcut bir kayıt/burs süreci ve yayınlanmış LGS taban puanı yoktur.",
+      "alinti": "FETÖ soruşturması kapsamında, Özel Akıllı Okulların sahibi Yurteri'nin de aralarında bulunduğu 37 yönetici ve öğretmen hakkında gözaltı kararı çıkartıldı... konu okullar: Özel Akıllı Okul Keçiören Mesleki ve Teknik Anadolu Lisesi..."
+    },
+    {
+      "adi": "Özel Akıllı Okul Keçiören Vecihi Hürkuş Mesleki ve Teknik Anadolu Lisesi",
+      "lgs_taban_puan": null,
+      "lgs_yuzdelik": null,
+      "lgs_yil": null,
+      "kaynak": "https://www.aa.com.tr/tr/15-temmuz-darbe-girisimi/ozel-akilli-okullara-feto-sorusturmasi/1224359",
+      "baglam": "Okul 2018 FETÖ soruşturması kapsamında kapatılmıştır (Anadolu Ajansı 07.08.2018; 'Akıllı Okullar Keçiören Sivil Havacılık Lisesi' adıyla anılıyordu). Keçiören MEM 2021 özel okullar listesinde yer almamaktadır. Yayınlanmış LGS taban puanı yoktur.",
+      "alinti": "...konu okullar: ... Özel Akıllı Okul Keçiören Vecihi Hürkuş Mesleki ve Teknik Anadolu Lisesi (Akıllı Okullar Keçiören Sivil Havacılık Lisesi)."
+    },
+    {
+      "adi": "Özel Ankara Ayyıldız Mesleki ve Teknik Anadolu Lisesi",
+      "lgs_taban_puan": null,
+      "lgs_yuzdelik": null,
+      "lgs_yil": null,
+      "kaynak": "https://www.ankaraayyildiz.com.tr/",
+      "baglam": "Aktif sağlık meslek lisesi (Keçiören MEM 2021 özel okullar listesinde yer alır). Resmi sitesinde LGS taban puanı veya burs eşiği yayınlanmamıştır; kayıt için telefon ile iletişim kurulması istenmektedir. Sinavizcisi sayfası yalnızca YKS yerleşme istatistikleri içerir.",
+      "alinti": "KAYIT VE DETAYLI BİLGİ İÇİN BİZE ULAŞIN... (resmi site ankaraayyildiz.com.tr, kayıt başvuru bilgisi)"
+    },
+    {
+      "adi": "Özel Ankara Buluş Mesleki ve Teknik Anadolu Lisesi",
+      "lgs_taban_puan": null,
+      "lgs_yuzdelik": null,
+      "lgs_yil": null,
+      "kaynak": "https://sinavizcisi.com/lise/ozel-ankara-bulus-mesleki-ve-teknik-anadolu-lisesi--16138701/",
+      "baglam": "Aktif (Keçiören MEM 2021 özel okullar listesinde yer alır). LGS taban puanı, burs eşiği veya kayıt şartı olarak puan yayınlanmamıştır; bulunan kaynaklar yalnızca YKS yerleşme verisi içerir.",
+      "alinti": "ÖZEL ANKARA BULUŞ MESLEKİ VE TEKNİK ANADOLU LİSESİ - Lise Detayları: 2022-2025 başarı istatistikleri, 11 mezun..."
+    },
+    {
+      "adi": "Özel Ankara Çınar Mesleki ve Teknik Anadolu Lisesi",
+      "lgs_taban_puan": null,
+      "lgs_yuzdelik": null,
+      "lgs_yil": null,
+      "kaynak": "https://www.ankarahayati.com/ozel-ankara-cinar-mesleki-ve-teknik-anadolu-lisesi",
+      "baglam": "Aktif (adres: Çiçekli Mah. Selçuklu Cad. Tansel Sok. No:28 Keçiören; iletişim 0549 359 08 85). Sinavizcisi YKS verisi 2025'e kadar mevcut. LGS taban puanı veya burs eşiği yayınlanmamıştır.",
+      "alinti": "Özel Ankara Çınar Mesleki Ve Teknik Anadolu Lisesi ... Adres: ÇİÇEKLİ MAH.SELÇUKLU CAD.TANSEL SOK.NO:28 KEÇİÖREN/ANKARA"
+    },
+    {
+      "adi": "Özel Ankara İbn-i Sina Mesleki ve Teknik Anadolu Lisesi",
+      "lgs_taban_puan": null,
+      "lgs_yuzdelik": null,
+      "lgs_yil": null,
+      "kaynak": "https://sinavizcisi.com/lise/ozel-ankara-ibn-i-sina-mesleki-ve-teknik-anadolu-lisesi--16137827/",
+      "baglam": "Aktif (sinavizcisi YKS verisi 2025'e kadar mevcut). DİKKAT: Devlet okulu 'Keçiören İbn-i Sina MTAL' ile karıştırılmamalıdır — devlet okulunun 2025 taban puanı 342,1832 (yüzde 21,53) olup merkezi yerleştirme verisidir; özel okul için yayınlanmış taban puan yoktur.",
+      "alinti": "ÖZEL ANKARA İBN-İ SİNA MESLEKİ VE TEKNİK ANADOLU LİSESİ - Lise Detayları: ANKARA / KEÇİÖREN, 2022-2025 başarı istatistikleri..."
+    },
+    {
+      "adi": "Özel Anlam Mesleki ve Teknik Anadolu Lisesi",
+      "lgs_taban_puan": null,
+      "lgs_yuzdelik": null,
+      "lgs_yil": null,
+      "kaynak": "https://kecioren.meb.gov.tr/www/ozel-ogretim-kurumlari-liseler/icerik/2245",
+      "baglam": "Aktif sağlık meslek lisesi (Keçiören MEM 2021 özel okullar listesinde 'ÖZEL ANLAM MESLEKİ VE TEKNİK ANADOLU LİSESİ' olarak yer alır; adres Pınarbaşı Şehit Hakan Turan Cad.). LGS taban puanı veya burs eşiği yayınlanmamıştır.",
+      "alinti": "ÖZEL ANLAM MESLEKİ VE TEKNİK ANADOLU LİSESİ (Keçiören İlçe Milli Eğitim Müdürlüğü Özel Öğretim Kurumları listesi, 17.03.2021)"
+    },
+    {
+      "adi": "Özel Ataçağ Mesleki ve Teknik Anadolu Lisesi",
+      "lgs_taban_puan": null,
+      "lgs_yuzdelik": null,
+      "lgs_yil": null,
+      "kaynak": "https://www.atacag.com/",
+      "baglam": "Aktif sağlık meslek lisesi (resmi site atacag.com). Site doğrudan kayıt esaslıdır: 'Erken Kayıt İndiriminden Yararlanın', '9.10.11.12 Sınıflar İçin Öğrenci Alımı Yapılmaktadır'. LGS taban puanı veya burs eşiği yayınlanmamıştır.",
+      "alinti": "Erken Kayıt İndiriminden Yararlanın! 9.10.11.12 Sınıflar İçin Öğrenci Alımı Yapılmaktadır... KAYIT İÇİN İSTENEN BELGELER: Öğrenci Kimlik Fotokopisi..."
+    },
+    {
+      "adi": "Özel Etlik Anlam Mesleki ve Teknik Anadolu Lisesi",
+      "lgs_taban_puan": null,
+      "lgs_yuzdelik": null,
+      "lgs_yil": null,
+      "kaynak": "https://www.e-sehir.com/turkiye-haritasi/ozel-etlik-anlam-mesleki-ve-teknik-anadolu-lisesi-ankara-kecioren-ulasim.html",
+      "baglam": "Aktif (adres: Aşağı Eğlence Mah. Atadan Cadde No:3 Keçiören; sinavizcisi YKS verisi 2025'e kadar mevcut). LGS taban puanı veya burs eşiği yayınlanmamıştır.",
+      "alinti": "Özel Etlik Anlam Mesleki ve Teknik Anadolu Lisesi, Aşağı Eğlence Mah. Atadan Cadde No:3 Pk:06010 Keçiören, Ankara"
+    },
+    {
+      "adi": "Özel Fatih İlgi Mesleki ve Teknik Anadolu Lisesi",
+      "lgs_taban_puan": null,
+      "lgs_yuzdelik": null,
+      "lgs_yil": null,
+      "kaynak": "https://lise.gen.tr/ozel-fatih-ilgi-anadolu-saglik-meslek-lisesi/",
+      "baglam": "Aktif sağlık meslek lisesi (Keçiören MEM 2021 özel okullar listesinde 'ÖZEL FATİH İLGİ MESLEKİ VE TEKNİK ANADOLU LİSESİ' olarak yer alır; adres Kavacık Subayevleri Mah. Üsküdar Sok. No:12). LGS taban puanı veya burs eşiği yayınlanmamıştır.",
+      "alinti": "Ankara'nın Keçiören ilçesinde bulunan Özel Fatih İlgi Anadolu Sağlık Meslek Lisesi... Sınıf Mevcudu: 20, Okul Saatleri: Tam gün: 08:30/17:00"
+    },
+    {
+      "adi": "Özel Gönül Yılmaz Mesleki ve Teknik Anadolu Lisesi",
+      "lgs_taban_puan": null,
+      "lgs_yuzdelik": null,
+      "lgs_yil": null,
+      "kaynak": "https://www.iyiokullar.com.tr/ozel-gonul-yilmaz-mesleki-ve-teknik-anadolu-lisesi",
+      "baglam": "Aktif sağlık meslek lisesi (Keçiören MEM 2021 özel okullar listesinde yer alır; adres Pınarbaşı Mah. Aksaray Cad. No:30). iyiokullar.com.tr sayfasında yıllık ücret ve sıralama verisi 'VERİ YOK' olarak işaretli; LGS taban puanı veya burs eşiği yayınlanmamıştır.",
+      "alinti": "ÖZEL GÖNÜL YILMAZ MESLEKİ VE TEKNİK ANADOLU LİSESİ ... Yıllık Ücret VERİ YOK ... ADRES: PINARBAŞI MAH. AKSARAY CADDE NO:30 KEÇİÖREN / ANKARA"
+    },
+    {
+      "adi": "Özel Keçiören Murat Yıldırım Mesleki ve Teknik Anadolu Lisesi",
+      "lgs_taban_puan": null,
+      "lgs_yuzdelik": null,
+      "lgs_yil": null,
+      "kaynak": "https://www.listelese.com/ankara-kecioren-ozel-kecioren-murat-yildirim-mesleki-ve-tekni-bilgileri",
+      "baglam": "Aktif (adres: Kanuni Mah. Osmangazi Cad. No:130 Keçiören; sinavizcisi YKS verisi 2025'e kadar mevcut). LGS taban puanı veya burs eşiği yayınlanmamıştır.",
+      "alinti": "ÖZEL KEÇİÖREN MURAT YILDIRIM MESLEKİ VE TEKNİK ANADOLU LİSESİ ... KANUNİ MAH. OSMANGAZİ CAD. NO: 130 İÇ KAPI NO: 1 KEÇİÖREN / ANKARA"
+    },
+    {
+      "adi": "Özel İlke Mesleki ve Teknik Anadolu Lisesi",
+      "lgs_taban_puan": null,
+      "lgs_yuzdelik": null,
+      "lgs_yil": null,
+      "kaynak": "https://lise.gen.tr/ozel-kecioren-ilke-koleji-anadolu-saglik-ve-meslek-lisesi/",
+      "baglam": "Aktif sağlık meslek lisesi (Keçiören MEM 2021 özel okullar listesinde 'ÖZEL İLKE MESLEKİ VE TEKNİK ANADOLU LİSESİ' olarak yer alır; 'Özel Keçiören İlke Koleji Anadolu Sağlık ve Meslek Lisesi' adıyla da geçer, adres Atapark Mah. Çambaşı Cad. No:78). LGS taban puanı veya burs eşiği yayınlanmamıştır.",
+      "alinti": "Özel Keçiören İlke Koleji Anadolu Sağlık ve Meslek Lisesi ... Atapark Mahallesi, Çambaşı Caddesi, No:78 Keçiören/Ankara, 0 312 323 9191"
+    }
+  ]
+}

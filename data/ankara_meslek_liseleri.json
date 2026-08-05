@@ -3279,13 +3279,14 @@
         "Elektrik-Elektronik Teknolojisi"
       ],
       "lgs_taban_puan": null,
-      "lgs_yuzdelik": null,
-      "lgs_yil": null,
+      "lgs_yuzdelik": 6.0,
+      "lgs_yil": 2026,
       "giris_turu": "ozel_okul",
       "alan_puanlari": [],
       "kaynak": [
         "https://ozelokulkolej.com/ankara-mesleki-ve-teknik-liseler",
-        "https://www.asotek.k12.tr"
+        "https://www.asotek.k12.tr",
+        "https://www.asotek.k12.tr/duyurular/2026-2027-egitim-ogretim-yili-kayit-donemi-bilgilendirmesi"
       ]
     },
     {

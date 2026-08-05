@@ -1,0 +1,68 @@
+{
+  "okullar": [
+    {
+      "adi": "Özel Akıllı Okul Etimesgut Mesleki ve Teknik Anadolu Lisesi",
+      "lgs_taban_puan": null,
+      "lgs_yuzdelik": null,
+      "lgs_yil": null,
+      "kaynak": null,
+      "baglam": "Özel okul olduğu için MEB merkezi yerleştirme (LGS taban puanı) listelerinde yer almıyor; hangisoru.com, rehberim.gen.tr, bilimsenligi.com ve e-sehir.com Etimesgut LGS listelerinde devlet okulları (Cezeri Yeşil Teknoloji MTAL, Elvanköy Borsa İstanbul MTAL vb.) dışında bu okul bulunamadı. Akıllı Okullar grubu (akilliegitim.com.tr) faal görünüyor; 2016 yılında kendi bursluluk sınavını yaptığına dair kayıt var (okulbilgileri.net) ama LGS puan eşiği/burs eşiği yayınlanmamış. Grubun 2018'de FETÖ soruşturması geçirdiği haberleri mevcut (ahaber.com.tr), güncel kayıt şartları okuldan teyit edilmeli. 2026 veya 2025 için LGS puanı bulunamadı.",
+      "alinti": "Özel Akıllı Okul Etimesgut Mesleki ve Teknik Anadolu Lisesi... MEB tercih listelerinde özel okul olarak yer almaz; yalnızca bursluluk sınavı duyurularına rastlandı."
+    },
+    {
+      "adi": "Özel Akıllı Okul Vecihi Hürkuş Mesleki ve Teknik Anadolu Lisesi",
+      "lgs_taban_puan": null,
+      "lgs_yuzdelik": null,
+      "lgs_yil": null,
+      "kaynak": null,
+      "baglam": "Özel okul olarak MEB merkezi yerleştirme listelerinde yer almıyor. DİKKAT - karıştırma riski: Aramalarda çıkan 'Vecihi Hürkuş Anadolu Lisesi' (449,2557 puan, %3,77 yüzdelik, 2025) Keçiören'deki DEVLET proje okuludur, Etimesgut'taki özel Akıllı Okul grubu okuluyla ilgisi yoktur. FETÖ soruşturması haberinde grubun 'Özel Akıllı Okul Çankaya Vecihi Hürkuş MTAL' ve 'Keçiören Vecihi Hürkuş MTAL' birimleri geçiyor; Etimesgut'ta bu isimle LGS puanı/burs eşiği yayınlanmış bir kayıt bulunamadı. 2026 veya 2025 için puan bulunamadı.",
+      "alinti": "Keçiören / Vecihi Hürkuş Anadolu Lisesi | 449,2557 | 3,77 | Anadolu Lisesi (devlet okulu — aradığımız özel okul değildir)."
+    },
+    {
+      "adi": "Özel Eryaman Mesleki ve Teknik Anadolu Lisesi",
+      "lgs_taban_puan": null,
+      "lgs_yuzdelik": null,
+      "lgs_yil": null,
+      "kaynak": "https://egitimedair.com/kurum/ozel-eryaman-mesleki-ve-teknik-anadolu-lisesi-12029",
+      "baglam": "Özel okul, MEB merkezi yerleştirmede yok. egitimedair.com kurum kaydında '2026 Yılı Puanlar: Taban 450 / Tavan 480' görünüyor ancak bu değer GÜVENİLİR DEĞİL: aynı sitedeki Özel Tulpar Havacılık MTAL kaydında da birebir aynı 450-480 aralığı, aynı ücretler (kayıt 25000₺, servis 500₺, yemek 7500₺), aynı imkan listesi (buz pisti, olimpik havuz) ve aynı tanıtım metni yer alıyor — bu site şablonu/placeholder verisidir, kurum tarafından doğrulanmış gerçek taban puanı değil. Okulun resmi sitesi eryamanasml.com adresinde; sinavizcisi.com'da 2022-2025 mezun analizi var ama LGS puanı yok. 2026 veya 2025 için doğrulanmış puan bulunamadı.",
+      "alinti": "2026 Yılı Puanlar: Taban Puan 450 | Tavan Puan 480 (egitimedair.com — şablon kayıt, diğer özel okullarla birebir aynı)."
+    },
+    {
+      "adi": "Özel Kariyer Etimesgut Mesleki ve Teknik Anadolu Lisesi",
+      "lgs_taban_puan": null,
+      "lgs_yuzdelik": null,
+      "lgs_yil": null,
+      "kaynak": "https://www.kariyerkoleji.com.tr/tr/ozel-kariyer-anadolu-meslek-lisesi-etimesgut",
+      "baglam": "Özel okul, MEB merkezi yerleştirmede yok. Resmi site kariyerkoleji.com.tr'deki 'Tarihçemiz' sayfasında okulun 2013'te Sağlık Meslek Lisesi ve Adalet Meslek Lisesi olarak açıldığı, 'günümüzde Anadolu Lisesi ve Ortaokul olarak devam ettiği' yazıyor — MTAL unvanının güncel durumu okulla teyit edilmeli. Kurum kendi bursluluk sınavını düzenliyor (BURSLULUK SINAVI duyuruları) ama LGS puan eşiği/burs eşiği yayınlanmamış. hangisoru.com, tabanpuanlari.net, bilimsenligi.com listelerinde özel okul olarak yer almıyor. 2026 veya 2025 için puan bulunamadı.",
+      "alinti": "2013 Yılında Sağlık Meslek Lisesi ve Adalet Meslek Lisesi olarak eğitim öğretime başlayan okulumuz günümüzde Anadolu Lisesi ve Ortaokul olarak eğitim öğretim hayatına devam etmektedir."
+    },
+    {
+      "adi": "Özel Umut Işılay Mesleki ve Teknik Anadolu Lisesi",
+      "lgs_taban_puan": null,
+      "lgs_yuzdelik": null,
+      "lgs_yil": null,
+      "kaynak": null,
+      "baglam": "Özel okul, MEB merkezi yerleştirmede yok. sinavizcisi.com'da okul kaydı (Eryaman Mah. 326 Sk. No:14, 53 yerleşen, 2022-2025 mezun analizi) ve listelese.com'da adres/telefon (+90 312 282 25 10) mevcut; resmi web sitesi görünmüyor. LGS taban puanı, burs eşiği veya kayıt puanı yayınlanmış bir kaynak bulunamadı; hangisoru.com ve benzeri taban puanı listelerinde yer almıyor. 2026 veya 2025 için puan bulunamadı.",
+      "alinti": "ÖZEL UMUT IŞILAY MESLEKİ VE TEKNİK ANADOLU LİSESİ - ANKARA / ETİMESGUT (sinavizcisi.com kaydı; LGS puanı içermiyor)."
+    },
+    {
+      "adi": "Özel Tulpar Havacılık Mesleki ve Teknik Anadolu Lisesi",
+      "lgs_taban_puan": null,
+      "lgs_yuzdelik": null,
+      "lgs_yil": null,
+      "kaynak": "https://www.tulparokullari.com/",
+      "baglam": "Özel okul, MEB merkezi yerleştirmede yok; resmi taban puanı bulunmuyor. Resmi site (tulparokullari.com) ana sayfa, SSS ve bölüm sayfalarında LGS puanı/burs eşiği yayınlanmamış; yalnızca 'Bursluluk Sınavı Başvuru' formu var (Ankara Kampüsü: docs.google.com formu) ve SSS'de kayıt/nakil şartlarının devlet ve özel okulların genel kurallarına tabi olduğu belirtiliyor. egitimedair.com kurum kaydında '2026 Yılı Puanlar: Taban 450 / Tavan 480' görünüyor ama bu değer GÜVENİLİR DEĞİL — aynı sitedeki Özel Eryaman MTAL kaydıyla birebir aynı şablon (aynı puan aralığı, ücretler, imkanlar, metin). Puanlı yerleşme iddiası okulla (0312 357 07 07) teyit edilmeli. iyiokullar.com.tr'de 2025-2026/2026-2027 fiyat kaydı bulunamadı. 2026 veya 2025 için doğrulanmış puan bulunamadı; tek sayısal referans şablon kaydı olduğu için puan null bırakıldı.",
+      "alinti": "Tulpar Okulları Bursluluk Sınavı Başvuru - Ankara Kampüs (resmi sitede puan eşiği yok); egitimedair.com: '2026 Yılı Puanlar: Taban Puan 450 | Tavan Puan 480' (şablon, güvenilir değil)."
+    }
+  ],
+  "meta": {
+    "arastirma_tarihi": "2026-08-05",
+    "kapsam": "Ankara Etimesgut ve Altındağ'daki 6 özel mesleki ve teknik anadolu lisesi",
+    "yontem_notu": "Özel okullar MEB merkezi yerleştirmesinde yer almadığı için hangisoru.com, tabanpuanlari.net, rehberim.gen.tr, bilimsenligi.com, e-sehir.com, sinav.com.tr taban puanı listelerinde bulunmuyor; bu listeler yalnızca sınavla öğrenci alan devlet liselerini kapsıyor. Özel okullar kendi kayıt/bursluluk sınavı sistemine göre LGS puanı kullanır; çoğu okul eşiği kamuoyuyla paylaşmıyor. Bulunan tek sayısal veri (egitimedair.com 450-480) iki farklı okulda birebir aynı göründüğü için site şablonu olarak değerlendirildi ve güvenilir puan sayılmadı. Tüm okullarda lgs_taban_puan null; okullardan doğrudan teyit önerilir.",
+    "okul_sayisi": 6,
+    "puan_bulunan": 0,
+    "puan_bulunamayan": 6,
+    "yil_2026_verisi": 0,
+    "yil_2025_verisi": 0
+  }
+}

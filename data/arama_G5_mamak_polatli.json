@@ -1,0 +1,49 @@
+{
+  "okullar": [
+    {
+      "adi": "Özel Alfa Yaşam Mesleki ve Teknik Anadolu Lisesi (Polatlı)",
+      "lgs_taban_puan": null,
+      "lgs_yuzdelik": null,
+      "lgs_yil": null,
+      "kaynak": "https://www.polatli.bel.tr/public/upload/icerikdosyalar/heYVrbQg0ZSKaEC.pdf ; https://www.ozelokuldanismanlik.com/ozel-liseler-ankara-diger-ilceler/",
+      "baglam": "Okulun varlığı Polatlı Belediyesi 2020-2024 Stratejik Planı'ndaki özel okullar listesinde ve özelokuldanismanlik.com dizininde doğrulandı. Özel okul olduğu için MEB merkezi yerleştirme kılavuzlarında yer almaz; hangisoru/tabanpuanlari.net/sinav.com.tr LGS listelerinde de görünmez. 2026 veya 2025 için yayınlanmış bir LGS taban puanı bulunamadı. Dikkat: Alfa Yaşam MTAL ile Kocatepe Koleji MTAL aynı adresi (Şehitlik Mah. Yıldıztepe Cad. No:18, Polatlı) ve aynı telefonu (312 623 41 12) paylaşıyor; ilişkili kurumlar olabilir.",
+      "alinti": "ÖZEL OKULLAR 1- Özel Alfa Yaşam Anadolu Lisesi 2- Özel Alfa Yaşam Mesleki ve Teknik Anadolu Lisesi 3- Özel Ankara Darüşşifa Polatlı Mesleki ve Teknik Anadolu Lisesi (Polatlı Belediyesi Stratejik Plan) | ÖZEL ALFA YAŞAM MESLEKİ VE TEKNİK ANADOLU LİSESİ | ŞEHİTLİK MAH. YILDIZTEPE CAD. NO: 18 İÇ KAPI NO: 1 POLATLI / ANKARA | (312) 623 41 12"
+    },
+    {
+      "adi": "Özel Ankara Darüşşifa Polatlı Mesleki ve Teknik Anadolu Lisesi (Polatlı)",
+      "lgs_taban_puan": null,
+      "lgs_yuzdelik": null,
+      "lgs_yil": null,
+      "kaynak": "https://sinavizcisi.com/lise/ozel-ankara-darussifa-polatli-mesleki-ve-teknik-anadolu-lisesi--16222360/ ; http://polatli.darussifa.com.tr/ ; https://polatli.meb.gov.tr/www/polatli-darussifa-mesleki-ve-teknik-anadolu-lisesi-erasmus-projelerini-anlatti/icerik/1657",
+      "baglam": "Okulun varlığı Polatlı İlçe Milli Eğitim Müdürlüğü haberi ve sinavizcisi.com profili ile doğrulandı (sağlık alanında eğitim veren özel okul). 2026 veya 2025 için yayınlanmış bir LGS taban puanı bulunamadı; MEB merkezi yerleştirme listelerinde özel okullar yer almadığından tabanpuanlari.net/hangisoru listelerinde yok. Okulun kendi sınav başvuru sistemi mevcut (polatli.darussifa.com.tr 'Daruşşifa Eğitim Kurumları Sınav Başvurusu' — 8., 9., 10., 11. sınıflar için form); yani kabul, kendi sınavına dayanıyor, yayınlanmış taban puan yok. sinavizcisi profili yalnızca YKS (üniversite yerleştirme) başarı analizi içeriyor. Not: Darüşşifa Sincan kampüsünün egitimedair.com sayfasında '2026 Yılı Puanlar: Taban 450 / Tavan 480' görünür ancak bu değer başka özel okul sayfalarında da (örn. Kocatepe Koleji) birebir tekrarlandığı için şablon/örnek veri olup LGS taban puanı olarak güvenilir değildir; Polatlı kampüsü için böyle bir değer de yoktur.",
+      "alinti": "Daruşşifa Eğitim Kurumları Sınav Başvurusu - Sınıfınızı Seçiniz 8. Sınıf 9. Sınıf 10. Sınıf 11. Sınıf | Polatlı Darüşşifa Mesleki ve Teknik Anadolu Lisesinin (Sağlık Meslek Lisesi) Erasmus+ Programı... (Polatlı MEM)"
+    },
+    {
+      "adi": "Özel Kocatepe Koleji Mesleki ve Teknik Anadolu Lisesi (Polatlı)",
+      "lgs_taban_puan": null,
+      "lgs_yuzdelik": null,
+      "lgs_yil": null,
+      "kaynak": "https://egitimedair.com/kurum/ozel-kocatepe-koleji-mesleki-ve-teknik-anadolu-lisesi-57103 ; https://okul.com.tr/lise/ankara-polatli-mesleki-ve-teknik-anadolu-liseleri",
+      "baglam": "egitimedair.com profili '2026 Yılı Puanlar: Taban Puan 450 / Tavan Puan 480' gösteriyor; ancak birebir aynı 450-480 değeri aynı sitedeki Özel Ankara Darüşşifa Sincan MTAL sayfasında da var. Bu, sayfanın şablon/örnek verisi olduğunu düşündürür; LGS yerleştirme puanı (500 üzerinden) gibi yorumlanmamalı ve güvenilir kabul edilmemelidir. Bu nedenle lgs_taban_puan null bırakıldı. Okul özel olduğundan MEB merkezi yerleştirmede yer almaz; hangisoru/tabanpuanlari listelerinde yok. Kocatepe Koleji MTAL, Alfa Yaşam MTAL ile aynı adresi (Şehitlik Mah. Yıldıztepe Cad. No:18, Polatlı) ve telefonu (312 623 41 12) paylaşıyor.",
+      "alinti": "2026 Yılı Puanlar | Taban Puan: 450 | Tavan Puan: 480 (egitimedair.com — diğer özel okul sayfalarında da birebir aynı, şablon veri olduğu şüpheli)"
+    },
+    {
+      "adi": "Özel Güven Anadolu Sağlık Meslek Lisesi (Mamak)",
+      "lgs_taban_puan": null,
+      "lgs_yuzdelik": null,
+      "lgs_yil": null,
+      "kaynak": "https://okul.com.tr/lise/ankara/ozel-guven-anadolu-saglik-meslek-lisesi-8288 ; https://istebuokul.com.tr/ozel-guven-anadolu-saglik-meslek-lisesi",
+      "baglam": "Okul profilleri okul.com.tr ve istebuokul.com'da mevcut (Mamak, Karaağaç Mah. Şeyh Şamil Cad. No:112, tel 312 963 1680; bölümler: Hemşire Yardımcılığı ve Biyomedikal). 2026 veya 2025 için yayınlanmış LGS taban puanı bulunamadı; özel okul olduğu için MEB merkezi yerleştirme kılavuzlarında ve hangisoru/tabanpuanlari.net/sinav.com.tr listelerinde yer almaz. Okul kendi kayıt/bursluluk sistemine göre öğrenci alır; okul.com.tr Mamak özel liseler sayfası da özel okullarda puanın genellikle okulun kendi sınavıyla belirlendiğini ve MEB taban puan listesinde yer almadığını teyit ediyor.",
+      "alinti": "'Mesleğini seç, bir adım öne geç.' sloganıyla üniversite yerleştirme başarısında da öne geçen ve tercih edilen bir eğitim kurumudur. (okul.com.tr) | ANKARA/MAMAK - Adres: Karaağaç Mah. Şeyh Şamil Cad. No:112, Mamak/Ankara (istebuokul.com)"
+    },
+    {
+      "adi": "Özel Mamak Data Koleji Mesleki ve Teknik Anadolu Lisesi (Mamak)",
+      "lgs_taban_puan": null,
+      "lgs_yuzdelik": null,
+      "lgs_yil": null,
+      "kaynak": "https://okul.com.tr/lise/ankara/ozel-mamak-data-koleji-mesleki-ve-teknik-anadolu-lisesi-16043 ; https://www.datakoleji.com/mamak-kampusu/ ; https://www.datakoleji.com/2026-2027-yeni-kayit-islemleri/",
+      "baglam": "Resmi site (datakoleji.com) incelendi: Mamak Kampüsü tanıtımı, SSS ve '2026-2027 Yeni Kayıt İşlemleri' duyurusunda LGS taban puanı veya burs/puan tablosu yer almıyor; kayıt duyurusu yalnızca 'kayıtlar başlamıştır' diyor. okul.com.tr profili ise okulun 'LGS puan şartı olmaksızın, devlet destekli' öğrenci kabul ettiğini belirtiyor — yani puan tabanı uygulamıyor (2019'da kurulmuş, tel 312 963 1027). Bu nedenle lgs_taban_puan null'dur; 'LGS puanı' kullanımı bu okul için kabul şartı değil.",
+      "alinti": "Kurum, LGS puan şartı olmaksızın, devlet destekli bir eğitim kurumudur. (okul.com.tr profil) | 2026-2027 eğitim öğretim dönemi yeni kayıtlarımız başlamıştır! Bilgi almak isteyen tüm veli ve öğrencilerimizi okullarımıza bekliyoruz. (datakoleji.com)"
+    }
+  ]
+}
