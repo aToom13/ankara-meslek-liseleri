@@ -1,0 +1,406 @@
+{
+  "ilceler": [
+    {
+      "ilce": "Polatlı",
+      "okullar": [
+        {
+          "adi": "Polatlı Mesleki ve Teknik Anadolu Lisesi",
+          "tip": "resmi",
+          "adres": "Fatih Mah. Atatürk Cad. No 189G, Polatlı/ANKARA",
+          "telefon": "0 312 623 01 40",
+          "web": "https://polatlimtal.meb.k12.tr",
+          "alanlar": ["Makine ve Tasarım Teknolojisi", "Mobilya ve İç Mekan Tasarımı", "Motorlu Araçlar Teknolojisi", "Bilişim Teknolojileri", "Elektrik-Elektronik Teknolojisi"],
+          "lgs_taban_puan": 309.611,
+          "lgs_yuzdelik": 32.12,
+          "lgs_yil": 2026,
+          "giris_turu": "merkezi_yerlestirme",
+          "alan_puanlari": [
+            {"alan": "Makine ve Tasarım Teknolojisi", "puan": 309.611, "yuzdelik": 32.12, "yil": 2026},
+            {"alan": "Makine ve Tasarım Teknolojisi", "puan": 300.469, "yuzdelik": 31.46, "yil": 2025}
+          ],
+          "kaynak": [
+            "https://tabanpuanlari.net/lgs/ankara/polatli",
+            "https://polatlimtal.meb.k12.tr"
+          ]
+        },
+        {
+          "adi": "Polatlı Gevher Nesibe Mesleki ve Teknik Anadolu Lisesi",
+          "tip": "resmi",
+          "adres": "Şentepe Mah. Can Sk. No 5, Polatlı/ANKARA",
+          "telefon": "0312 624 2822",
+          "web": "https://polatliasml.meb.k12.tr",
+          "alanlar": ["Sağlık Hizmetleri", "Kimya Teknolojisi"],
+          "giris_turu": "yerel_yerlestirme",
+          "kaynak": [
+            "https://polatliasml.meb.k12.tr/tema/okulumuz_hakkinda.php",
+            "https://sinavizcisi.com/lise/polatli-gevher-nesibe-mesleki-ve-teknik-anadolu-lisesi--16221700/"
+          ]
+        },
+        {
+          "adi": "Polatlı Fatih Ticaret Mesleki ve Teknik Anadolu Lisesi",
+          "tip": "resmi",
+          "adres": "Mehmetakif Mah. Yayla Sk. No 2, Polatlı/ANKARA",
+          "telefon": "0312 623 2440",
+          "web": "https://fatihmtal.meb.k12.tr",
+          "alanlar": ["Bilişim Teknolojileri", "Muhasebe ve Finansman"],
+          "giris_turu": "yerel_yerlestirme",
+          "kaynak": [
+            "https://fatihmtal.meb.k12.tr"
+          ]
+        },
+        {
+          "adi": "Polatlı Beştepe Kız Mesleki ve Teknik Anadolu Lisesi",
+          "tip": "resmi",
+          "adres": "Fatih Mah. Atatürk Cad. No 158, Polatlı/ANKARA",
+          "telefon": "312 623 00 52",
+          "web": "https://bestepemtanadolu.meb.k12.tr",
+          "alanlar": ["Bilişim Teknolojileri", "Çocuk Gelişimi ve Eğitimi", "Grafik ve Fotoğraf", "Güzellik ve Saç Bakım Hizmetleri", "Yiyecek ve İçecek Hizmetleri"],
+          "giris_turu": "yerel_yerlestirme",
+          "kaynak": [
+            "https://bestepemtanadolu.meb.k12.tr"
+          ]
+        },
+        {
+          "adi": "Polatlı Şehit Can Çalışkan Mesleki ve Teknik Anadolu Lisesi",
+          "tip": "resmi",
+          "adres": "Şentepe Mah. Balaban Sk. No 2A, Polatlı/ANKARA",
+          "telefon": "0312 624 1117",
+          "web": "https://sehitcancalskanmtal.meb.k12.tr",
+          "alanlar": ["Adalet", "Raylı Sistemler Teknolojisi", "Tarım", "Yiyecek İçecek Hizmetleri"],
+          "giris_turu": "yerel_yerlestirme",
+          "kaynak": [
+            "https://sehitcancalskanmtal.meb.k12.tr"
+          ]
+        },
+        {
+          "adi": "Özel Ankara Darüşşifa Polatlı Mesleki ve Teknik Anadolu Lisesi",
+          "tip": "ozel",
+          "adres": "",
+          "telefon": "0312 621 4646",
+          "web": "",
+          "alanlar": [],
+          "giris_turu": "ozel_okul",
+          "kaynak": [
+            "https://polatli.meb.gov.tr (eğitim kurumları listesi, kurum kodu 99955231)"
+          ]
+        },
+        {
+          "adi": "Özel Alfa Yaşam Mesleki ve Teknik Anadolu Lisesi",
+          "tip": "ozel",
+          "adres": "",
+          "telefon": "312 623 4112",
+          "web": "",
+          "alanlar": [],
+          "giris_turu": "ozel_okul",
+          "kaynak": [
+            "https://polatli.meb.gov.tr (eğitim kurumları listesi, kurum kodu 99954837)"
+          ]
+        },
+        {
+          "adi": "Özel Kocatepe Koleji Mesleki ve Teknik Anadolu Lisesi",
+          "tip": "ozel",
+          "adres": "",
+          "telefon": "",
+          "web": "",
+          "alanlar": [],
+          "giris_turu": "ozel_okul",
+          "kaynak": [
+            "https://okul.com.tr (Polatlı özel meslek liseleri listesi)"
+          ]
+        }
+      ]
+    },
+    {
+      "ilce": "Çubuk",
+      "okullar": [
+        {
+          "adi": "Çubuk Mesleki ve Teknik Anadolu Lisesi",
+          "tip": "resmi",
+          "adres": "Barbaros Mah. Esen Sk. No 28, Çubuk/ANKARA",
+          "telefon": "0312 837 15 05",
+          "web": "https://cubuktml.meb.k12.tr",
+          "alanlar": ["Muhasebe ve Finansman", "Adalet", "Tarım Teknolojileri", "Gıda Teknolojileri", "Büro Yönetimi ve Sekreterlik", "Bilişim Teknolojileri"],
+          "giris_turu": "yerel_yerlestirme",
+          "kaynak": [
+            "https://cubuktml.meb.k12.tr",
+            "https://cubuk.meb.gov.tr/mesbil%20yeni/okullarimiz.html",
+            "https://terapotikakademi.com/ankara-yerel-yerlestirme-ile-ogrenci-alan-okullarin-taban-puanlari/"
+          ]
+        },
+        {
+          "adi": "Fatih Sultan Mehmet Mesleki ve Teknik Anadolu Lisesi",
+          "tip": "resmi",
+          "adres": "Cumhuriyet Mah. Endüstri Sk. No 14, Çubuk/ANKARA",
+          "telefon": "0312 837 02 02",
+          "web": "https://fatihsultanmehmetml.meb.k12.tr",
+          "alanlar": ["Elektrik-Elektronik Teknolojisi"],
+          "lgs_taban_puan": 297.934,
+          "lgs_yuzdelik": 35.93,
+          "lgs_yil": 2026,
+          "giris_turu": "merkezi_yerlestirme",
+          "alan_puanlari": [
+            {"alan": "Elektrik-Elektronik Teknolojisi", "puan": 297.934, "yuzdelik": 35.93, "yil": 2026},
+            {"alan": "Elektrik-Elektronik Teknolojisi", "puan": 286.425, "yuzdelik": 35.61, "yil": 2025}
+          ],
+          "kaynak": [
+            "https://tabanpuanlari.net/lgs/ankara/cubuk",
+            "https://fatihsultanmehmetml.meb.k12.tr"
+          ]
+        },
+        {
+          "adi": "Hayri Aslan Mesleki ve Teknik Anadolu Lisesi",
+          "tip": "resmi",
+          "adres": "Cumhuriyet Mah. Barışık Sk. No 6, Çubuk/ANKARA (2020'de yeni binasına taşındı)",
+          "telefon": "0312 837 12 66",
+          "web": "",
+          "alanlar": ["Çocuk Gelişimi ve Eğitimi", "Yiyecek İçecek Hizmetleri", "Bilişim Teknolojileri", "Aile ve Tüketici Hizmetleri", "Moda Tasarım Teknolojileri", "Grafik ve Fotoğraf", "Güzellik ve Saç Bakım Hizmetleri"],
+          "giris_turu": "yerel_yerlestirme",
+          "kaynak": [
+            "http://www.cubuk.gov.tr/hayri-aslan-mesleki-ve-teknik-anadolu-lisesi-yeni-binasina-tasindi",
+            "https://cubuk.meb.gov.tr/mesbil%20yeni/okullarimiz.html",
+            "https://haritane.com/hayri-aslan-kiz-teknik-ve-meslek-lisesi-detay268504/"
+          ]
+        },
+        {
+          "adi": "Çubuk Gevher Nesibe Mesleki ve Teknik Anadolu Lisesi",
+          "tip": "resmi",
+          "adres": "Cumhuriyet Mah. Ankara Bulvarı 1. Kısım No 66, Çubuk/ANKARA",
+          "telefon": "(312) 838 4407",
+          "web": "https://cubukgevher.meb.k12.tr",
+          "alanlar": ["Sağlık Hizmetleri"],
+          "giris_turu": "yerel_yerlestirme",
+          "kaynak": [
+            "https://cubukgevher.meb.k12.tr",
+            "https://cubuk.meb.gov.tr/mesbil%20yeni/okullarimiz.html"
+          ]
+        },
+        {
+          "adi": "Şehit Hayati Bilgin Kız Mesleki ve Teknik Anadolu Lisesi",
+          "tip": "resmi",
+          "adres": "Barbaros Mah. Ferda Cad. Çubuk Kız Teknik Meslek Lisesi Blok No 31A, Çubuk/ANKARA",
+          "telefon": "0312 837 12 66",
+          "web": "https://sehithayatibilginmtal.meb.k12.tr",
+          "alanlar": ["Aile ve Tüketici Hizmetleri", "Bilişim Teknolojileri", "Çocuk Gelişimi ve Eğitimi", "Grafik ve Fotoğraf", "Moda Tasarım Teknolojileri", "Yiyecek ve İçecek Hizmetleri"],
+          "giris_turu": "yerel_yerlestirme",
+          "kaynak": [
+            "https://sehithayatibilginmtal.meb.k12.tr",
+            "https://www.hangisoru.com/lgs-tercih-robotu/sehit-hayati-bilgin-mesleki-ve-teknik-anadolu-lisesi-14792",
+            "https://terapotikakademi.com/ankara-yerel-yerlestirme-ile-ogrenci-alan-okullarin-taban-puanlari/"
+          ]
+        },
+        {
+          "adi": "Çubuk Ahi Evran Mesleki ve Teknik Anadolu Lisesi",
+          "tip": "resmi",
+          "adres": "Atatürk Mah. Zirve 1 Sk. Ahi Evran Mesleki ve Teknik Anadolu Lisesi Blok No 12, Çubuk/ANKARA",
+          "telefon": "0312 837 9282",
+          "web": "https://cubukahievranteml.meb.k12.tr",
+          "alanlar": ["Motorlu Araçlar Teknolojisi"],
+          "giris_turu": "yerel_yerlestirme",
+          "kaynak": [
+            "https://cubukahievranteml.meb.k12.tr",
+            "https://cubuk.meb.gov.tr/mesbil%20yeni/okullarimiz.html",
+            "https://yandex.com.tr/maps/org/cubuk_ahi_evran_mesleki_ve_teknik_anadolu_lisesi/1286969175/"
+          ]
+        }
+      ]
+    },
+    {
+      "ilce": "Kahramankazan",
+      "okullar": [
+        {
+          "adi": "Kahramankazan Ticaret Mesleki ve Teknik Anadolu Lisesi",
+          "tip": "resmi",
+          "adres": "Fatih Mah. Söğüt Cad. No 18, Kahramankazan/ANKARA",
+          "telefon": "0312 814 1221",
+          "web": "https://kametal.meb.k12.tr",
+          "alanlar": [],
+          "giris_turu": "yerel_yerlestirme",
+          "kaynak": [
+            "https://kametal.meb.k12.tr",
+            "https://liseler.com.tr"
+          ]
+        },
+        {
+          "adi": "Kahramankazan Efes Mesleki ve Teknik Anadolu Lisesi",
+          "tip": "resmi",
+          "adres": "Fatih Mah. Ankara Bulvarı No 158, Kahramankazan/ANKARA",
+          "telefon": "312 814 0530",
+          "web": "https://efesmtal.meb.k12.tr",
+          "alanlar": [],
+          "giris_turu": "yerel_yerlestirme",
+          "kaynak": [
+            "https://efesmtal.meb.k12.tr"
+          ]
+        },
+        {
+          "adi": "Gülnaz-İbrahim Güngör Tara Kız Mesleki ve Teknik Anadolu Lisesi",
+          "tip": "resmi",
+          "adres": "Kayı Mah. Ahievran Cad. 491. Sk. No 55, Kahramankazan/ANKARA",
+          "telefon": "(312) 814 6007",
+          "web": "https://kazantarakml.meb.k12.tr",
+          "alanlar": [],
+          "giris_turu": "yerel_yerlestirme",
+          "kaynak": [
+            "https://kazantarakml.meb.k12.tr"
+          ]
+        },
+        {
+          "adi": "Şehit Lokman Biçinci Mesleki ve Teknik Anadolu Lisesi",
+          "tip": "resmi",
+          "adres": "Fatih Mah. Karadağ Cad. No 49, Kahramankazan/ANKARA",
+          "telefon": "0 312 814 4606",
+          "web": "https://sehitlokmanbicincimtal.meb.k12.tr",
+          "alanlar": [],
+          "giris_turu": "yerel_yerlestirme",
+          "kaynak": [
+            "https://sehitlokmanbicincimtal.meb.k12.tr"
+          ]
+        }
+      ]
+    },
+    {
+      "ilce": "Beypazarı",
+      "okullar": [
+        {
+          "adi": "Beypazarı Evliya Çelebi Mesleki ve Teknik Anadolu Lisesi",
+          "tip": "resmi",
+          "adres": "Hacıkara Mah. Şehit Ümit Bölükoğlu Cad. No 23, Beypazarı/ANKARA",
+          "telefon": "0312 763 2603",
+          "web": "https://beycem.meb.k12.tr",
+          "alanlar": ["Bilişim Teknolojileri", "Çocuk Gelişimi ve Eğitimi", "Konaklama ve Seyahat Hizmetleri", "Yiyecek İçecek Hizmetleri", "Güzellik ve Saç Bakım Hizmetleri", "El Sanatları Teknolojisi", "Muhasebe ve Finansman"],
+          "giris_turu": "yerel_yerlestirme",
+          "kaynak": [
+            "https://beycem.meb.k12.tr"
+          ]
+        },
+        {
+          "adi": "Beypazarı Fatih Mesleki ve Teknik Anadolu Lisesi",
+          "tip": "resmi",
+          "adres": "Ayvaşık Mah. Saray Bosna Cad. No 7/3, Beypazarı/ANKARA",
+          "telefon": "(0312) 762 2505",
+          "web": "https://bfmtal.meb.k12.tr",
+          "alanlar": ["Bilişim Teknolojileri", "Kimya Teknolojisi", "Elektrik-Elektronik Teknolojisi", "Makine ve Tasarım Teknolojisi", "Metal Teknolojisi", "Mobilya ve İç Mekan Tasarımı"],
+          "lgs_taban_puan": 238.779,
+          "lgs_yuzdelik": 61.16,
+          "lgs_yil": 2026,
+          "giris_turu": "merkezi_yerlestirme",
+          "alan_puanlari": [
+            {"alan": "Elektrik-Elektronik Teknolojisi", "puan": 238.779, "yuzdelik": 61.16, "yil": 2026},
+            {"alan": "Elektrik-Elektronik Teknolojisi", "puan": 211.234, "yuzdelik": 68.68, "yil": 2025}
+          ],
+          "kaynak": [
+            "https://tabanpuanlari.net/lgs/ankara/beypazari",
+            "https://bfmtal.meb.k12.tr"
+          ]
+        },
+        {
+          "adi": "Beypazarı Mesleki ve Teknik Anadolu Lisesi",
+          "tip": "resmi",
+          "adres": "Beytepe Mah. Mehmet Tanrıkulu Sk. No 14, Beypazarı/ANKARA",
+          "telefon": "312 763 11 77",
+          "web": "http://bml.meb.k12.tr",
+          "alanlar": [],
+          "giris_turu": "yerel_yerlestirme",
+          "kaynak": [
+            "https://ilceler.org/ankara/beypazari/okul/beypazari-mesleki-ve-teknik-anadolu-lisesi-62-okul",
+            "https://yandex.com.tr/maps/org/beypazari_mesleki_ve_teknik_anadolu_lisesi/121998510834/",
+            "https://okul.com.tr/lise/ankara/beypazari-mesleki-ve-teknik-anadolu-lisesi-8010"
+          ]
+        },
+        {
+          "adi": "Tolunay Özaka Mesleki ve Teknik Anadolu Lisesi",
+          "tip": "resmi",
+          "adres": "Hacıkara Mah. Anafartalar Sk. No 1/1, Beypazarı/ANKARA",
+          "telefon": "(312) 762 5494",
+          "web": "https://tolunayozakaasml.meb.k12.tr",
+          "alanlar": ["Adalet", "Sağlık Hizmetleri"],
+          "giris_turu": "yerel_yerlestirme",
+          "kaynak": [
+            "https://tolunayozakaasml.meb.k12.tr"
+          ]
+        }
+      ]
+    },
+    {
+      "ilce": "Elmadağ",
+      "okullar": [
+        {
+          "adi": "Özdemir Bayraktar Havacılık ve Uzay Teknolojileri Mesleki ve Teknik Anadolu Lisesi",
+          "tip": "resmi",
+          "adres": "Hasanoğlan Bahçelievler Mah. 648 Cad. No 16, Elmadağ/ANKARA",
+          "telefon": "(537) 352 2488",
+          "web": "https://ozdemirbayraktarmesleklisesi.meb.k12.tr",
+          "alanlar": ["Havacılık ve Uzay Teknolojisi"],
+          "lgs_taban_puan": 479.214,
+          "lgs_yuzdelik": 0.70,
+          "lgs_yil": 2026,
+          "giris_turu": "merkezi_yerlestirme",
+          "alan_puanlari": [
+            {"alan": "Havacılık ve Uzay Teknolojisi", "puan": 479.214, "yuzdelik": 0.70, "yil": 2026},
+            {"alan": "Havacılık ve Uzay Teknolojisi", "puan": 480.243, "yuzdelik": 0.87, "yil": 2025},
+            {"alan": "Havacılık ve Uzay Teknolojisi", "puan": 477.273, "yuzdelik": 0.96, "yil": 2024},
+            {"alan": "Havacılık ve Uzay Teknolojisi", "puan": 482.906, "yuzdelik": 1.02, "yil": 2023}
+          ],
+          "kaynak": [
+            "https://tabanpuanlari.net/lgs/ankara/elmadag",
+            "https://ozdemirbayraktarmesleklisesi.meb.k12.tr/tema/okulumuz_hakkinda.php",
+            "https://blog.sorumatik.co/ozdemir-bayraktar-havacilik-ve-uzay-teknolojileri-mesleki-ve-teknik-anadolu-lisesi-lgs-taban-puani-yuzdelik-dilimi/",
+            "data/tmp/2025_sinavli_taban.pdf (MEB resmi 2025 sınavlı listesi)"
+          ]
+        },
+        {
+          "adi": "Şehit Sertaç Uzun Mesleki ve Teknik Anadolu Lisesi",
+          "tip": "resmi",
+          "adres": "Kemalpaşa Mah. Atatürk Bulvarı No 4, Elmadağ/ANKARA",
+          "telefon": "0312 863 1482",
+          "web": "https://sehitsertacuzuneml.meb.k12.tr",
+          "alanlar": ["Bilişim Teknolojileri", "Elektrik-Elektronik Teknolojisi", "Kimya Teknolojisi", "Makine ve Tasarım Teknolojisi", "Metal Teknolojisi", "Mobilya ve İç Mekan Tasarımı"],
+          "giris_turu": "yerel_yerlestirme",
+          "kaynak": [
+            "https://sehitsertacuzuneml.meb.k12.tr",
+            "https://elmadag.meb.gov.tr/www/ortaogretim-kurumlari/icerik/318"
+          ]
+        },
+        {
+          "adi": "Hasanoğlan Fatih Ticaret Mesleki ve Teknik Anadolu Lisesi",
+          "tip": "resmi",
+          "adres": "Hasanoğlan İstasyon Mah. Menderes Blv. No 48, Elmadağ/ANKARA",
+          "telefon": "(312) 866 1618",
+          "web": "https://fatihtml.meb.k12.tr",
+          "alanlar": [],
+          "giris_turu": "yerel_yerlestirme",
+          "kaynak": [
+            "https://fatihtml.meb.k12.tr",
+            "https://elmadag.meb.gov.tr/www/ortaogretim-kurumlari/icerik/318"
+          ]
+        },
+        {
+          "adi": "Elmadağ Mesleki ve Teknik Anadolu Lisesi",
+          "tip": "resmi",
+          "adres": "Yenidoğan Mah. Okul Sk. No 53/1, Elmadağ/ANKARA",
+          "telefon": "0312 863 4510",
+          "web": "https://elmadagasml.meb.k12.tr",
+          "alanlar": [],
+          "giris_turu": "yerel_yerlestirme",
+          "kaynak": [
+            "https://elmadagasml.meb.k12.tr",
+            "https://elmadag.meb.gov.tr/www/ortaogretim-kurumlari/icerik/318"
+          ]
+        },
+        {
+          "adi": "Hasanoğlan Kız Mesleki ve Teknik Anadolu Lisesi",
+          "tip": "resmi",
+          "adres": "İstasyon Mah. Menderes Bul. No 40/1, Elmadağ/ANKARA",
+          "telefon": "(312) 866 3247",
+          "web": "https://hasanoglankizmeslek.meb.k12.tr",
+          "alanlar": ["Çocuk Gelişimi ve Eğitimi", "Yiyecek İçecek Hizmetleri", "Güzellik ve Saç Bakım Hizmetleri"],
+          "giris_turu": "yerel_yerlestirme",
+          "kaynak": [
+            "https://hasanoglankizmeslek.meb.k12.tr",
+            "https://elmadag.meb.gov.tr/www/ortaogretim-kurumlari/icerik/318"
+          ]
+        }
+      ]
+    }
+  ]
+}

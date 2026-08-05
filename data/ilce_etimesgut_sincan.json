@@ -1,0 +1,521 @@
+{
+  "ilceler": [
+    {
+      "ilce": "Etimesgut",
+      "okullar": [
+        {
+          "adi": "Cezeri Yeşil Teknoloji Mesleki ve Teknik Anadolu Lisesi",
+          "tip": "resmi",
+          "adres": "Tunahan Mah. 211. Cad. No 12, Etimesgut/ANKARA",
+          "telefon": "0312 283 10 61",
+          "web": "https://cezeri.meb.k12.tr",
+          "alanlar": ["Elektrik-Elektronik Teknolojileri", "Yenilenebilir Enerji Teknolojileri"],
+          "lgs_taban_puan": 443.199,
+          "lgs_yuzdelik": 3.82,
+          "lgs_yil": 2026,
+          "giris_turu": "merkezi_yerlestirme",
+          "alan_puanlari": [
+            {"alan": "Elektrik-Elektronik Teknolojisi", "puan": 443.199, "yuzdelik": 3.82, "yil": 2026},
+            {"alan": "Yenilenebilir Enerji Teknolojileri", "puan": 425.538, "yuzdelik": 6.05, "yil": 2026},
+            {"alan": "Elektrik-Elektronik Teknolojisi", "puan": 443.263, "yuzdelik": 4.47, "yil": 2025},
+            {"alan": "Yenilenebilir Enerji Teknolojileri", "puan": 429.963, "yuzdelik": 6.21, "yil": 2025}
+          ],
+          "kaynak": [
+            "https://etimesgut.meb.gov.tr/www/etimesgut-ilcemizde-bulunan-mesleki-ve-teknik-anadolu-liseleri-ve-egitim-verdikleri-alanlar/icerik/457",
+            "https://tabanpuanlari.net/lgs/ankara/etimesgut",
+            "https://cezeri.meb.k12.tr"
+          ]
+        },
+        {
+          "adi": "Elvanköy Borsa İstanbul Mesleki ve Teknik Anadolu Lisesi",
+          "tip": "resmi",
+          "adres": "Oğuzlar Mah. Prof. Dr. Necmettin Erbakan Cad. No 56, Elvankent, Etimesgut/ANKARA",
+          "telefon": "(312) 261 77 33",
+          "web": "https://elvankoyborsaistanbulmtal.meb.k12.tr",
+          "alanlar": ["Bilişim Teknolojileri", "Biyomedikal Cihaz Teknolojileri", "Elektrik-Elektronik Teknolojileri"],
+          "lgs_taban_puan": 331.765,
+          "lgs_yuzdelik": 25.49,
+          "lgs_yil": 2026,
+          "giris_turu": "merkezi_yerlestirme",
+          "alan_puanlari": [
+            {"alan": "Bilişim Teknolojileri", "puan": 331.765, "yuzdelik": 25.49, "yil": 2026},
+            {"alan": "Bilişim Teknolojileri", "puan": 345.648, "yuzdelik": 20.81, "yil": 2025}
+          ],
+          "kaynak": [
+            "https://etimesgut.meb.gov.tr/www/etimesgut-ilcemizde-bulunan-mesleki-ve-teknik-anadolu-liseleri-ve-egitim-verdikleri-alanlar/icerik/457",
+            "https://tabanpuanlari.net/lgs/ankara/etimesgut",
+            "https://elvankoyborsaistanbulmtal.meb.k12.tr"
+          ]
+        },
+        {
+          "adi": "Fatma-Hacı Hüseyin Akgül Kız Mesleki ve Teknik Anadolu Lisesi",
+          "tip": "resmi",
+          "adres": "Etiler Mah. Fabrika Sokak, 06790 Etimesgut/ANKARA",
+          "telefon": "(0312) 244 99 99",
+          "web": "https://eakml.meb.k12.tr",
+          "alanlar": ["Bilişim Teknolojileri", "Çocuk Gelişimi ve Eğitimi", "Grafik ve Fotoğraf", "Moda Tasarım Teknolojileri", "Yiyecek İçecek Hizmetleri"],
+          "giris_turu": "merkezi_yerlestirme",
+          "kaynak": [
+            "https://etimesgut.meb.gov.tr/www/etimesgut-ilcemizde-bulunan-mesleki-ve-teknik-anadolu-liseleri-ve-egitim-verdikleri-alanlar/icerik/457",
+            "https://eakml.meb.k12.tr"
+          ]
+        },
+        {
+          "adi": "Güvercinlik Şehit Hasan Gülhan Mesleki ve Teknik Anadolu Lisesi",
+          "tip": "resmi",
+          "adres": "Bahçekapı Mah. 2551. Cad. No 44, 06797 Etimesgut/ANKARA",
+          "telefon": "(312) 278 75 01",
+          "web": "https://guvercinlikteml.meb.k12.tr",
+          "alanlar": ["Bilişim Teknolojileri", "Elektrik-Elektronik Teknolojileri", "Motorlu Araçlar Teknolojileri", "Makine Teknolojileri", "Uçak Bakım"],
+          "giris_turu": "merkezi_yerlestirme",
+          "kaynak": [
+            "https://etimesgut.meb.gov.tr/www/etimesgut-ilcemizde-bulunan-mesleki-ve-teknik-anadolu-liseleri-ve-egitim-verdikleri-alanlar/icerik/457",
+            "https://guvercinlikteml.meb.k12.tr"
+          ]
+        },
+        {
+          "adi": "Hayriye-Ethem Turhanlı Kız Mesleki ve Teknik Anadolu Lisesi",
+          "tip": "resmi",
+          "adres": "Oğuzlar Mah. 1597. Cad. No 2A, Etimesgut/ANKARA",
+          "telefon": "(0312) 260 42 00",
+          "web": "https://hayriyeethemturhanlikml.meb.k12.tr",
+          "alanlar": ["Bilişim Teknolojileri", "Çocuk Gelişimi ve Eğitimi", "Yiyecek İçecek Hizmetleri"],
+          "giris_turu": "merkezi_yerlestirme",
+          "kaynak": [
+            "https://etimesgut.meb.gov.tr/www/etimesgut-ilcemizde-bulunan-mesleki-ve-teknik-anadolu-liseleri-ve-egitim-verdikleri-alanlar/icerik/457",
+            "https://hayriyeethemturhanlikml.meb.k12.tr"
+          ]
+        },
+        {
+          "adi": "Mustafa Kemal Mesleki ve Teknik Anadolu Lisesi",
+          "tip": "resmi",
+          "adres": "Göksu Mah. Sivas Kongresi Cad. No 4, Etimesgut/ANKARA",
+          "telefon": "(312) 281 22 88",
+          "web": "https://mustafakemalsml.meb.k12.tr",
+          "alanlar": ["Sağlık Hizmetleri"],
+          "giris_turu": "merkezi_yerlestirme",
+          "kaynak": [
+            "https://etimesgut.meb.gov.tr/www/etimesgut-ilcemizde-bulunan-mesleki-ve-teknik-anadolu-liseleri-ve-egitim-verdikleri-alanlar/icerik/457",
+            "https://mustafakemalsml.meb.k12.tr"
+          ]
+        },
+        {
+          "adi": "Satı Kadın Mesleki ve Teknik Anadolu Lisesi",
+          "tip": "resmi",
+          "adres": "Ayyıldız Mah. Taptuk Emre Bulvarı Lise Blok No 10, 06796 Etimesgut/ANKARA",
+          "telefon": "(312) 244 31 39",
+          "web": "https://satikadinktml.meb.k12.tr",
+          "alanlar": ["Bilişim Teknolojileri", "Çocuk Gelişimi ve Eğitimi", "Grafik ve Fotoğraf", "Hasta ve Yaşlı Hizmetleri", "Ulaştırma Hizmetleri"],
+          "giris_turu": "merkezi_yerlestirme",
+          "kaynak": [
+            "https://etimesgut.meb.gov.tr/www/etimesgut-ilcemizde-bulunan-mesleki-ve-teknik-anadolu-liseleri-ve-egitim-verdikleri-alanlar/icerik/457",
+            "https://satikadinktml.meb.k12.tr"
+          ]
+        },
+        {
+          "adi": "Şehit Kara Pilot Üsteğmen Tahsin Barutçu Ticaret Mesleki ve Teknik Anadolu Lisesi",
+          "tip": "resmi",
+          "adres": "Atayurt Mah. 4459. Cad., Etimesgut/ANKARA",
+          "telefon": "(312) 553 90 80",
+          "web": "https://tahsinbarutcumtal.meb.k12.tr",
+          "alanlar": ["Adalet", "Bilişim Teknolojileri", "Büro Yönetimi", "Çocuk Gelişimi ve Eğitimi", "Muhasebe ve Finansman"],
+          "giris_turu": "merkezi_yerlestirme",
+          "kaynak": [
+            "https://etimesgut.meb.gov.tr/www/etimesgut-ilcemizde-bulunan-mesleki-ve-teknik-anadolu-liseleri-ve-egitim-verdikleri-alanlar/icerik/457",
+            "https://tahsinbarutcumtal.meb.k12.tr"
+          ]
+        },
+        {
+          "adi": "Etimesgut Şehit Salih Helvacı Ticaret Mesleki ve Teknik Anadolu Lisesi",
+          "tip": "resmi",
+          "adres": "Etimesgut/ANKARA",
+          "telefon": "(312) 226 63 57",
+          "web": "https://salihhelvacimtal.meb.k12.tr",
+          "alanlar": ["Adalet", "Bilişim Teknolojileri", "Muhasebe ve Finansman", "Büro Yönetimi"],
+          "giris_turu": "merkezi_yerlestirme",
+          "kaynak": [
+            "https://etimesgut.meb.gov.tr/www/etimesgut-ilcemizde-bulunan-mesleki-ve-teknik-anadolu-liseleri-ve-egitim-verdikleri-alanlar/icerik/457",
+            "https://salihhelvacimtal.meb.k12.tr"
+          ]
+        },
+        {
+          "adi": "Özel Eryaman Mesleki ve Teknik Anadolu Lisesi",
+          "tip": "ozel",
+          "adres": "Eryaman Mah. 317. Cadde No:36, 06930 Etimesgut/ANKARA",
+          "telefon": "(312) 283 20 20",
+          "web": "",
+          "alanlar": [],
+          "giris_turu": "ozel_okul",
+          "kaynak": [
+            "https://ozelokulkolej.com/ankara-mesleki-ve-teknik-liseler",
+            "https://iyiokullar.com.tr/ozel-eryaman-mesleki-ve-teknik-anadolu-lisesi"
+          ]
+        },
+        {
+          "adi": "Özel Kariyer Etimesgut Mesleki ve Teknik Anadolu Lisesi",
+          "tip": "ozel",
+          "adres": "İstasyon Mah. Şehit Hikmet Özer Cad. No:97, Etimesgut/ANKARA",
+          "telefon": "(312) 243 02 22",
+          "web": "",
+          "alanlar": [],
+          "giris_turu": "ozel_okul",
+          "kaynak": [
+            "https://ozelokulkolej.com/ankara-mesleki-ve-teknik-liseler"
+          ]
+        },
+        {
+          "adi": "Özel Umut Işılay Mesleki ve Teknik Anadolu Lisesi",
+          "tip": "ozel",
+          "adres": "Eryaman Mah. 326. Sk. No:14, Etimesgut/ANKARA",
+          "telefon": "(312) 282 25 10",
+          "web": "",
+          "alanlar": [],
+          "giris_turu": "ozel_okul",
+          "kaynak": [
+            "https://ozelokulkolej.com/ankara-mesleki-ve-teknik-liseler"
+          ]
+        },
+        {
+          "adi": "Özel Akıllı Okul Etimesgut Mesleki ve Teknik Anadolu Lisesi",
+          "tip": "ozel",
+          "adres": "Süvari Mah. İstasyon Cad. No:155A, Etimesgut/ANKARA",
+          "telefon": "(312) 444 31 25",
+          "web": "",
+          "alanlar": [],
+          "giris_turu": "ozel_okul",
+          "kaynak": [
+            "https://ozelokulkolej.com/ankara-mesleki-ve-teknik-liseler"
+          ]
+        },
+        {
+          "adi": "Özel Akıllı Okul Vecihi Hürkuş Mesleki ve Teknik Anadolu Lisesi",
+          "tip": "ozel",
+          "adres": "Süvari Mah. İstasyon Cad. No:159B, Etimesgut/ANKARA",
+          "telefon": "(312) 444 31 25",
+          "web": "",
+          "alanlar": [],
+          "giris_turu": "ozel_okul",
+          "kaynak": [
+            "https://ozelokulkolej.com/ankara-mesleki-ve-teknik-liseler"
+          ]
+        }
+      ]
+    },
+    {
+      "ilce": "Sincan",
+      "okullar": [
+        {
+          "adi": "Fatih Mesleki ve Teknik Anadolu Lisesi",
+          "tip": "resmi",
+          "adres": "Yunus Emre Mah. 374. Sok. No 3A, Sincan/ANKARA",
+          "telefon": "(0312) 272 53 62",
+          "web": "https://asfmtal.meb.k12.tr",
+          "alanlar": ["Bilişim Teknolojileri", "Elektrik-Elektronik Teknolojisi", "Tesisat Teknolojisi ve İklimlendirme", "Mobilya ve İç Mekan Tasarımı", "Metal Teknolojisi"],
+          "lgs_taban_puan": 363.932,
+          "lgs_yuzdelik": 17.30,
+          "lgs_yil": 2026,
+          "giris_turu": "merkezi_yerlestirme",
+          "alan_puanlari": [
+            {"alan": "Elektrik-Elektronik Teknolojisi", "puan": 363.932, "yuzdelik": 17.30, "yil": 2026},
+            {"alan": "Elektrik-Elektronik Teknolojisi", "puan": 351.534, "yuzdelik": 19.60, "yil": 2025}
+          ],
+          "kaynak": [
+            "https://tabanpuanlari.net/lgs/ankara/sincan",
+            "https://asfmtal.meb.k12.tr",
+            "https://sincancumhuriyetoo.meb.k12.tr/meb_iys_dosyalar/06/22/976623/dosyalar/2024_04/04092811_202324liseturleripdf.pdf"
+          ]
+        },
+        {
+          "adi": "Sincan İMKB Mesleki ve Teknik Anadolu Lisesi (Sincan Borsa İstanbul MTAL)",
+          "tip": "resmi",
+          "adres": "Osmanlı Mah. Selin Sk. Sincan Borsa İstanbul MTAL Blok No 1, Sincan/ANKARA",
+          "telefon": "(312) 263 86 83",
+          "web": "https://sincanimkbmtal.meb.k12.tr",
+          "alanlar": ["Bilişim Teknolojileri", "Muhasebe ve Finansman", "Büro Yönetimi"],
+          "giris_turu": "merkezi_yerlestirme",
+          "kaynak": [
+            "https://sincan.meb.gov.tr/www/sincan-imkb-mesleki-ve-teknik-anadolu-lisesi/icerik/661",
+            "https://sincancumhuriyetoo.meb.k12.tr/meb_iys_dosyalar/06/22/976623/dosyalar/2024_04/04092811_202324liseturleripdf.pdf"
+          ]
+        },
+        {
+          "adi": "Nefise Andiçen Mesleki ve Teknik Anadolu Lisesi",
+          "tip": "resmi",
+          "adres": "Osmanlı Mah. Hürriyet Cad. 76, 06940 Sincan/ANKARA",
+          "telefon": "(312) 263 95 84",
+          "web": "https://nefiseandicenmtal.meb.k12.tr",
+          "alanlar": ["Sağlık Hizmetleri", "Ebe Yardımcılığı", "Hemşire Yardımcılığı", "Sağlık Bakım Teknisyenliği"],
+          "giris_turu": "merkezi_yerlestirme",
+          "kaynak": [
+            "https://nefiseandicenmtal.meb.k12.tr",
+            "https://sincancumhuriyetoo.meb.k12.tr/meb_iys_dosyalar/06/22/976623/dosyalar/2024_04/04092811_202324liseturleripdf.pdf"
+          ]
+        },
+        {
+          "adi": "Şehit Erdal Koçak Mesleki ve Teknik Anadolu Lisesi",
+          "tip": "resmi",
+          "adres": "Yunus Emre Mah. 374. Sk. No 1/1, Sincan/ANKARA",
+          "telefon": "(312) 277 10 15",
+          "web": "https://sehiterdalkocakmtal.meb.k12.tr",
+          "alanlar": ["Adalet"],
+          "lgs_taban_puan": 299.142,
+          "lgs_yuzdelik": 35.53,
+          "lgs_yil": 2026,
+          "giris_turu": "merkezi_yerlestirme",
+          "alan_puanlari": [
+            {"alan": "Adalet", "puan": 299.142, "yuzdelik": 35.53, "yil": 2026},
+            {"alan": "Adalet", "puan": 285.992, "yuzdelik": 35.76, "yil": 2025}
+          ],
+          "kaynak": [
+            "https://tabanpuanlari.net/lgs/ankara/sincan",
+            "https://sehiterdalkocakmtal.meb.k12.tr"
+          ]
+        },
+        {
+          "adi": "Şehit Özgür Can İnce Mesleki ve Teknik Anadolu Lisesi",
+          "tip": "resmi",
+          "adres": "Selçuklu Mah., Sincan/ANKARA",
+          "telefon": "",
+          "web": "https://ozgurcanincemtal.meb.k12.tr",
+          "alanlar": ["Bilişim Teknolojileri", "Elektrik-Elektronik Teknolojisi", "Makine ve Tasarım Teknolojisi", "Motorlu Araçlar Teknolojisi", "Mobilya Teknolojisi"],
+          "lgs_taban_puan": 310.749,
+          "lgs_yuzdelik": 31.76,
+          "lgs_yil": 2026,
+          "giris_turu": "merkezi_yerlestirme",
+          "alan_puanlari": [
+            {"alan": "Makine ve Tasarım Teknolojisi", "puan": 310.749, "yuzdelik": 31.76, "yil": 2026},
+            {"alan": "Motorlu Araçlar Teknolojisi", "puan": 277.98, "yuzdelik": 43.07, "yil": 2026},
+            {"alan": "Makine ve Tasarım Teknolojisi", "puan": 307.607, "yuzdelik": 29.58, "yil": 2025},
+            {"alan": "Motorlu Araçlar Teknolojisi", "puan": 287.492, "yuzdelik": 35.23, "yil": 2025}
+          ],
+          "kaynak": [
+            "https://tabanpuanlari.net/lgs/ankara/sincan",
+            "https://ozgurcanincemtal.meb.k12.tr",
+            "https://sincancumhuriyetoo.meb.k12.tr/meb_iys_dosyalar/06/22/976623/dosyalar/2024_04/04092811_202324liseturleripdf.pdf"
+          ]
+        },
+        {
+          "adi": "Ertuğrul Gazi Borsa İstanbul Mesleki ve Teknik Anadolu Lisesi",
+          "tip": "resmi",
+          "adres": "Saraycık Mah. 2435. Cad. No 5, Sincan/ANKARA",
+          "telefon": "0312 264 80 57",
+          "web": "https://ertugrulgaziimkb.meb.k12.tr",
+          "alanlar": ["Tesisat Teknolojisi ve İklimlendirme", "Makine ve Tasarım Teknolojisi", "Elektrik-Elektronik Teknolojisi", "İnşaat Teknolojisi"],
+          "giris_turu": "merkezi_yerlestirme",
+          "kaynak": [
+            "https://ertugrulgaziimkb.meb.k12.tr",
+            "https://sincancumhuriyetoo.meb.k12.tr/meb_iys_dosyalar/06/22/976623/dosyalar/2024_04/04092811_202324liseturleripdf.pdf"
+          ]
+        },
+        {
+          "adi": "Özcan Sabancı Kız Mesleki ve Teknik Anadolu Lisesi",
+          "tip": "resmi",
+          "adres": "Yunus Emre Mah. Menderes Cad. No 2, Sincan/ANKARA",
+          "telefon": "0312 273 63 73",
+          "web": "https://ozcansabanci.meb.k12.tr",
+          "alanlar": ["Çocuk Gelişimi ve Eğitimi", "Moda Tasarım Teknolojileri", "Yiyecek İçecek Hizmetleri", "Bilişim Teknolojileri", "Giyim Üretim Teknolojisi"],
+          "giris_turu": "merkezi_yerlestirme",
+          "kaynak": [
+            "https://ozcansabanci.meb.k12.tr",
+            "https://sincancumhuriyetoo.meb.k12.tr/meb_iys_dosyalar/06/22/976623/dosyalar/2024_04/04092811_202324liseturleripdf.pdf"
+          ]
+        },
+        {
+          "adi": "Pınarbaşı Mesleki ve Teknik Anadolu Lisesi",
+          "tip": "resmi",
+          "adres": "Malazgirt Mah. Meral Cad. No 22, 06930 Sincan/ANKARA",
+          "telefon": "0312 268 48 93",
+          "web": "https://pinarbasimtal.meb.k12.tr",
+          "alanlar": ["Çocuk Gelişimi ve Eğitimi", "Yiyecek İçecek Hizmetleri", "Sosyal Hizmetler"],
+          "giris_turu": "merkezi_yerlestirme",
+          "kaynak": [
+            "https://pinarbasimtal.meb.k12.tr",
+            "https://sinavizcisi.com/lise/pinarbasi-mesleki-ve-teknik-anadolu-lisesi--16483324"
+          ]
+        },
+        {
+          "adi": "Törekent Kız Mesleki ve Teknik Anadolu Lisesi",
+          "tip": "resmi",
+          "adres": "Törekent Mah. 275. Sok. No 25, Törekent, Sincan/ANKARA",
+          "telefon": "(312) 267 28 66",
+          "web": "https://torekentkizmesleklisesi.meb.k12.tr",
+          "alanlar": ["Çocuk Gelişimi ve Eğitimi", "Grafik ve Fotoğrafçılık", "Yiyecek İçecek Hizmetleri"],
+          "giris_turu": "merkezi_yerlestirme",
+          "kaynak": [
+            "https://torekentkizmesleklisesi.meb.k12.tr",
+            "https://sincancumhuriyetoo.meb.k12.tr/meb_iys_dosyalar/06/22/976623/dosyalar/2024_04/04092811_202324liseturleripdf.pdf"
+          ]
+        },
+        {
+          "adi": "Layika Akbilek Kız Mesleki ve Teknik Anadolu Lisesi",
+          "tip": "resmi",
+          "adres": "Atatürk Mah. Vatan Cad., Sincan/ANKARA",
+          "telefon": "0312 270 29 12",
+          "web": "https://sincankml.meb.k12.tr",
+          "alanlar": ["Bilişim Teknolojileri", "Çocuk Gelişimi ve Eğitimi", "Moda Tasarım Teknolojileri", "Güzellik ve Saç Bakım Hizmetleri", "Yiyecek İçecek Hizmetleri"],
+          "giris_turu": "merkezi_yerlestirme",
+          "kaynak": [
+            "https://sincankml.meb.k12.tr",
+            "https://sincancumhuriyetoo.meb.k12.tr/meb_iys_dosyalar/06/22/976623/dosyalar/2024_04/04092811_202324liseturleripdf.pdf"
+          ]
+        },
+        {
+          "adi": "Hayme Ana Mesleki ve Teknik Anadolu Lisesi",
+          "tip": "resmi",
+          "adres": "Ertuğrul Gazi Mah. Sonbahar Cad. No 3, Sincan/ANKARA",
+          "telefon": "(312) 264 01 16",
+          "web": "https://sincanhaymeana.meb.k12.tr",
+          "alanlar": ["Çocuk Gelişimi ve Eğitimi", "Halkla İlişkiler ve Organizasyon", "Adalet", "Muhasebe ve Finansman", "Yiyecek İçecek Hizmetleri"],
+          "giris_turu": "merkezi_yerlestirme",
+          "kaynak": [
+            "https://sincanhaymeana.meb.k12.tr",
+            "https://x.com/Sincanhamtal",
+            "https://sincancumhuriyetoo.meb.k12.tr/meb_iys_dosyalar/06/22/976623/dosyalar/2024_04/04092811_202324liseturleripdf.pdf"
+          ]
+        },
+        {
+          "adi": "Sincan Ahmet Andiçen Ticaret Mesleki ve Teknik Anadolu Lisesi",
+          "tip": "resmi",
+          "adres": "Gökçek Mah. 314. Sokak, Sincan/ANKARA",
+          "telefon": "",
+          "web": "https://ahmetandicenmtal.meb.k12.tr",
+          "alanlar": ["Muhasebe ve Finansman"],
+          "lgs_taban_puan": 221.8,
+          "lgs_yuzdelik": 71.71,
+          "lgs_yil": 2026,
+          "giris_turu": "merkezi_yerlestirme",
+          "alan_puanlari": [
+            {"alan": "Muhasebe ve Finansman", "puan": 221.8, "yuzdelik": 71.71, "yil": 2026},
+            {"alan": "Muhasebe ve Finansman", "puan": 198.403, "yuzdelik": 77.07, "yil": 2025}
+          ],
+          "kaynak": [
+            "https://tabanpuanlari.net/lgs/ankara/sincan",
+            "https://ahmetandicenmtal.meb.k12.tr",
+            "https://sincan.bel.tr/kentrehberi/18"
+          ]
+        },
+        {
+          "adi": "Yenikent Ahmet Çiçek Mesleki ve Teknik Anadolu Lisesi",
+          "tip": "resmi",
+          "adres": "Menderes Mah. Hatipoğlu Cad., Yenikent, Sincan/ANKARA",
+          "telefon": "0312 277 06 34",
+          "web": "https://yenikenteml.meb.k12.tr",
+          "alanlar": ["Bilişim Teknolojileri", "Elektrik-Elektronik Teknolojileri"],
+          "giris_turu": "merkezi_yerlestirme",
+          "kaynak": [
+            "https://yenikenteml.meb.k12.tr",
+            "https://sincancumhuriyetoo.meb.k12.tr/meb_iys_dosyalar/06/22/976623/dosyalar/2024_04/04092811_202324liseturleripdf.pdf"
+          ]
+        },
+        {
+          "adi": "Başkent OSB Mesleki ve Teknik Anadolu Lisesi",
+          "tip": "resmi",
+          "adres": "Başkent Organize Sanayi Bölgesi, 42. Cadde No 22/A, 06909 Malıköy, Sincan/ANKARA",
+          "telefon": "0312 504 73 42",
+          "web": "https://baskentosb.meb.k12.tr",
+          "alanlar": ["Makine ve Tasarım Teknolojisi", "Metal Teknolojisi", "Plastik Teknolojisi"],
+          "lgs_taban_puan": 268.726,
+          "lgs_yuzdelik": 46.76,
+          "lgs_yil": 2026,
+          "giris_turu": "merkezi_yerlestirme",
+          "alan_puanlari": [
+            {"alan": "Makine ve Tasarım Teknolojisi", "puan": 268.726, "yuzdelik": 46.76, "yil": 2026},
+            {"alan": "Makine ve Tasarım Teknolojisi", "puan": 242.501, "yuzdelik": 51.36, "yil": 2025}
+          ],
+          "kaynak": [
+            "https://tabanpuanlari.net/lgs/ankara/sincan",
+            "https://baskentosb.meb.k12.tr"
+          ]
+        },
+        {
+          "adi": "Temelli Çok Programlı Anadolu Lisesi",
+          "tip": "resmi",
+          "adres": "Gazi Mah. İstasyon Cad. No:56, 06909 Temelli, Sincan/ANKARA",
+          "telefon": "0505 571 96 25",
+          "web": "https://temellicpl.meb.k12.tr",
+          "alanlar": ["Bilişim Teknolojileri", "Çocuk Gelişimi ve Eğitimi", "Elektrik-Elektronik Teknolojileri", "Tesisat Teknolojisi ve İklimlendirme"],
+          "giris_turu": "merkezi_yerlestirme",
+          "kaynak": [
+            "https://temellicpl.meb.k12.tr",
+            "https://sincan.meb.gov.tr/www/temelli-cok-programli-anadolu-lisesi/icerik/692",
+            "https://sincancumhuriyetoo.meb.k12.tr/meb_iys_dosyalar/06/22/976623/dosyalar/2024_04/04092811_202324liseturleripdf.pdf"
+          ]
+        },
+        {
+          "adi": "Sincan Mesleki ve Teknik Anadolu Lisesi",
+          "tip": "resmi",
+          "adres": "Lise Cad. No:23, Sincan Merkez, 06930 Sincan/ANKARA",
+          "telefon": "+90 312 270 29 14",
+          "web": "",
+          "alanlar": [],
+          "giris_turu": "merkezi_yerlestirme",
+          "kaynak": [
+            "https://sincan.meb.gov.tr/www/sincan-mesleki-ve-teknik-anadolu-lisesi/icerik/594",
+            "https://www.facebook.com/sincanMTAL"
+          ]
+        },
+        {
+          "adi": "Özel Ankara Darüşşifa Sincan Mesleki ve Teknik Anadolu Lisesi",
+          "tip": "ozel",
+          "adres": "Selçuklu Mah. 39. Sokak No:10, 06930 Sincan/ANKARA",
+          "telefon": "(312) 261 20 02",
+          "web": "",
+          "alanlar": [],
+          "giris_turu": "ozel_okul",
+          "kaynak": [
+            "https://ozelokulkolej.com/ankara-mesleki-ve-teknik-liseler"
+          ]
+        },
+        {
+          "adi": "Özel Ankara Sanayi Odası (ASO) Teknik Koleji Mesleki ve Teknik Anadolu Lisesi",
+          "tip": "ozel",
+          "adres": "Ahi Evran OSB Mah. Erkunt Cad. No:1/1, Sincan/ANKARA",
+          "telefon": "(312) 267 56 56",
+          "web": "https://www.asotek.k12.tr",
+          "alanlar": ["Elektrik-Elektronik Teknolojisi"],
+          "giris_turu": "ozel_okul",
+          "kaynak": [
+            "https://ozelokulkolej.com/ankara-mesleki-ve-teknik-liseler",
+            "https://www.asotek.k12.tr"
+          ]
+        },
+        {
+          "adi": "Özel Deva Mesleki ve Teknik Anadolu Lisesi",
+          "tip": "ozel",
+          "adres": "Menderes Mah. Yavuz Sultan Selim Cad. No:35, 06930 Sincan/ANKARA",
+          "telefon": "(312) 277 55 00",
+          "web": "",
+          "alanlar": [],
+          "giris_turu": "ozel_okul",
+          "kaynak": [
+            "https://ozelokulkolej.com/ankara-mesleki-ve-teknik-liseler"
+          ]
+        },
+        {
+          "adi": "Özel Akıllı Okul Sincan Mesleki ve Teknik Anadolu Lisesi",
+          "tip": "ozel",
+          "adres": "Pınarbaşı Mah. Kuyumcu Cad. No:98, 06930 Sincan/ANKARA",
+          "telefon": "(312) 444 31 25",
+          "web": "",
+          "alanlar": [],
+          "giris_turu": "ozel_okul",
+          "kaynak": [
+            "https://ozelokulkolej.com/ankara-mesleki-ve-teknik-liseler"
+          ]
+        },
+        {
+          "adi": "Özel Anka Anakent Mesleki ve Teknik Anadolu Lisesi",
+          "tip": "ozel",
+          "adres": "Selçuklu Mah. Prof. Dr. Necmettin Erbakan Cad. No:30A, Sincan/ANKARA",
+          "telefon": "(312) 260 01 12",
+          "web": "",
+          "alanlar": [],
+          "giris_turu": "ozel_okul",
+          "kaynak": [
+            "https://ozelokulkolej.com/ankara-mesleki-ve-teknik-liseler"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,842 @@
+[
+  {
+    "ilce": "Yenimahalle",
+    "okullar": [
+      {
+        "adi": "Ahi Evran Ticaret Mesleki ve Teknik Anadolu Lisesi",
+        "tip": "resmi",
+        "adres": "Gayret Mah. Arif Hikmet Cad. No:5, Yenimahalle/Ankara",
+        "telefon": "(312) 315 80 70",
+        "web": "https://yenimahalleahievran.meb.k12.tr",
+        "alanlar": [
+          "Adalet",
+          "Muhasebe ve Finansman",
+          "Pazarlama ve Perakende",
+          "Büro Yönetimi ve Yönetici Asistanlığı"
+        ],
+        "lgs_taban_puan": null,
+        "lgs_yuzdelik": null,
+        "lgs_yil": null,
+        "giris_turu": "yerel_yerlestirme",
+        "kaynak": [
+          "https://yenimahalle.meb.gov.tr/meb_iys_dosyalar/2026_05/6a0b2fb3d3f60098119475_MESLEKİ_EĞİTİM-2026.pdf",
+          "https://yenimahalleahievran.meb.k12.tr"
+        ]
+      },
+      {
+        "adi": "Ankara Turizm Mesleki ve Teknik Anadolu Lisesi (eski adı: Ankara MTAL)",
+        "tip": "resmi",
+        "adres": "İvedik Mah. Anadolu Bulvarı 1566. Sk. No:1, Yenimahalle/Ankara",
+        "telefon": "0312 212 66 29",
+        "web": "https://otmlankara.meb.k12.tr",
+        "alanlar": [
+          "Yiyecek İçecek Hizmetleri",
+          "Konaklama ve Seyahat Hizmetleri"
+        ],
+        "lgs_taban_puan": 242.934,
+        "lgs_yuzdelik": 58.82,
+        "lgs_yil": 2026,
+        "giris_turu": "merkezi_yerlestirme",
+        "alan_puanlari": [
+          {"alan": "Yiyecek İçecek Hizmetleri", "puan": 242.934, "yuzdelik": 58.82, "yil": 2026},
+          {"alan": "Yiyecek İçecek Hizmetleri", "puan": 190.488, "yuzdelik": 82.28, "yil": 2025},
+          {"alan": "Konaklama ve Seyahat Hizmetleri", "puan": 192.668, "yuzdelik": 91.01, "yil": 2026},
+          {"alan": "Konaklama ve Seyahat Hizmetleri", "puan": 143.257, "yuzdelik": 92.19, "yil": 2025}
+        ],
+        "kaynak": [
+          "https://tabanpuanlari.net/lgs/ankara/yenimahalle",
+          "https://mamakahmetyesevi.meb.k12.tr/meb_iys_dosyalar/06/19/853297/dosyalar/2025_11/18112703_2025lgspuaniilealansinavliliselertabanpuanlariveyuzdelikdilimleri.pdf",
+          "https://otmlankara.meb.k12.tr",
+          "https://yenimahalle.meb.gov.tr/meb_iys_dosyalar/2026_05/6a0b2fb3d3f60098119475_MESLEKİ_EĞİTİM-2026.pdf"
+        ]
+      },
+      {
+        "adi": "ASELSAN Mesleki ve Teknik Anadolu Lisesi",
+        "tip": "resmi",
+        "adres": "Yeni Batı Mah. 2355. Cad. No:17/A, Yenimahalle/Ankara",
+        "telefon": "(312) 256 1040",
+        "web": "https://aselsanmtal.meb.k12.tr",
+        "alanlar": [
+          "Elektrik-Elektronik Teknolojisi",
+          "Makine ve Tasarım Teknolojisi"
+        ],
+        "lgs_taban_puan": 471.047,
+        "lgs_yuzdelik": 1.21,
+        "lgs_yil": 2026,
+        "giris_turu": "merkezi_yerlestirme",
+        "alan_puanlari": [
+          {"alan": "Elektrik-Elektronik Teknolojisi", "puan": 471.047, "yuzdelik": 1.21, "yil": 2026},
+          {"alan": "Elektrik-Elektronik Teknolojisi", "puan": 470.563, "yuzdelik": 1.6, "yil": 2025},
+          {"alan": "Makine ve Tasarım Teknolojisi", "puan": 465.000, "yuzdelik": 1.66, "yil": 2026},
+          {"alan": "Makine ve Tasarım Teknolojisi", "puan": 465.943, "yuzdelik": 2.01, "yil": 2025}
+        ],
+        "kaynak": [
+          "https://tabanpuanlari.net/lgs/ankara/yenimahalle",
+          "https://mamakahmetyesevi.meb.k12.tr/meb_iys_dosyalar/06/19/853297/dosyalar/2025_11/18112703_2025lgspuaniilealansinavliliselertabanpuanlariveyuzdelikdilimleri.pdf",
+          "https://aselsanmtal.meb.k12.tr"
+        ]
+      },
+      {
+        "adi": "Batıkent Kız Mesleki ve Teknik Anadolu Lisesi",
+        "tip": "resmi",
+        "adres": "Uğur Mumcu Mah. 1606. Sok. No:2, Yenimahalle/Ankara",
+        "telefon": "0312 250 36 77",
+        "web": "https://batikentktml.meb.k12.tr",
+        "alanlar": [
+          "Bilişim Teknolojileri",
+          "Çocuk Gelişimi ve Eğitimi",
+          "Yiyecek İçecek Hizmetleri",
+          "Güzellik ve Saç Bakım Hizmetleri"
+        ],
+        "lgs_taban_puan": null,
+        "lgs_yuzdelik": null,
+        "lgs_yil": null,
+        "giris_turu": "yerel_yerlestirme",
+        "kaynak": [
+          "https://yenimahalle.meb.gov.tr/meb_iys_dosyalar/2026_05/6a0b2fb3d3f60098119475_MESLEKİ_EĞİTİM-2026.pdf",
+          "https://batikentktml.meb.k12.tr"
+        ]
+      },
+      {
+        "adi": "Batıkent Şevket Evliyagil Ticaret Mesleki ve Teknik Anadolu Lisesi",
+        "tip": "resmi",
+        "adres": "İnönü Mah. Batı Bulvarı 1728. Sk. No:3/ABC, Yenimahalle/Ankara",
+        "telefon": "0 312 278 33 80",
+        "web": "https://sevliyagiltml.meb.k12.tr",
+        "alanlar": [
+          "Gazetecilik",
+          "Grafik ve Fotoğrafçılık",
+          "Bilişim Teknolojileri"
+        ],
+        "lgs_taban_puan": 182.238,
+        "lgs_yuzdelik": 95.25,
+        "lgs_yil": 2026,
+        "giris_turu": "merkezi_yerlestirme",
+        "alan_puanlari": [
+          {"alan": "Gazetecilik", "puan": 182.238, "yuzdelik": 95.25, "yil": 2026},
+          {"alan": "Gazetecilik", "puan": 166.080, "yuzdelik": 88.07, "yil": 2025}
+        ],
+        "kaynak": [
+          "https://tabanpuanlari.net/lgs/ankara/yenimahalle",
+          "https://mamakahmetyesevi.meb.k12.tr/meb_iys_dosyalar/06/19/853297/dosyalar/2025_11/18112703_2025lgspuaniilealansinavliliselertabanpuanlariveyuzdelikdilimleri.pdf",
+          "https://sevliyagiltml.meb.k12.tr"
+        ]
+      },
+      {
+        "adi": "Çiğdemtepe Şehit Mehmet Coşkun Kılıç Mesleki ve Teknik Anadolu Lisesi",
+        "tip": "resmi",
+        "adres": "Çiğdemtepe Mah. Selim Cad. No:99, Yenimahalle/Ankara",
+        "telefon": "0312 330 52 37",
+        "web": "https://cigdemtepeeml.meb.k12.tr",
+        "alanlar": [
+          "Elektrik-Elektronik Teknolojisi",
+          "Mobilya ve İç Mekan Tasarımı",
+          "Metal Teknolojisi",
+          "Motorlu Araçlar Teknolojisi"
+        ],
+        "lgs_taban_puan": 229.468,
+        "lgs_yuzdelik": 66.7,
+        "lgs_yil": 2026,
+        "giris_turu": "merkezi_yerlestirme",
+        "alan_puanlari": [
+          {"alan": "Elektrik-Elektronik Teknolojisi", "puan": 229.468, "yuzdelik": 66.7, "yil": 2026},
+          {"alan": "Elektrik-Elektronik Teknolojisi", "puan": 214.773, "yuzdelik": 66.36, "yil": 2025}
+        ],
+        "kaynak": [
+          "https://tabanpuanlari.net/lgs/ankara/yenimahalle",
+          "https://mamakahmetyesevi.meb.k12.tr/meb_iys_dosyalar/06/19/853297/dosyalar/2025_11/18112703_2025lgspuaniilealansinavliliselertabanpuanlariveyuzdelikdilimleri.pdf",
+          "https://cigdemtepeeml.meb.k12.tr"
+        ]
+      },
+      {
+        "adi": "Gazi Mesleki ve Teknik Anadolu Lisesi",
+        "tip": "resmi",
+        "adres": "Emniyet Mah. Milas Sokak No:88, Teknikokullar, Yenimahalle/Ankara",
+        "telefon": "(312) 212 62 46",
+        "web": "https://gatemgazi.meb.k12.tr",
+        "alanlar": [
+          "Uçak Bakım",
+          "Motorlu Araçlar Teknolojisi",
+          "Makine ve Tasarım Teknolojisi",
+          "Elektrik-Elektronik Teknolojisi",
+          "Raylı Sistemler Teknolojisi",
+          "Plastik Teknolojisi",
+          "Metal Teknolojisi",
+          "Mobilya ve İç Mekan Tasarımı"
+        ],
+        "lgs_taban_puan": 390.594,
+        "lgs_yuzdelik": 11.78,
+        "lgs_yil": 2026,
+        "giris_turu": "merkezi_yerlestirme",
+        "alan_puanlari": [
+          {"alan": "Uçak Bakım", "puan": 390.594, "yuzdelik": 11.78, "yil": 2026},
+          {"alan": "Uçak Bakım", "puan": 394.941, "yuzdelik": 11.58, "yil": 2025},
+          {"alan": "Motorlu Araçlar Teknolojisi", "puan": 381.092, "yuzdelik": 13.63, "yil": 2026},
+          {"alan": "Motorlu Araçlar Teknolojisi", "puan": 384.089, "yuzdelik": 13.44, "yil": 2025}
+        ],
+        "kaynak": [
+          "https://tabanpuanlari.net/lgs/ankara/yenimahalle",
+          "https://mamakahmetyesevi.meb.k12.tr/meb_iys_dosyalar/06/19/853297/dosyalar/2025_11/18112703_2025lgspuaniilealansinavliliselertabanpuanlariveyuzdelikdilimleri.pdf",
+          "https://gatemgazi.meb.k12.tr"
+        ]
+      },
+      {
+        "adi": "Halide Edip Mesleki ve Teknik Anadolu Lisesi",
+        "tip": "resmi",
+        "adres": "Tepealtı Mah. Pazar Cad. No:1, Yenimahalle/Ankara",
+        "telefon": "0312 341 97 10",
+        "web": "https://halideedipmtal.meb.k12.tr",
+        "alanlar": [
+          "Sağlık Hizmetleri"
+        ],
+        "lgs_taban_puan": null,
+        "lgs_yuzdelik": null,
+        "lgs_yil": null,
+        "giris_turu": "yerel_yerlestirme",
+        "kaynak": [
+          "https://yenimahalle.meb.gov.tr/meb_iys_dosyalar/2026_05/6a0b2fb3d3f60098119475_MESLEKİ_EĞİTİM-2026.pdf",
+          "https://halideedipmtal.meb.k12.tr"
+        ]
+      },
+      {
+        "adi": "Harun Çakmak Mesleki ve Teknik Anadolu Lisesi",
+        "tip": "resmi",
+        "adres": "Demetgül Mah. Haydar Baş Cad. No:13, Yenimahalle/Ankara",
+        "telefon": "(0312) 346 40 05",
+        "web": "https://haruncakmakmtal.meb.k12.tr",
+        "alanlar": [
+          "Güzellik ve Saç Bakım Hizmetleri",
+          "Çocuk Gelişimi ve Eğitimi",
+          "Yiyecek İçecek Hizmetleri"
+        ],
+        "lgs_taban_puan": null,
+        "lgs_yuzdelik": null,
+        "lgs_yil": null,
+        "giris_turu": "yerel_yerlestirme",
+        "kaynak": [
+          "https://yenimahalle.meb.gov.tr/meb_iys_dosyalar/2026_05/6a0b2fb3d3f60098119475_MESLEKİ_EĞİTİM-2026.pdf",
+          "https://haruncakmakmtal.meb.k12.tr"
+        ]
+      },
+      {
+        "adi": "Mehmet Rüştü Uzel Mesleki ve Teknik Anadolu Lisesi",
+        "tip": "resmi",
+        "adres": "Emniyet Mah. Abant 2 Sokak No:13, Yenimahalle/Ankara",
+        "telefon": "0 312 213 16 67",
+        "web": "https://ankaramruzel.meb.k12.tr",
+        "alanlar": [
+          "Kimya Teknolojisi",
+          "Gıda Teknolojisi"
+        ],
+        "lgs_taban_puan": 274.965,
+        "lgs_yuzdelik": 44.25,
+        "lgs_yil": 2026,
+        "giris_turu": "merkezi_yerlestirme",
+        "alan_puanlari": [
+          {"alan": "Kimya Teknolojisi", "puan": 274.965, "yuzdelik": 44.25, "yil": 2026},
+          {"alan": "Kimya Teknolojisi", "puan": 241.831, "yuzdelik": 51.6, "yil": 2025}
+        ],
+        "kaynak": [
+          "https://tabanpuanlari.net/lgs/ankara/yenimahalle",
+          "https://mamakahmetyesevi.meb.k12.tr/meb_iys_dosyalar/06/19/853297/dosyalar/2025_11/18112703_2025lgspuaniilealansinavliliselertabanpuanlariveyuzdelikdilimleri.pdf",
+          "https://ankaramruzel.meb.k12.tr"
+        ]
+      },
+      {
+        "adi": "Mimar Sinan Mesleki ve Teknik Anadolu Lisesi",
+        "tip": "resmi",
+        "adres": "Emniyet Mah. Milas Sokak No:82, Yenimahalle/Ankara",
+        "telefon": "0312 212 67 90",
+        "web": "https://mimarsinanmtal.meb.k12.tr",
+        "alanlar": [
+          "Bilişim Teknolojileri",
+          "Harita-Tapu-Kadastro",
+          "İnşaat Teknolojisi",
+          "Tesisat ve İklimlendirme Teknolojisi"
+        ],
+        "lgs_taban_puan": 296.92,
+        "lgs_yuzdelik": 36.27,
+        "lgs_yil": 2026,
+        "giris_turu": "merkezi_yerlestirme",
+        "alan_puanlari": [
+          {"alan": "Bilişim Teknolojileri", "puan": 296.92, "yuzdelik": 36.27, "yil": 2026},
+          {"alan": "Harita-Tapu-Kadastro", "puan": 178.713, "yuzdelik": 95.88, "yil": 2026},
+          {"alan": "Harita-Tapu-Kadastro", "puan": 182.653, "yuzdelik": 85.08, "yil": 2025},
+          {"alan": "İnşaat Teknolojisi", "puan": 155.634, "yuzdelik": 100.0, "yil": 2026},
+          {"alan": "İnşaat Teknolojisi", "puan": 150.578, "yuzdelik": 90.87, "yil": 2025}
+        ],
+        "kaynak": [
+          "https://tabanpuanlari.net/lgs/ankara/yenimahalle",
+          "https://mamakahmetyesevi.meb.k12.tr/meb_iys_dosyalar/06/19/853297/dosyalar/2025_11/18112703_2025lgspuaniilealansinavliliselertabanpuanlariveyuzdelikdilimleri.pdf",
+          "https://mimarsinanmtal.meb.k12.tr"
+        ]
+      },
+      {
+        "adi": "Ostim Şehit Alper Zor Mesleki ve Teknik Anadolu Lisesi",
+        "tip": "resmi",
+        "adres": "İlkyerleşim Mah. 1901. Cad. No:2, Yenimahalle/Ankara",
+        "telefon": "0312 385 18 50",
+        "web": "https://ostimsehitalperzormtal.meb.k12.tr",
+        "alanlar": [
+          "Makine ve Tasarım Teknolojisi",
+          "Bilişim Teknolojileri",
+          "Elektrik-Elektronik Teknolojisi",
+          "Metal Teknolojisi",
+          "Mobilya ve İç Mekan Tasarımı",
+          "Tesisat ve İklimlendirme Teknolojisi"
+        ],
+        "lgs_taban_puan": 306.242,
+        "lgs_yuzdelik": 32.92,
+        "lgs_yil": 2026,
+        "giris_turu": "merkezi_yerlestirme",
+        "alan_puanlari": [
+          {"alan": "Makine ve Tasarım Teknolojisi", "puan": 306.242, "yuzdelik": 32.92, "yil": 2026},
+          {"alan": "Makine ve Tasarım Teknolojisi", "puan": 304.129, "yuzdelik": 30.5, "yil": 2025}
+        ],
+        "kaynak": [
+          "https://tabanpuanlari.net/lgs/ankara/yenimahalle",
+          "https://mamakahmetyesevi.meb.k12.tr/meb_iys_dosyalar/06/19/853297/dosyalar/2025_11/18112703_2025lgspuaniilealansinavliliselertabanpuanlariveyuzdelikdilimleri.pdf",
+          "https://ostimsehitalperzormtal.meb.k12.tr"
+        ]
+      },
+      {
+        "adi": "Şehit Murat Üçöz Mesleki ve Teknik Anadolu Lisesi",
+        "tip": "resmi",
+        "adres": "Cumhuriyet Mah. 2422. Cad. No:9/A, Yenimahalle/Ankara",
+        "telefon": "(312) 557 48 29",
+        "web": "https://sehitmuratucozmtal.meb.k12.tr",
+        "alanlar": [
+          "Yenilenebilir Enerji Teknolojileri",
+          "Çocuk Gelişimi ve Eğitimi",
+          "Yiyecek İçecek Hizmetleri"
+        ],
+        "lgs_taban_puan": 295.45,
+        "lgs_yuzdelik": 36.76,
+        "lgs_yil": 2026,
+        "giris_turu": "merkezi_yerlestirme",
+        "alan_puanlari": [
+          {"alan": "Yenilenebilir Enerji Teknolojileri", "puan": 295.45, "yuzdelik": 36.76, "yil": 2026},
+          {"alan": "Yenilenebilir Enerji Teknolojileri", "puan": 309.36, "yuzdelik": 29.12, "yil": 2025}
+        ],
+        "kaynak": [
+          "https://tabanpuanlari.net/lgs/ankara/yenimahalle",
+          "https://mamakahmetyesevi.meb.k12.tr/meb_iys_dosyalar/06/19/853297/dosyalar/2025_11/18112703_2025lgspuaniilealansinavliliselertabanpuanlariveyuzdelikdilimleri.pdf",
+          "https://sehitmuratucozmtal.meb.k12.tr"
+        ]
+      },
+      {
+        "adi": "Teknopark Ankara İvedik OSB Mesleki ve Teknik Anadolu Lisesi",
+        "tip": "resmi",
+        "adres": "İvedik OSB Mah. 1440. Cad. No:3, Yenimahalle/Ankara",
+        "telefon": "(530) 303 13 79",
+        "web": "https://teknoparkankara.meb.k12.tr",
+        "alanlar": [
+          "Bilişim Teknolojileri",
+          "Elektrik-Elektronik Teknolojisi",
+          "Makine ve Tasarım Teknolojisi",
+          "Plastik Teknolojisi"
+        ],
+        "lgs_taban_puan": 404.129,
+        "lgs_yuzdelik": 9.38,
+        "lgs_yil": 2026,
+        "giris_turu": "merkezi_yerlestirme",
+        "alan_puanlari": [
+          {"alan": "Elektrik-Elektronik Teknolojisi", "puan": 404.129, "yuzdelik": 9.38, "yil": 2026},
+          {"alan": "Elektrik-Elektronik Teknolojisi", "puan": 402.705, "yuzdelik": 10.3, "yil": 2025},
+          {"alan": "Elektrik-Elektronik Teknolojisi (Sınavlı)", "puan": 381.532, "yuzdelik": 13.53, "yil": 2026},
+          {"alan": "Elektrik-Elektronik Teknolojisi (Sınavlı)", "puan": 388.465, "yuzdelik": 12.67, "yil": 2025},
+          {"alan": "Bilişim Teknolojileri", "puan": 388.585, "yuzdelik": 12.15, "yil": 2026},
+          {"alan": "Bilişim Teknolojileri", "puan": 395.383, "yuzdelik": 11.51, "yil": 2025},
+          {"alan": "Bilişim Teknolojileri (Sınavlı)", "puan": 374.244, "yuzdelik": 15.05, "yil": 2026},
+          {"alan": "Bilişim Teknolojileri (Sınavlı)", "puan": 376.677, "yuzdelik": 14.76, "yil": 2025},
+          {"alan": "Makine ve Tasarım Teknolojisi (Sınavlı)", "puan": 369.07, "yuzdelik": 16.16, "yil": 2026},
+          {"alan": "Makine ve Tasarım Teknolojisi (Sınavlı)", "puan": 369.239, "yuzdelik": 16.14, "yil": 2025},
+          {"alan": "Plastik Teknolojisi (Sınavlı)", "puan": 300.359, "yuzdelik": 35.12, "yil": 2026},
+          {"alan": "Plastik Teknolojisi (Sınavlı)", "puan": 303.114, "yuzdelik": 30.76, "yil": 2025}
+        ],
+        "kaynak": [
+          "https://tabanpuanlari.net/lgs/ankara/yenimahalle",
+          "https://mamakahmetyesevi.meb.k12.tr/meb_iys_dosyalar/06/19/853297/dosyalar/2025_11/18112703_2025lgspuaniilealansinavliliselertabanpuanlariveyuzdelikdilimleri.pdf",
+          "https://teknoparkankara.meb.k12.tr"
+        ]
+      },
+      {
+        "adi": "Yenimahalle Şehit Mehmet Şengül Mesleki ve Teknik Anadolu Lisesi",
+        "tip": "resmi",
+        "adres": "Gayret Mah. İvedik Cad. No:21, Yenimahalle/Ankara",
+        "telefon": "(312) 315 62 74",
+        "web": "https://yatml.meb.k12.tr",
+        "alanlar": [
+          "Elektrik-Elektronik Teknolojisi",
+          "Bilişim Teknolojileri",
+          "Makine ve Tasarım Teknolojisi"
+        ],
+        "lgs_taban_puan": 366.437,
+        "lgs_yuzdelik": 16.74,
+        "lgs_yil": 2026,
+        "giris_turu": "merkezi_yerlestirme",
+        "alan_puanlari": [
+          {"alan": "Elektrik-Elektronik Teknolojisi", "puan": 366.437, "yuzdelik": 16.74, "yil": 2026},
+          {"alan": "Elektrik-Elektronik Teknolojisi", "puan": 361.64, "yuzdelik": 17.59, "yil": 2025},
+          {"alan": "Bilişim Teknolojileri", "puan": 351.111, "yuzdelik": 20.36, "yil": 2026},
+          {"alan": "Bilişim Teknolojileri", "puan": 361.137, "yuzdelik": 17.68, "yil": 2025},
+          {"alan": "Makine ve Tasarım Teknolojisi", "puan": 348.601, "yuzdelik": 21.01, "yil": 2026},
+          {"alan": "Makine ve Tasarım Teknolojisi", "puan": 351.236, "yuzdelik": 19.66, "yil": 2025}
+        ],
+        "kaynak": [
+          "https://tabanpuanlari.net/lgs/ankara/yenimahalle",
+          "https://mamakahmetyesevi.meb.k12.tr/meb_iys_dosyalar/06/19/853297/dosyalar/2025_11/18112703_2025lgspuaniilealansinavliliselertabanpuanlariveyuzdelikdilimleri.pdf",
+          "https://yatml.meb.k12.tr"
+        ]
+      },
+      {
+        "adi": "Yenimahalle Zeynep-Salih Alp Mesleki ve Teknik Anadolu Lisesi",
+        "tip": "resmi",
+        "adres": "Gayret Mah. İvedik Cad. Güldereli Sokak No:2, Yenimahalle/Ankara",
+        "telefon": "0312 315 54 29",
+        "web": "https://zeynepsalihalp.meb.k12.tr",
+        "alanlar": [
+          "Bilişim Teknolojileri",
+          "Grafik ve Fotoğrafçılık",
+          "Yiyecek İçecek Hizmetleri",
+          "Radyo-Televizyon",
+          "Moda Tasarım Teknolojisi",
+          "Güzellik ve Saç Bakım Hizmetleri",
+          "Gıda Teknolojisi",
+          "Aile ve Tüketici Hizmetleri",
+          "Çocuk Gelişimi ve Eğitimi"
+        ],
+        "lgs_taban_puan": 319.615,
+        "lgs_yuzdelik": 29.02,
+        "lgs_yil": 2026,
+        "giris_turu": "merkezi_yerlestirme",
+        "alan_puanlari": [
+          {"alan": "Bilişim Teknolojileri", "puan": 319.615, "yuzdelik": 29.02, "yil": 2026},
+          {"alan": "Bilişim Teknolojileri", "puan": 313.699, "yuzdelik": 28.04, "yil": 2025},
+          {"alan": "Yiyecek İçecek Hizmetleri", "puan": 253.954, "yuzdelik": 53.27, "yil": 2026},
+          {"alan": "Yiyecek İçecek Hizmetleri", "puan": 237.899, "yuzdelik": 53.01, "yil": 2025},
+          {"alan": "Radyo-Televizyon", "puan": 160.317, "yuzdelik": 99.89, "yil": 2026},
+          {"alan": "Radyo-Televizyon", "puan": 161.042, "yuzdelik": 88.98, "yil": 2025},
+          {"alan": "Grafik ve Fotoğrafçılık", "puan": 252.861, "yuzdelik": 47.65, "yil": 2025}
+        ],
+        "kaynak": [
+          "https://tabanpuanlari.net/lgs/ankara/yenimahalle",
+          "https://mamakahmetyesevi.meb.k12.tr/meb_iys_dosyalar/06/19/853297/dosyalar/2025_11/18112703_2025lgspuaniilealansinavliliselertabanpuanlariveyuzdelikdilimleri.pdf",
+          "https://zeynepsalihalp.meb.k12.tr"
+        ]
+      },
+      {
+        "adi": "Yunus Emre Kız Mesleki ve Teknik Anadolu Lisesi",
+        "tip": "resmi",
+        "adres": "Uğur Mumcu Mah. 1606 Sokak No:2, Yenimahalle/Ankara",
+        "telefon": "(0312) 315 82 26",
+        "web": "https://yunusemrekml.meb.k12.tr",
+        "alanlar": [
+          "Çocuk Gelişimi ve Eğitimi",
+          "Grafik ve Fotoğrafçılık",
+          "Güzellik ve Saç Bakım Hizmetleri",
+          "El Sanatları ve Zanaat",
+          "Moda Tasarım Teknolojisi"
+        ],
+        "lgs_taban_puan": null,
+        "lgs_yuzdelik": null,
+        "lgs_yil": null,
+        "giris_turu": "yerel_yerlestirme",
+        "kaynak": [
+          "https://yenimahalle.meb.gov.tr/meb_iys_dosyalar/2026_05/6a0b2fb3d3f60098119475_MESLEKİ_EĞİTİM-2026.pdf",
+          "https://yunusemrekml.meb.k12.tr"
+        ]
+      },
+      {
+        "adi": "Özel Ankara Teknoloji Koleji Mesleki ve Teknik Anadolu Lisesi",
+        "tip": "ozel",
+        "adres": "Turgut Özal Mah. 1949. Cad. No:46/B, Yenimahalle/Ankara",
+        "telefon": "0 (312) 541 20 21",
+        "web": "https://ankarateknolojikoleji.com",
+        "alanlar": [
+          "Elektrik-Elektronik Teknolojisi"
+        ],
+        "lgs_taban_puan": null,
+        "lgs_yuzdelik": null,
+        "lgs_yil": null,
+        "giris_turu": "ozel_okul",
+        "kaynak": [
+          "https://yenimahalle.meb.gov.tr/meb_iys_dosyalar/2026_05/6a0b2fb3d3f60098119475_MESLEKİ_EĞİTİM-2026.pdf",
+          "https://ankarateknolojikoleji.com"
+        ]
+      },
+      {
+        "adi": "Özel Ostim OSB Mesleki ve Teknik Anadolu Lisesi",
+        "tip": "ozel",
+        "adres": "Ostim OSB Mah. 1238. Cad. No:7, Yenimahalle/Ankara",
+        "telefon": null,
+        "web": null,
+        "alanlar": [
+          "Yenilenebilir Enerji Teknolojileri",
+          "Bilişim Teknolojileri"
+        ],
+        "lgs_taban_puan": null,
+        "lgs_yuzdelik": null,
+        "lgs_yil": null,
+        "giris_turu": "ozel_okul",
+        "kaynak": [
+          "https://yenimahalle.meb.gov.tr/meb_iys_dosyalar/2026_05/6a0b2fb3d3f60098119475_MESLEKİ_EĞİTİM-2026.pdf"
+        ]
+      }
+    ]
+  },
+  {
+    "ilce": "Mamak",
+    "okullar": [
+      {
+        "adi": "Abidinpaşa Mesleki ve Teknik Anadolu Lisesi",
+        "tip": "resmi",
+        "adres": "Aşık Veysel Mah. Tıp Fakültesi Cad. No:64, Mamak/Ankara",
+        "telefon": "(312) 364 39 31",
+        "web": null,
+        "alanlar": [
+          "Bilişim Teknolojileri",
+          "Biyomedikal Cihaz Teknolojileri",
+          "Elektrik-Elektronik Teknolojisi",
+          "Mobilya ve İç Mekan Tasarımı",
+          "Metal Teknolojisi",
+          "Makine ve Tasarım Teknolojisi"
+        ],
+        "lgs_taban_puan": 296.102,
+        "lgs_yuzdelik": 36.54,
+        "lgs_yil": 2026,
+        "giris_turu": "merkezi_yerlestirme",
+        "alan_puanlari": [
+          {"alan": "Makine ve Tasarım Teknolojisi", "puan": 296.102, "yuzdelik": 36.54, "yil": 2026},
+          {"alan": "Makine ve Tasarım Teknolojisi", "puan": 280.412, "yuzdelik": 37.77, "yil": 2025},
+          {"alan": "Biyomedikal Cihaz Teknolojileri", "puan": 267.974, "yuzdelik": 47.07, "yil": 2026},
+          {"alan": "Biyomedikal Cihaz Teknolojileri", "puan": 256.129, "yuzdelik": 46.48, "yil": 2025}
+        ],
+        "kaynak": [
+          "https://mamakahmetyesevi.meb.k12.tr/meb_iys_dosyalar/06/19/853297/dosyalar/2024_06/03144013_mamakmeslekiteknikanadoluliselerialanvedallar.pdf",
+          "https://tabanpuanlari.net/lgs/ankara/mamak",
+          "https://mamakahmetyesevi.meb.k12.tr/meb_iys_dosyalar/06/19/853297/dosyalar/2025_11/18112703_2025lgspuaniilealansinavliliselertabanpuanlariveyuzdelikdilimleri.pdf"
+        ]
+      },
+      {
+        "adi": "Battalgazi Mesleki ve Teknik Anadolu Lisesi",
+        "tip": "resmi",
+        "adres": "Ekin Mah. 1648. Sokak No:18, Mamak/Ankara",
+        "telefon": "0 (312) 376 76 62",
+        "web": null,
+        "alanlar": [
+          "Bilişim Teknolojileri",
+          "Elektrik-Elektronik Teknolojisi",
+          "İnşaat Teknolojisi",
+          "Tesisat ve İklimlendirme Teknolojisi",
+          "Metal Teknolojisi",
+          "Mobilya ve İç Mekan Tasarımı"
+        ],
+        "lgs_taban_puan": 222.685,
+        "lgs_yuzdelik": 71.11,
+        "lgs_yil": 2026,
+        "giris_turu": "merkezi_yerlestirme",
+        "alan_puanlari": [
+          {"alan": "Elektrik-Elektronik Teknolojisi", "puan": 222.685, "yuzdelik": 71.11, "yil": 2026},
+          {"alan": "Elektrik-Elektronik Teknolojisi", "puan": 195.734, "yuzdelik": 78.82, "yil": 2025}
+        ],
+        "kaynak": [
+          "https://mamakahmetyesevi.meb.k12.tr/meb_iys_dosyalar/06/19/853297/dosyalar/2024_06/03144013_mamakmeslekiteknikanadoluliselerialanvedallar.pdf",
+          "https://tabanpuanlari.net/lgs/ankara/mamak",
+          "https://mamakahmetyesevi.meb.k12.tr/meb_iys_dosyalar/06/19/853297/dosyalar/2025_11/18112703_2025lgspuaniilealansinavliliselertabanpuanlariveyuzdelikdilimleri.pdf"
+        ]
+      },
+      {
+        "adi": "Cebeci Mesleki ve Teknik Anadolu Lisesi",
+        "tip": "resmi",
+        "adres": "Abidinpaşa, Mamak Cad. No:40, Mamak/Ankara",
+        "telefon": "(0312) 319 30 27",
+        "web": null,
+        "alanlar": [
+          "Bilişim Teknolojileri",
+          "Büro Yönetimi ve Yönetici Asistanlığı",
+          "Çocuk Gelişimi ve Eğitimi",
+          "Grafik ve Fotoğrafçılık",
+          "Halkla İlişkiler ve Organizasyon Hizmetleri",
+          "Yiyecek İçecek Hizmetleri"
+        ],
+        "lgs_taban_puan": null,
+        "lgs_yuzdelik": null,
+        "lgs_yil": null,
+        "giris_turu": "yerel_yerlestirme",
+        "kaynak": [
+          "https://mamakahmetyesevi.meb.k12.tr/meb_iys_dosyalar/06/19/853297/dosyalar/2024_06/03144013_mamakmeslekiteknikanadoluliselerialanvedallar.pdf"
+        ]
+      },
+      {
+        "adi": "Ege Mesleki ve Teknik Anadolu Lisesi",
+        "tip": "resmi",
+        "adres": "Ege 778. Sokak No:5, Mamak/Ankara",
+        "telefon": "0 312 544 09 27",
+        "web": null,
+        "alanlar": [
+          "Endüstriyel Otomasyon Teknolojileri",
+          "Yenilenebilir Enerji Teknolojileri",
+          "Plastik Teknolojisi"
+        ],
+        "lgs_taban_puan": 249.605,
+        "lgs_yuzdelik": 55.38,
+        "lgs_yil": 2026,
+        "giris_turu": "merkezi_yerlestirme",
+        "alan_puanlari": [
+          {"alan": "Endüstriyel Otomasyon Teknolojileri", "puan": 249.605, "yuzdelik": 55.38, "yil": 2026},
+          {"alan": "Endüstriyel Otomasyon Teknolojileri", "puan": 215.851, "yuzdelik": 65.66, "yil": 2025},
+          {"alan": "Yenilenebilir Enerji Teknolojileri", "puan": 234.592, "yuzdelik": 63.54, "yil": 2026},
+          {"alan": "Yenilenebilir Enerji Teknolojileri", "puan": 215.585, "yuzdelik": 65.83, "yil": 2025}
+        ],
+        "kaynak": [
+          "https://mamakahmetyesevi.meb.k12.tr/meb_iys_dosyalar/06/19/853297/dosyalar/2024_06/03144013_mamakmeslekiteknikanadoluliselerialanvedallar.pdf",
+          "https://tabanpuanlari.net/lgs/ankara/mamak",
+          "https://mamakahmetyesevi.meb.k12.tr/meb_iys_dosyalar/06/19/853297/dosyalar/2025_11/18112703_2025lgspuaniilealansinavliliselertabanpuanlariveyuzdelikdilimleri.pdf"
+        ]
+      },
+      {
+        "adi": "Kutludüğün Borsa İstanbul Çok Programlı Anadolu Lisesi",
+        "tip": "resmi",
+        "adres": "Kutludüğün Mah. Atatürk Cad. No:52, Mamak/Ankara",
+        "telefon": "(0312) 597 56 60",
+        "web": null,
+        "alanlar": [
+          "Muhasebe ve Finansman",
+          "Bilişim Teknolojileri"
+        ],
+        "lgs_taban_puan": null,
+        "lgs_yuzdelik": null,
+        "lgs_yil": null,
+        "giris_turu": "yerel_yerlestirme",
+        "kaynak": [
+          "https://mamakahmetyesevi.meb.k12.tr/meb_iys_dosyalar/06/19/853297/dosyalar/2024_06/03144013_mamakmeslekiteknikanadoluliselerialanvedallar.pdf"
+        ]
+      },
+      {
+        "adi": "Lalahan Çok Programlı Anadolu Lisesi",
+        "tip": "resmi",
+        "adres": "Karşıyaka Mah. Cumhuriyet Cad. No:1, Lalahan, Mamak/Ankara",
+        "telefon": "(0312) 865 21 87",
+        "web": null,
+        "alanlar": [
+          "Hasta ve Yaşlı Bakımı (Hizmetleri)"
+        ],
+        "lgs_taban_puan": null,
+        "lgs_yuzdelik": null,
+        "lgs_yil": null,
+        "giris_turu": "yerel_yerlestirme",
+        "kaynak": [
+          "https://mamakahmetyesevi.meb.k12.tr/meb_iys_dosyalar/06/19/853297/dosyalar/2024_06/03144013_mamakmeslekiteknikanadoluliselerialanvedallar.pdf"
+        ]
+      },
+      {
+        "adi": "Mamak Mesleki ve Teknik Anadolu Lisesi",
+        "tip": "resmi",
+        "adres": "Bahçeleriçi Mah. 278. Cadde No:7/A, Mamak/Ankara (MEM PDF'te: 165/10 Sok. No:4)",
+        "telefon": "0 312 368 81 02",
+        "web": "https://mamakmesleki.meb.k12.tr",
+        "alanlar": [
+          "Sağlık Hizmetleri (Hemşire Yardımcılığı, Ebe Yardımcılığı, Sağlık Bakım Teknisyenliği)"
+        ],
+        "lgs_taban_puan": null,
+        "lgs_yuzdelik": null,
+        "lgs_yil": null,
+        "giris_turu": "yerel_yerlestirme",
+        "kaynak": [
+          "https://mamakahmetyesevi.meb.k12.tr/meb_iys_dosyalar/06/19/853297/dosyalar/2024_06/03144013_mamakmeslekiteknikanadoluliselerialanvedallar.pdf",
+          "https://mamakmesleki.meb.k12.tr"
+        ]
+      },
+      {
+        "adi": "Nene Hatun Mesleki ve Teknik Anadolu Lisesi",
+        "tip": "resmi",
+        "adres": "Hüseyin Gazi Mah. Abdülhakhamit Cad. No:167, Mamak/Ankara",
+        "telefon": "(0312) 368 78 04",
+        "web": null,
+        "alanlar": [
+          "Bilişim Teknolojileri",
+          "Halkla İlişkiler ve Organizasyon Hizmetleri",
+          "Yiyecek İçecek Hizmetleri"
+        ],
+        "lgs_taban_puan": null,
+        "lgs_yuzdelik": null,
+        "lgs_yil": null,
+        "giris_turu": "yerel_yerlestirme",
+        "kaynak": [
+          "https://mamakahmetyesevi.meb.k12.tr/meb_iys_dosyalar/06/19/853297/dosyalar/2024_06/03144013_mamakmeslekiteknikanadoluliselerialanvedallar.pdf"
+        ]
+      },
+      {
+        "adi": "Ortaköy 80. Yıl Mesleki ve Teknik Anadolu Lisesi",
+        "tip": "resmi",
+        "adres": "Kızılca Mah. 19 Mayıs Bulvarı (Samsun Yolu) 21. Km No:14, Mamak/Ankara",
+        "telefon": "(0312) 399 07 71",
+        "web": null,
+        "alanlar": [
+          "Makine ve Tasarım Teknolojisi",
+          "Metal Teknolojisi",
+          "Mobilya ve İç Mekan Tasarımı",
+          "Bilişim Teknolojileri",
+          "Elektrik-Elektronik Teknolojisi"
+        ],
+        "lgs_taban_puan": null,
+        "lgs_yuzdelik": null,
+        "lgs_yil": null,
+        "giris_turu": "yerel_yerlestirme",
+        "kaynak": [
+          "https://mamakahmetyesevi.meb.k12.tr/meb_iys_dosyalar/06/19/853297/dosyalar/2024_06/03144013_mamakmeslekiteknikanadoluliselerialanvedallar.pdf"
+        ]
+      },
+      {
+        "adi": "Prof. Dr. Ragıp Üner Mesleki ve Teknik Anadolu Lisesi",
+        "tip": "resmi",
+        "adres": "Akdere Mah. 393. Sokak No:7, Mamak/Ankara",
+        "telefon": "(0312) 364 99 76",
+        "web": null,
+        "alanlar": [
+          "Sağlık Hizmetleri (Hemşire Yardımcılığı, Ebe Yardımcılığı, Sağlık Bakım Teknisyenliği)"
+        ],
+        "lgs_taban_puan": 301.527,
+        "lgs_yuzdelik": 34.74,
+        "lgs_yil": 2026,
+        "giris_turu": "merkezi_yerlestirme",
+        "alan_puanlari": [
+          {"alan": "Sağlık Hizmetleri", "puan": 301.527, "yuzdelik": 34.74, "yil": 2026},
+          {"alan": "Sağlık Hizmetleri", "puan": 296.935, "yuzdelik": 32.39, "yil": 2025}
+        ],
+        "kaynak": [
+          "https://mamakahmetyesevi.meb.k12.tr/meb_iys_dosyalar/06/19/853297/dosyalar/2024_06/03144013_mamakmeslekiteknikanadoluliselerialanvedallar.pdf",
+          "https://tabanpuanlari.net/lgs/ankara/mamak"
+        ]
+      },
+      {
+        "adi": "Suzan-Mehmet Gönç Mesleki ve Teknik Anadolu Lisesi",
+        "tip": "resmi",
+        "adres": "Mehtap Mah. Okullar Cad. No:40, Mamak/Ankara",
+        "telefon": "(0312) 389 09 49",
+        "web": null,
+        "alanlar": [
+          "Adalet",
+          "Bilişim Teknolojileri",
+          "Büro Yönetimi ve Yönetici Asistanlığı",
+          "Pazarlama ve Perakende",
+          "Ulaştırma Hizmetleri",
+          "Muhasebe ve Finansman"
+        ],
+        "lgs_taban_puan": null,
+        "lgs_yuzdelik": null,
+        "lgs_yil": null,
+        "giris_turu": "yerel_yerlestirme",
+        "kaynak": [
+          "https://mamakahmetyesevi.meb.k12.tr/meb_iys_dosyalar/06/19/853297/dosyalar/2024_06/03144013_mamakmeslekiteknikanadoluliselerialanvedallar.pdf"
+        ]
+      },
+      {
+        "adi": "Türközü Oğuzhan Mesleki ve Teknik Anadolu Lisesi",
+        "tip": "resmi",
+        "adres": "Türközü Mah. 342. Cad. 433. Sok. No:2, Mamak/Ankara",
+        "telefon": "312 364 93 58",
+        "web": null,
+        "alanlar": [
+          "Bilişim Teknolojileri",
+          "Elektrik-Elektronik Teknolojisi",
+          "İnşaat Teknolojisi",
+          "Motorlu Araçlar Teknolojisi",
+          "Tesisat ve İklimlendirme Teknolojisi"
+        ],
+        "lgs_taban_puan": 221.42,
+        "lgs_yuzdelik": 71.97,
+        "lgs_yil": 2026,
+        "giris_turu": "merkezi_yerlestirme",
+        "alan_puanlari": [
+          {"alan": "Elektrik-Elektronik Teknolojisi", "puan": 221.42, "yuzdelik": 71.97, "yil": 2026},
+          {"alan": "Elektrik-Elektronik Teknolojisi", "puan": 202.083, "yuzdelik": 74.66, "yil": 2025}
+        ],
+        "kaynak": [
+          "https://mamakahmetyesevi.meb.k12.tr/meb_iys_dosyalar/06/19/853297/dosyalar/2024_06/03144013_mamakmeslekiteknikanadoluliselerialanvedallar.pdf",
+          "https://tabanpuanlari.net/lgs/ankara/mamak",
+          "https://mamakahmetyesevi.meb.k12.tr/meb_iys_dosyalar/06/19/853297/dosyalar/2025_11/18112703_2025lgspuaniilealansinavliliselertabanpuanlariveyuzdelikdilimleri.pdf"
+        ]
+      },
+      {
+        "adi": "Üreğil Mesleki ve Teknik Anadolu Lisesi",
+        "tip": "resmi",
+        "adres": "Dostlar Mah. Bedrettin Cömert Cad. No:1, Mamak/Ankara",
+        "telefon": "(0312) 368 62 39",
+        "web": null,
+        "alanlar": [
+          "Bilişim Teknolojileri",
+          "Grafik ve Fotoğrafçılık",
+          "Hasta ve Yaşlı Bakımı (Hizmetleri)",
+          "Çocuk Gelişimi ve Eğitimi",
+          "Moda Tasarım Teknolojisi"
+        ],
+        "lgs_taban_puan": null,
+        "lgs_yuzdelik": null,
+        "lgs_yil": null,
+        "giris_turu": "yerel_yerlestirme",
+        "kaynak": [
+          "https://mamakahmetyesevi.meb.k12.tr/meb_iys_dosyalar/06/19/853297/dosyalar/2024_06/03144013_mamakmeslekiteknikanadoluliselerialanvedallar.pdf"
+        ]
+      },
+      {
+        "adi": "Mamak Yunus Emre Ticaret Mesleki ve Teknik Anadolu Lisesi",
+        "tip": "resmi",
+        "adres": "Fahri Korutürk Mah. 912 Sokak No:1, Mamak/Ankara (eski adres: Bahçeleriçi Mah. Mamak Cad. No:229)",
+        "telefon": "0312 502 57 28",
+        "web": "https://ytml.meb.k12.tr",
+        "alanlar": [
+          "Muhasebe ve Finansman",
+          "Bilişim Teknolojileri",
+          "Büro Yönetimi ve Yönetici Asistanlığı",
+          "Pazarlama ve Perakende"
+        ],
+        "lgs_taban_puan": null,
+        "lgs_yuzdelik": null,
+        "lgs_yil": null,
+        "giris_turu": "yerel_yerlestirme",
+        "kaynak": [
+          "https://ytml.meb.k12.tr",
+          "https://mamakahmetyesevi.meb.k12.tr/meb_iys_dosyalar/06/19/853297/dosyalar/2024_06/03144013_mamakmeslekiteknikanadoluliselerialanvedallar.pdf",
+          "https://okul.com.tr/lise/ankara/mamak"
+        ]
+      },
+      {
+        "adi": "Özel Güven Anadolu Sağlık Meslek Lisesi",
+        "tip": "ozel",
+        "adres": "Çağlayan Mahallesi, Mamak/Ankara",
+        "telefon": "0 312 963 1680",
+        "web": null,
+        "alanlar": [
+          "Sağlık Hizmetleri (Hemşire Yardımcılığı, Sağlık Bakım Teknisyenliği)"
+        ],
+        "lgs_taban_puan": null,
+        "lgs_yuzdelik": null,
+        "lgs_yil": null,
+        "giris_turu": "ozel_okul",
+        "kaynak": [
+          "https://okul.com.tr/lise/ankara/ozel-guven-anadolu-saglik-meslek-lisesi-8288"
+        ]
+      },
+      {
+        "adi": "Özel Mamak Data Koleji Mesleki ve Teknik Anadolu Lisesi",
+        "tip": "ozel",
+        "adres": "Şahintepe Mahallesi, Mamak/Ankara",
+        "telefon": "0 312 963 1027",
+        "web": "https://www.datakoleji.com/mamak-kampusu",
+        "alanlar": [
+          "Elektrik-Elektronik Teknolojisi (Endüstriyel Bakım ve Onarım)"
+        ],
+        "lgs_taban_puan": null,
+        "lgs_yuzdelik": null,
+        "lgs_yil": null,
+        "giris_turu": "ozel_okul",
+        "kaynak": [
+          "https://okul.com.tr/lise/ankara/ozel-mamak-data-koleji-mesleki-ve-teknik-anadolu-lisesi-16043",
+          "https://www.datakoleji.com/mamak-kampusu"
+        ]
+      }
+    ]
+  }
+]

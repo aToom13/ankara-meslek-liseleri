@@ -1,0 +1,1105 @@
+[
+  {
+    "ilce": "Çankaya",
+    "okullar": [
+      {
+        "adi": "Ali Hasan Coşkun Mesleki ve Teknik Anadolu Lisesi",
+        "tip": "resmi",
+        "adres": "Şehit Cengiz Karaca Mah. 1044. Cad. No6 Çankaya/Ankara",
+        "telefon": "0 312 476 19 70",
+        "web": "https://771472.meb.k12.tr",
+        "alanlar": [
+          "Sağlık Hizmetleri"
+        ],
+        "lgs_taban_puan": null,
+        "lgs_yuzdelik": null,
+        "lgs_yil": null,
+        "giris_turu": "yerel_yerlestirme",
+        "alan_puanlari": [],
+        "kaynak": [
+          "https://cankaya.meb.gov.tr/www/mesleki-ve-teknik-egitim-sube-mudurlugu/icerik/1706",
+          "https://771472.meb.k12.tr/tema/iletisim.php"
+        ]
+      },
+      {
+        "adi": "Ayrancı Mesleki ve Teknik Anadolu Lisesi",
+        "tip": "resmi",
+        "adres": "Yukarı Ayrancı Mah. Uçarlı Sok. Emniyet Genel Müdürlüğü Yanı 06540 Çankaya/Ankara",
+        "telefon": "0 312 426 02 34",
+        "web": "",
+        "alanlar": [],
+        "lgs_taban_puan": null,
+        "lgs_yuzdelik": null,
+        "lgs_yil": null,
+        "giris_turu": "yerel_yerlestirme",
+        "alan_puanlari": [],
+        "kaynak": [
+          "https://cankaya.meb.gov.tr/www/mesleki-ve-teknik-egitim-sube-mudurlugu/icerik/1706"
+        ]
+      },
+      {
+        "adi": "Aziz Altınpınar Ticaret Mesleki ve Teknik Anadolu Lisesi",
+        "tip": "resmi",
+        "adres": "Yakupabdal Mah. Nato Yolu Cd. No1113 Çankaya/Ankara",
+        "telefon": "0 312 453 24 44",
+        "web": "https://azizaltinpinarmtal.meb.k12.tr",
+        "alanlar": [
+          "Muhasebe ve Finansman",
+          "Pazarlama ve Perakende"
+        ],
+        "lgs_taban_puan": null,
+        "lgs_yuzdelik": null,
+        "lgs_yil": null,
+        "giris_turu": "yerel_yerlestirme",
+        "alan_puanlari": [],
+        "kaynak": [
+          "https://cankaya.meb.gov.tr/www/mesleki-ve-teknik-egitim-sube-mudurlugu/icerik/1706",
+          "https://cankayaram.meb.k12.tr/meb_iys_dosyalar/06/06/119806/dosyalar/2025_07/01140910_cankayamtallistesi.pdf"
+        ]
+      },
+      {
+        "adi": "Bahçelievler 100. Yıl Mesleki ve Teknik Anadolu Lisesi",
+        "tip": "resmi",
+        "adres": "Emek Mah. Kazakistan Cd. 14. Sok. No1 06510 Çankaya/Ankara",
+        "telefon": "0 312 223 05 58",
+        "web": "https://yuzyilmtal.meb.k12.tr",
+        "alanlar": [
+          "Aile ve Tüketici Hizmetleri",
+          "Bilişim Teknolojileri",
+          "Büro Yönetimi ve Yönetici Asistanlığı",
+          "Çocuk Gelişimi ve Eğitimi",
+          "Grafik ve Fotoğrafçılık",
+          "Güzellik ve Saç Bakım Hizmetleri",
+          "Moda Tasarımı ve Teknolojisi",
+          "Yiyecek İçecek Hizmetleri"
+        ],
+        "lgs_taban_puan": null,
+        "lgs_yuzdelik": null,
+        "lgs_yil": null,
+        "giris_turu": "yerel_yerlestirme",
+        "alan_puanlari": [],
+        "kaynak": [
+          "https://cankaya.meb.gov.tr/www/mesleki-ve-teknik-egitim-sube-mudurlugu/icerik/1706",
+          "https://yuzyilmtal.meb.k12.tr",
+          "https://cankayaram.meb.k12.tr/meb_iys_dosyalar/06/06/119806/dosyalar/2025_07/01140910_cankayamtallistesi.pdf"
+        ]
+      },
+      {
+        "adi": "Balgat Aliye Yahşi Mesleki ve Teknik Anadolu Lisesi",
+        "tip": "resmi",
+        "adres": "Balgat Mah. Ziya Bey Cad. 1416. Sok. No2 06520 Çankaya/Ankara",
+        "telefon": "0 312 285 05 26",
+        "web": "https://aliyeyahsiktml.meb.k12.tr",
+        "alanlar": [
+          "Bilişim Teknolojileri",
+          "Çocuk Gelişimi ve Eğitimi",
+          "Moda Tasarım Teknolojileri",
+          "Yiyecek İçecek Hizmetleri"
+        ],
+        "lgs_taban_puan": null,
+        "lgs_yuzdelik": null,
+        "lgs_yil": null,
+        "giris_turu": "yerel_yerlestirme",
+        "alan_puanlari": [],
+        "kaynak": [
+          "https://cankaya.meb.gov.tr/www/mesleki-ve-teknik-egitim-sube-mudurlugu/icerik/1706",
+          "https://aliyeyahsiktml.meb.k12.tr",
+          "https://cankayaram.meb.k12.tr/meb_iys_dosyalar/06/06/119806/dosyalar/2025_07/01140910_cankayamtallistesi.pdf"
+        ]
+      },
+      {
+        "adi": "Balgat Mesleki ve Teknik Anadolu Lisesi",
+        "tip": "resmi",
+        "adres": "Yukarıöveçler Mah. Cevizlidere Cad. No13 06450 Çankaya/Ankara",
+        "telefon": "0 312 472 95 49",
+        "web": "https://balgateml.meb.k12.tr",
+        "alanlar": [
+          "Bilişim Teknolojileri",
+          "Biyomedikal Cihaz Teknolojileri",
+          "Elektrik-Elektronik Teknolojisi",
+          "Endüstriyel Otomasyon Teknolojileri",
+          "Makine ve Tasarım Teknolojisi",
+          "Metal Teknolojisi",
+          "Mobilya ve İç Mekan Tasarımı"
+        ],
+        "lgs_taban_puan": 274.405,
+        "lgs_yuzdelik": 44.46,
+        "lgs_yil": 2026,
+        "giris_turu": "merkezi_yerlestirme",
+        "alan_puanlari": [
+          {
+            "alan": "Elektrik-Elektronik Teknolojisi",
+            "puan": 274.405,
+            "yuzdelik": 44.46,
+            "yil": 2026
+          },
+          {
+            "alan": "Endüstriyel Otomasyon Teknolojileri",
+            "puan": 242.665,
+            "yuzdelik": 58.97,
+            "yil": 2026
+          },
+          {
+            "alan": "Makine ve Tasarım Teknolojisi",
+            "puan": 233.497,
+            "yuzdelik": 64.21,
+            "yil": 2026
+          },
+          {
+            "alan": "Biyomedikal Cihaz Teknolojileri",
+            "puan": 223.883,
+            "yuzdelik": 70.3,
+            "yil": 2026
+          }
+        ],
+        "kaynak": [
+          "https://cankaya.meb.gov.tr/www/mesleki-ve-teknik-egitim-sube-mudurlugu/icerik/1706",
+          "https://tabanpuanlari.net/lgs/ankara/cankaya",
+          "https://balgateml.meb.k12.tr",
+          "https://cankayaram.meb.k12.tr/meb_iys_dosyalar/06/06/119806/dosyalar/2025_07/01140910_cankayamtallistesi.pdf"
+        ]
+      },
+      {
+        "adi": "Ayrancı Ticaret Mesleki ve Teknik Anadolu Lisesi",
+        "tip": "resmi",
+        "adres": "Yukarı Ayrancı Mah. Tomurcuk Sok. No31 Çankaya/Ankara",
+        "telefon": "0 312 426 08 84",
+        "web": "https://ayrancimtal.meb.k12.tr",
+        "alanlar": [
+          "Adalet",
+          "Bilişim Teknolojileri",
+          "Muhasebe ve Finansman",
+          "Ulaştırma Hizmetleri"
+        ],
+        "lgs_taban_puan": null,
+        "lgs_yuzdelik": null,
+        "lgs_yil": null,
+        "giris_turu": "yerel_yerlestirme",
+        "alan_puanlari": [],
+        "kaynak": [
+          "https://cankaya.meb.gov.tr/www/mesleki-ve-teknik-egitim-sube-mudurlugu/icerik/1706",
+          "https://ayrancimtal.meb.k12.tr",
+          "https://cankayaram.meb.k12.tr/meb_iys_dosyalar/06/06/119806/dosyalar/2025_07/01140910_cankayamtallistesi.pdf"
+        ]
+      },
+      {
+        "adi": "Dikmen Mesleki ve Teknik Anadolu Lisesi",
+        "tip": "resmi",
+        "adres": "Metin Akkuş Mah. 752. Cd. Dikmen No101 06450 Çankaya/Ankara",
+        "telefon": "0 312 482 51 14",
+        "web": "https://dikmenmtal.meb.k12.tr",
+        "alanlar": [
+          "Bilişim Teknolojileri",
+          "Makine ve Tasarım Teknolojisi",
+          "Motorlu Araçlar Teknolojisi"
+        ],
+        "lgs_taban_puan": null,
+        "lgs_yuzdelik": null,
+        "lgs_yil": null,
+        "giris_turu": "yerel_yerlestirme",
+        "alan_puanlari": [],
+        "kaynak": [
+          "https://cankaya.meb.gov.tr/www/mesleki-ve-teknik-egitim-sube-mudurlugu/icerik/1706",
+          "https://dikmenmtal.meb.k12.tr",
+          "https://cankayaram.meb.k12.tr/meb_iys_dosyalar/06/06/119806/dosyalar/2025_07/01140910_cankayamtallistesi.pdf"
+        ]
+      },
+      {
+        "adi": "Dikmen Nevzat Ayaz Kız Mesleki ve Teknik Anadolu Lisesi",
+        "tip": "resmi",
+        "adres": "Harbiye Mah. Dikmen Cd. No112 06460 Çankaya/Ankara",
+        "telefon": "0 312 478 10 28",
+        "web": "https://nevzatayazktml.meb.k12.tr",
+        "alanlar": [
+          "Bilişim Teknolojileri",
+          "Çocuk Gelişimi ve Eğitimi",
+          "Güzellik ve Saç Bakım Hizmetleri",
+          "Moda Tasarım Teknolojileri",
+          "Yiyecek İçecek Hizmetleri"
+        ],
+        "lgs_taban_puan": null,
+        "lgs_yuzdelik": null,
+        "lgs_yil": null,
+        "giris_turu": "yerel_yerlestirme",
+        "alan_puanlari": [],
+        "kaynak": [
+          "https://cankaya.meb.gov.tr/www/mesleki-ve-teknik-egitim-sube-mudurlugu/icerik/1706",
+          "https://nevzatayazktml.meb.k12.tr",
+          "https://cankayaram.meb.k12.tr/meb_iys_dosyalar/06/06/119806/dosyalar/2025_07/01140910_cankayamtallistesi.pdf"
+        ]
+      },
+      {
+        "adi": "Fatma Yaşar Önen Ticaret Mesleki ve Teknik Anadolu Lisesi",
+        "tip": "resmi",
+        "adres": "50. Yıl Mah. Münzeviler Cd. No83 06590 Çankaya/Ankara",
+        "telefon": "0 312 319 11 40",
+        "web": "",
+        "alanlar": [
+          "Adalet",
+          "Bilişim Teknolojileri",
+          "Büro Yönetimi ve Yönetici Asistanlığı",
+          "Muhasebe ve Finansman",
+          "Ulaştırma Hizmetleri"
+        ],
+        "lgs_taban_puan": null,
+        "lgs_yuzdelik": null,
+        "lgs_yil": null,
+        "giris_turu": "yerel_yerlestirme",
+        "alan_puanlari": [],
+        "kaynak": [
+          "https://cankaya.meb.gov.tr/www/mesleki-ve-teknik-egitim-sube-mudurlugu/icerik/1706",
+          "https://cankayaram.meb.k12.tr/meb_iys_dosyalar/06/06/119806/dosyalar/2025_07/01140910_cankayamtallistesi.pdf"
+        ]
+      },
+      {
+        "adi": "Gaziosmanpaşa Kız Mesleki ve Teknik Anadolu Lisesi",
+        "tip": "resmi",
+        "adres": "Kazım Özalp Mah. İlkadım Sk. No9 06700 Çankaya/Ankara",
+        "telefon": "0 312 437 69 99",
+        "web": "https://gopmtal.meb.k12.tr",
+        "alanlar": [
+          "Bilişim Teknolojileri",
+          "Çocuk Gelişimi ve Eğitimi",
+          "Güzellik ve Saç Bakım Hizmetleri",
+          "Yiyecek İçecek Hizmetleri"
+        ],
+        "lgs_taban_puan": null,
+        "lgs_yuzdelik": null,
+        "lgs_yil": null,
+        "giris_turu": "yerel_yerlestirme",
+        "alan_puanlari": [],
+        "kaynak": [
+          "https://cankaya.meb.gov.tr/www/mesleki-ve-teknik-egitim-sube-mudurlugu/icerik/1706",
+          "https://gopmtal.meb.k12.tr",
+          "https://cankayaram.meb.k12.tr/meb_iys_dosyalar/06/06/119806/dosyalar/2025_07/01140910_cankayamtallistesi.pdf"
+        ]
+      },
+      {
+        "adi": "Çankaya Borsa İstanbul Turizm Mesleki ve Teknik Anadolu Lisesi",
+        "tip": "resmi",
+        "adres": "Çetin Emeç Bulvarı 1289. Sok. No2 Çankaya/Ankara",
+        "telefon": "0 312 472 09 68",
+        "web": "https://cankayaborsaistanbulmtal.meb.k12.tr",
+        "alanlar": [
+          "Konaklama ve Seyahat Hizmetleri",
+          "Yiyecek İçecek Hizmetleri"
+        ],
+        "lgs_taban_puan": 234.211,
+        "lgs_yuzdelik": 63.78,
+        "lgs_yil": 2026,
+        "giris_turu": "merkezi_yerlestirme",
+        "alan_puanlari": [
+          {
+            "alan": "Yiyecek İçecek Hizmetleri",
+            "puan": 234.211,
+            "yuzdelik": 63.78,
+            "yil": 2026
+          },
+          {
+            "alan": "Konaklama ve Seyahat Hizmetleri",
+            "puan": 175.785,
+            "yuzdelik": 97.41,
+            "yil": 2026
+          }
+        ],
+        "kaynak": [
+          "https://cankaya.meb.gov.tr/www/mesleki-ve-teknik-egitim-sube-mudurlugu/icerik/1706",
+          "https://tabanpuanlari.net/lgs/ankara/cankaya",
+          "https://cankayaborsaistanbulmtal.meb.k12.tr"
+        ]
+      },
+      {
+        "adi": "Lokman Hekim Mesleki ve Teknik Anadolu Lisesi",
+        "tip": "resmi",
+        "adres": "Aydınlar Mah. Hürriyet Cad. No146 06460 Çankaya/Ankara",
+        "telefon": "0 312 482 11 30",
+        "web": "https://lokmanhekimmtal.meb.k12.tr",
+        "alanlar": [
+          "Sağlık Hizmetleri"
+        ],
+        "lgs_taban_puan": null,
+        "lgs_yuzdelik": null,
+        "lgs_yil": null,
+        "giris_turu": "yerel_yerlestirme",
+        "alan_puanlari": [],
+        "kaynak": [
+          "https://cankaya.meb.gov.tr/www/mesleki-ve-teknik-egitim-sube-mudurlugu/icerik/1706",
+          "https://lokmanhekimmtal.meb.k12.tr"
+        ]
+      },
+      {
+        "adi": "Tapu Kadastro Mesleki ve Teknik Anadolu Lisesi",
+        "tip": "resmi",
+        "adres": "Yukarı Dikmen Mah. 648. Cd. (18. Cd.) No53 06450 Çankaya/Ankara",
+        "telefon": "0 312 491 38 82",
+        "web": "https://tapukadastro.meb.k12.tr",
+        "alanlar": [
+          "Harita-Tapu-Kadastro"
+        ],
+        "lgs_taban_puan": 210.249,
+        "lgs_yuzdelik": 79.8,
+        "lgs_yil": 2026,
+        "giris_turu": "merkezi_yerlestirme",
+        "alan_puanlari": [],
+        "kaynak": [
+          "https://cankaya.meb.gov.tr/www/mesleki-ve-teknik-egitim-sube-mudurlugu/icerik/1706",
+          "https://tabanpuanlari.net/lgs/ankara/cankaya",
+          "https://tapukadastro.meb.k12.tr"
+        ]
+      },
+      {
+        "adi": "Türk Telekom Mesleki ve Teknik Anadolu Lisesi",
+        "tip": "resmi",
+        "adres": "2432. Cadde No42 06800 Ümitköy Çankaya/Ankara",
+        "telefon": "0 312 235 67 01",
+        "web": "https://turktelekomeml.meb.k12.tr",
+        "alanlar": [
+          "Elektrik-Elektronik Teknolojisi",
+          "Radyo-Televizyon"
+        ],
+        "lgs_taban_puan": 162.702,
+        "lgs_yuzdelik": 99.55,
+        "lgs_yil": 2026,
+        "giris_turu": "merkezi_yerlestirme",
+        "alan_puanlari": [
+          {
+            "alan": "Radyo-Televizyon",
+            "puan": 162.702,
+            "yuzdelik": 99.55,
+            "yil": 2026
+          }
+        ],
+        "kaynak": [
+          "https://cankaya.meb.gov.tr/www/mesleki-ve-teknik-egitim-sube-mudurlugu/icerik/1706",
+          "https://tabanpuanlari.net/lgs/ankara/cankaya",
+          "https://turktelekomeml.meb.k12.tr",
+          "https://cankayaram.meb.k12.tr/meb_iys_dosyalar/06/06/119806/dosyalar/2025_07/01140910_cankayamtallistesi.pdf"
+        ]
+      },
+      {
+        "adi": "SERÇEV Engelsiz Mesleki ve Teknik Anadolu Lisesi",
+        "tip": "resmi",
+        "adres": "Çayyolu Mah. 2710. Cd. No10 06810 Çankaya/Ankara",
+        "telefon": "0 312 242 24 17",
+        "web": "https://sercevengelsizmtal.meb.k12.tr",
+        "alanlar": [
+          "Bilişim Teknolojileri",
+          "Radyo-Televizyon",
+          "Tarım"
+        ],
+        "lgs_taban_puan": null,
+        "lgs_yuzdelik": null,
+        "lgs_yil": null,
+        "giris_turu": "yerel_yerlestirme",
+        "alan_puanlari": [],
+        "kaynak": [
+          "https://cankaya.meb.gov.tr/www/mesleki-ve-teknik-egitim-sube-mudurlugu/icerik/1706",
+          "https://sercevengelsizmtal.meb.k12.tr"
+        ]
+      },
+      {
+        "adi": "Borsa İstanbul Mehmet Akif Ersoy Mesleki ve Teknik Anadolu Lisesi",
+        "tip": "resmi",
+        "adres": "İşçi Blokları Mah. 1538. Cd. No27 06450 Çankaya/Ankara",
+        "telefon": "0 312 285 46 44",
+        "web": "https://imkbmehmetakifersoymtal.meb.k12.tr",
+        "alanlar": [
+          "Elektrik-Elektronik Teknolojisi",
+          "Gıda Teknolojisi",
+          "Laboratuvar Hizmetleri"
+        ],
+        "lgs_taban_puan": 213.856,
+        "lgs_yuzdelik": 77.61,
+        "lgs_yil": 2026,
+        "giris_turu": "merkezi_yerlestirme",
+        "alan_puanlari": [
+          {
+            "alan": "Laboratuvar Hizmetleri",
+            "puan": 213.856,
+            "yuzdelik": 77.61,
+            "yil": 2026
+          }
+        ],
+        "kaynak": [
+          "https://tabanpuanlari.net/lgs/ankara/cankaya",
+          "https://imkbmehmetakifersoymtal.meb.k12.tr/tema/iletisim.php",
+          "https://cankayaram.meb.k12.tr/meb_iys_dosyalar/06/06/119806/dosyalar/2025_07/01140910_cankayamtallistesi.pdf"
+        ]
+      },
+      {
+        "adi": "Cumhuriyet Mesleki ve Teknik Anadolu Lisesi",
+        "tip": "resmi",
+        "adres": "Yücetepe Mah. Gençlik Cd. No5 06570 Çankaya/Ankara",
+        "telefon": "0 312 229 44 12",
+        "web": "",
+        "alanlar": [],
+        "lgs_taban_puan": null,
+        "lgs_yuzdelik": null,
+        "lgs_yil": null,
+        "giris_turu": "yerel_yerlestirme",
+        "alan_puanlari": [],
+        "kaynak": [
+          "https://okul.com.tr/lise/ankara/cumhuriyet-mesleki-ve-teknik-anadolu-lisesi-ankara-8034",
+          "https://turkiye.rehberi.tr/detay/cumhuriyet-mesleki-ve-teknik-anadolu-lisesi/43589"
+        ]
+      },
+      {
+        "adi": "Özel Akıllı Okul Çankaya Vecihi Hürkuş Mesleki ve Teknik Anadolu Lisesi",
+        "tip": "ozel",
+        "adres": "Hilal Mah. 677. Cd. No8 Çankaya/Ankara",
+        "telefon": "",
+        "web": "",
+        "alanlar": [],
+        "lgs_taban_puan": null,
+        "lgs_yuzdelik": null,
+        "lgs_yil": null,
+        "giris_turu": "ozel_okul",
+        "alan_puanlari": [],
+        "kaynak": [
+          "https://ozelokulkolej.com/ankara-mesleki-ve-teknik-liseler"
+        ]
+      },
+      {
+        "adi": "Özel Bahar Mesleki ve Teknik Anadolu Lisesi",
+        "tip": "ozel",
+        "adres": "Akpınar Mah. Dikmen Cd. No558 Çankaya/Ankara",
+        "telefon": "",
+        "web": "",
+        "alanlar": [],
+        "lgs_taban_puan": null,
+        "lgs_yuzdelik": null,
+        "lgs_yil": null,
+        "giris_turu": "ozel_okul",
+        "alan_puanlari": [],
+        "kaynak": [
+          "https://ozelokulkolej.com/ankara-mesleki-ve-teknik-liseler"
+        ]
+      },
+      {
+        "adi": "Özel Koru Mesleki ve Teknik Anadolu Lisesi",
+        "tip": "ozel",
+        "adres": "Oğuzlar Mah. 1376. Cd. No7 Çankaya/Ankara",
+        "telefon": "",
+        "web": "",
+        "alanlar": [],
+        "lgs_taban_puan": null,
+        "lgs_yuzdelik": null,
+        "lgs_yil": null,
+        "giris_turu": "ozel_okul",
+        "alan_puanlari": [],
+        "kaynak": [
+          "https://ozelokulkolej.com/ankara-mesleki-ve-teknik-liseler"
+        ]
+      },
+      {
+        "adi": "Özel TÜRSAB Mesleki ve Teknik Anadolu Lisesi",
+        "tip": "ozel",
+        "adres": "Mebusevleri Mah. Ayten Sk. No33 Çankaya/Ankara",
+        "telefon": "",
+        "web": "",
+        "alanlar": [],
+        "lgs_taban_puan": null,
+        "lgs_yuzdelik": null,
+        "lgs_yil": null,
+        "giris_turu": "ozel_okul",
+        "alan_puanlari": [],
+        "kaynak": [
+          "https://ozelokulkolej.com/ankara-mesleki-ve-teknik-liseler"
+        ]
+      }
+    ]
+  },
+  {
+    "ilce": "Keçiören",
+    "okullar": [
+      {
+        "adi": "Aydınlıkevler Ticaret Mesleki ve Teknik Anadolu Lisesi",
+        "tip": "resmi",
+        "adres": "Bağlarbaşı Mah. 475. Sk. No3 Keçiören/Ankara",
+        "telefon": "0 312 317 34 37",
+        "web": "https://aytim.meb.k12.tr",
+        "alanlar": [
+          "Bilişim Teknolojileri",
+          "Büro Yönetimi ve Yönetici Asistanlığı",
+          "Muhasebe ve Finansman",
+          "Pazarlama ve Perakende",
+          "Radyo-Televizyon"
+        ],
+        "lgs_taban_puan": 237.508,
+        "lgs_yuzdelik": 61.85,
+        "lgs_yil": 2026,
+        "giris_turu": "merkezi_yerlestirme",
+        "alan_puanlari": [
+          {
+            "alan": "Muhasebe ve Finansman",
+            "puan": 237.508,
+            "yuzdelik": 61.85,
+            "yil": 2026
+          }
+        ],
+        "kaynak": [
+          "https://kecioren.meb.gov.tr/www/ortaogretim-kurumlarimiz/icerik/398",
+          "https://kecioren.meb.gov.tr/meb_iys_dosyalar/2025_01/09111156_keciorenmeslekliseleriinfografik.pdf",
+          "https://tabanpuanlari.net/lgs/ankara/kecioren",
+          "https://aytim.meb.k12.tr"
+        ]
+      },
+      {
+        "adi": "Bağlum Mesleki ve Teknik Anadolu Lisesi",
+        "tip": "resmi",
+        "adres": "Karşıyaka Mah. Türkmenistan Cd. No17/1 Keçiören/Ankara",
+        "telefon": "0 312 329 00 33",
+        "web": "https://baglummtal.meb.k12.tr",
+        "alanlar": [
+          "Kimya Teknolojisi",
+          "Motorlu Araçlar Teknolojisi"
+        ],
+        "lgs_taban_puan": null,
+        "lgs_yuzdelik": null,
+        "lgs_yil": null,
+        "giris_turu": "yerel_yerlestirme",
+        "alan_puanlari": [],
+        "kaynak": [
+          "https://kecioren.meb.gov.tr/www/ortaogretim-kurumlarimiz/icerik/398",
+          "https://kecioren.meb.gov.tr/meb_iys_dosyalar/2025_01/09111156_keciorenmeslekliseleriinfografik.pdf",
+          "https://baglummtal.meb.k12.tr"
+        ]
+      },
+      {
+        "adi": "Bağlum Şehit Oğuz Kaan Usta Mesleki ve Teknik Anadolu Lisesi",
+        "tip": "resmi",
+        "adres": "Kafkas Mah. Özde Sk. No13B Keçiören/Ankara",
+        "telefon": "0 312 514 16 06",
+        "web": "https://baglumsehitoguzkaanustamtal.meb.k12.tr",
+        "alanlar": [
+          "Biyomedikal Cihaz Teknolojileri",
+          "Endüstriyel Otomasyon Teknolojileri"
+        ],
+        "lgs_taban_puan": 171.677,
+        "lgs_yuzdelik": 98.24,
+        "lgs_yil": 2026,
+        "giris_turu": "merkezi_yerlestirme",
+        "alan_puanlari": [
+          {
+            "alan": "Biyomedikal Cihaz Teknolojileri",
+            "puan": 171.677,
+            "yuzdelik": 98.24,
+            "yil": 2026
+          }
+        ],
+        "kaynak": [
+          "https://kecioren.meb.gov.tr/www/ortaogretim-kurumlarimiz/icerik/398",
+          "https://kecioren.meb.gov.tr/meb_iys_dosyalar/2025_01/09111156_keciorenmeslekliseleriinfografik.pdf",
+          "https://tabanpuanlari.net/lgs/ankara/kecioren",
+          "https://baglumsehitoguzkaanustamtal.meb.k12.tr"
+        ]
+      },
+      {
+        "adi": "Esertepe Mesleki ve Teknik Anadolu Lisesi",
+        "tip": "resmi",
+        "adres": "Yayla Mah. 1507. Sk. No4A Keçiören/Ankara",
+        "telefon": "0 312 379 00 57",
+        "web": "https://esertepe.meb.k12.tr",
+        "alanlar": [
+          "Aile ve Tüketici Hizmetleri",
+          "Çocuk Gelişimi ve Eğitimi",
+          "Grafik ve Fotoğraf",
+          "Güzellik Hizmetleri",
+          "Hasta ve Yaşlı Hizmetleri",
+          "Yiyecek İçecek Hizmetleri"
+        ],
+        "lgs_taban_puan": null,
+        "lgs_yuzdelik": null,
+        "lgs_yil": null,
+        "giris_turu": "yerel_yerlestirme",
+        "alan_puanlari": [],
+        "kaynak": [
+          "https://kecioren.meb.gov.tr/www/ortaogretim-kurumlarimiz/icerik/398",
+          "https://kecioren.meb.gov.tr/meb_iys_dosyalar/2025_01/09111156_keciorenmeslekliseleriinfografik.pdf",
+          "https://esertepe.meb.k12.tr"
+        ]
+      },
+      {
+        "adi": "Etlik Kız Mesleki ve Teknik Anadolu Lisesi",
+        "tip": "resmi",
+        "adres": "Atadan Cd. Karlıova Sk. No22 Keçiören/Ankara",
+        "telefon": "0 312 323 11 87",
+        "web": "https://ekml.meb.k12.tr",
+        "alanlar": [
+          "Bilişim Teknolojileri",
+          "Çocuk Gelişimi ve Eğitimi",
+          "Güzellik Hizmetleri",
+          "Moda Tasarım Teknolojileri",
+          "Yiyecek İçecek Hizmetleri"
+        ],
+        "lgs_taban_puan": null,
+        "lgs_yuzdelik": null,
+        "lgs_yil": null,
+        "giris_turu": "yerel_yerlestirme",
+        "alan_puanlari": [],
+        "kaynak": [
+          "https://kecioren.meb.gov.tr/www/ortaogretim-kurumlarimiz/icerik/398",
+          "https://kecioren.meb.gov.tr/meb_iys_dosyalar/2025_01/09111156_keciorenmeslekliseleriinfografik.pdf",
+          "https://ekml.meb.k12.tr"
+        ]
+      },
+      {
+        "adi": "Hatice Hikmet Oğultürk Kız Mesleki ve Teknik Anadolu Lisesi",
+        "tip": "resmi",
+        "adres": "General Dr. Tevfik Sağlam Cd. No151 Etlik Keçiören/Ankara",
+        "telefon": "0 312 321 45 40",
+        "web": "https://hhokml.meb.k12.tr",
+        "alanlar": [
+          "Bilişim Teknolojileri",
+          "Çocuk Gelişimi ve Eğitimi",
+          "Grafik ve Fotoğraf",
+          "Güzellik Hizmetleri",
+          "Moda Tasarım Teknolojileri",
+          "Yiyecek İçecek Hizmetleri"
+        ],
+        "lgs_taban_puan": null,
+        "lgs_yuzdelik": null,
+        "lgs_yil": null,
+        "giris_turu": "yerel_yerlestirme",
+        "alan_puanlari": [],
+        "kaynak": [
+          "https://kecioren.meb.gov.tr/www/ortaogretim-kurumlarimiz/icerik/398",
+          "https://kecioren.meb.gov.tr/meb_iys_dosyalar/2025_01/09111156_keciorenmeslekliseleriinfografik.pdf",
+          "https://hhokml.meb.k12.tr"
+        ]
+      },
+      {
+        "adi": "İncirli Şehit Hüdai Arslan Mesleki ve Teknik Anadolu Lisesi",
+        "tip": "resmi",
+        "adres": "İncirli Mah. Gökkuşağı Cd. No2 Keçiören/Ankara",
+        "telefon": "0 312 322 60 07",
+        "web": "https://incirlieml.meb.k12.tr",
+        "alanlar": [
+          "Bilişim Teknolojileri",
+          "Elektrik-Elektronik Teknolojisi",
+          "Makine ve Tasarım Teknolojisi",
+          "Metal Teknolojisi",
+          "Mobilya ve İç Mekan Tasarımı",
+          "Motorlu Araçlar Teknolojisi"
+        ],
+        "lgs_taban_puan": null,
+        "lgs_yuzdelik": null,
+        "lgs_yil": null,
+        "giris_turu": "yerel_yerlestirme",
+        "alan_puanlari": [],
+        "kaynak": [
+          "https://kecioren.meb.gov.tr/www/ortaogretim-kurumlarimiz/icerik/398",
+          "https://kecioren.meb.gov.tr/meb_iys_dosyalar/2025_01/09111156_keciorenmeslekliseleriinfografik.pdf",
+          "https://incirlieml.meb.k12.tr"
+        ]
+      },
+      {
+        "adi": "Kalaba Kız Mesleki ve Teknik Anadolu Lisesi",
+        "tip": "resmi",
+        "adres": "Güçlükaya Mah. Fatih Cd. No46 Keçiören/Ankara",
+        "telefon": "0 312 359 46 71",
+        "web": "https://kalaba.meb.k12.tr",
+        "alanlar": [
+          "Çocuk Gelişimi ve Eğitimi",
+          "Grafik ve Fotoğraf",
+          "Güzellik Hizmetleri",
+          "Moda Tasarım Teknolojileri",
+          "Radyo-Televizyon",
+          "Yiyecek İçecek Hizmetleri"
+        ],
+        "lgs_taban_puan": 232.857,
+        "lgs_yuzdelik": 64.6,
+        "lgs_yil": 2026,
+        "giris_turu": "merkezi_yerlestirme",
+        "alan_puanlari": [
+          {
+            "alan": "Çocuk Gelişimi ve Eğitimi",
+            "puan": 232.857,
+            "yuzdelik": 64.6,
+            "yil": 2026
+          }
+        ],
+        "kaynak": [
+          "https://kecioren.meb.gov.tr/www/ortaogretim-kurumlarimiz/icerik/398",
+          "https://kecioren.meb.gov.tr/meb_iys_dosyalar/2025_01/09111156_keciorenmeslekliseleriinfografik.pdf",
+          "https://tabanpuanlari.net/lgs/ankara/kecioren",
+          "https://kalaba.meb.k12.tr"
+        ]
+      },
+      {
+        "adi": "Kanuni Mesleki ve Teknik Anadolu Lisesi",
+        "tip": "resmi",
+        "adres": "Ayvalı Mah. Selvi Cd. No2 Keçiören/Ankara",
+        "telefon": "0 312 325 14 10",
+        "web": "https://kanunimtal.meb.k12.tr",
+        "alanlar": [
+          "Bilişim Teknolojileri",
+          "Elektrik-Elektronik Teknolojisi"
+        ],
+        "lgs_taban_puan": 306.638,
+        "lgs_yuzdelik": 32.92,
+        "lgs_yil": 2026,
+        "giris_turu": "merkezi_yerlestirme",
+        "alan_puanlari": [
+          {
+            "alan": "Elektrik-Elektronik Teknolojisi",
+            "puan": 306.638,
+            "yuzdelik": 32.92,
+            "yil": 2026
+          }
+        ],
+        "kaynak": [
+          "https://kecioren.meb.gov.tr/www/ortaogretim-kurumlarimiz/icerik/398",
+          "https://kecioren.meb.gov.tr/meb_iys_dosyalar/2025_01/09111156_keciorenmeslekliseleriinfografik.pdf",
+          "https://tabanpuanlari.net/lgs/ankara/kecioren",
+          "https://kanunimtal.meb.k12.tr"
+        ]
+      },
+      {
+        "adi": "Keçiören Borsa İstanbul Mesleki ve Teknik Anadolu Lisesi",
+        "tip": "resmi",
+        "adres": "Kanuni Mah. 787. Sk. No4 Keçiören/Ankara",
+        "telefon": "0 312 580 98 69",
+        "web": "https://keciorenimkb.meb.k12.tr",
+        "alanlar": [
+          "Bilişim Teknolojileri",
+          "Elektrik-Elektronik Teknolojisi"
+        ],
+        "lgs_taban_puan": 277.287,
+        "lgs_yuzdelik": 43.33,
+        "lgs_yil": 2026,
+        "giris_turu": "merkezi_yerlestirme",
+        "alan_puanlari": [
+          {
+            "alan": "Bilişim Teknolojileri",
+            "puan": 277.287,
+            "yuzdelik": 43.33,
+            "yil": 2026
+          }
+        ],
+        "kaynak": [
+          "https://kecioren.meb.gov.tr/www/ortaogretim-kurumlarimiz/icerik/398",
+          "https://kecioren.meb.gov.tr/meb_iys_dosyalar/2025_01/09111156_keciorenmeslekliseleriinfografik.pdf",
+          "https://tabanpuanlari.net/lgs/ankara/kecioren",
+          "https://keciorenimkb.meb.k12.tr"
+        ]
+      },
+      {
+        "adi": "Keçiören İbn-i Sina Mesleki ve Teknik Anadolu Lisesi",
+        "tip": "resmi",
+        "adres": "Kuşcağız Mah. Gazeller Cd. No3 Keçiören/Ankara",
+        "telefon": "0 312 356 30 66",
+        "web": "https://keciorenibnisina.meb.k12.tr",
+        "alanlar": [
+          "Sağlık Hizmetleri"
+        ],
+        "lgs_taban_puan": 341.223,
+        "lgs_yuzdelik": 22.93,
+        "lgs_yil": 2026,
+        "giris_turu": "merkezi_yerlestirme",
+        "alan_puanlari": [
+          {
+            "alan": "Sağlık Hizmetleri",
+            "puan": 341.223,
+            "yuzdelik": 22.93,
+            "yil": 2026
+          }
+        ],
+        "kaynak": [
+          "https://kecioren.meb.gov.tr/www/ortaogretim-kurumlarimiz/icerik/398",
+          "https://kecioren.meb.gov.tr/meb_iys_dosyalar/2025_01/09111156_keciorenmeslekliseleriinfografik.pdf",
+          "https://tabanpuanlari.net/lgs/ankara/kecioren",
+          "https://keciorenibnisina.meb.k12.tr"
+        ]
+      },
+      {
+        "adi": "Keçiören Yamantürk Ticaret Mesleki ve Teknik Anadolu Lisesi",
+        "tip": "resmi",
+        "adres": "Esertepe Mah. 280. Sk. No1 Keçiören/Ankara",
+        "telefon": "0 312 378 51 61",
+        "web": "https://yamanturktml.meb.k12.tr",
+        "alanlar": [
+          "Bilişim Teknolojileri",
+          "Büro Yönetimi ve Yönetici Asistanlığı",
+          "Muhasebe ve Finansman",
+          "Yiyecek ve İçecek Hizmetleri"
+        ],
+        "lgs_taban_puan": null,
+        "lgs_yuzdelik": null,
+        "lgs_yil": null,
+        "giris_turu": "yerel_yerlestirme",
+        "alan_puanlari": [],
+        "kaynak": [
+          "https://kecioren.meb.gov.tr/www/ortaogretim-kurumlarimiz/icerik/398",
+          "https://kecioren.meb.gov.tr/meb_iys_dosyalar/2025_01/09111156_keciorenmeslekliseleriinfografik.pdf",
+          "https://yamanturktml.meb.k12.tr"
+        ]
+      },
+      {
+        "adi": "Subayevleri Kız Mesleki ve Teknik Anadolu Lisesi",
+        "tip": "resmi",
+        "adres": "Kavacık Mah. Güzin Sk. No32 Keçiören/Ankara",
+        "telefon": "0 312 316 41 06",
+        "web": "https://subayevlerimtal.meb.k12.tr",
+        "alanlar": [
+          "Çocuk Gelişimi ve Eğitimi",
+          "Grafik ve Fotoğraf",
+          "Yiyecek İçecek Hizmetleri"
+        ],
+        "lgs_taban_puan": null,
+        "lgs_yuzdelik": null,
+        "lgs_yil": null,
+        "giris_turu": "yerel_yerlestirme",
+        "alan_puanlari": [],
+        "kaynak": [
+          "https://kecioren.meb.gov.tr/www/ortaogretim-kurumlarimiz/icerik/398",
+          "https://kecioren.meb.gov.tr/meb_iys_dosyalar/2025_01/09111156_keciorenmeslekliseleriinfografik.pdf",
+          "https://subayevlerimtal.meb.k12.tr"
+        ]
+      },
+      {
+        "adi": "Şehit Mehmet Karakaşoğlu Mesleki ve Teknik Anadolu Lisesi",
+        "tip": "resmi",
+        "adres": "Adnan Menderes Mah. Özyurt Cd. 1063. Sk. No3 Aktepe Keçiören/Ankara",
+        "telefon": "0 312 357 01 44",
+        "web": "https://kecioreneml.meb.k12.tr",
+        "alanlar": [
+          "Bilişim Teknolojileri",
+          "Elektrik-Elektronik Teknolojisi",
+          "Makine ve Tasarım Teknolojisi",
+          "Metal Teknolojisi",
+          "Mobilya ve İç Mekan Tasarımı",
+          "İnşaat Teknolojisi",
+          "Kuyumculuk Teknolojisi",
+          "Tesisat Teknolojisi ve İklimlendirme"
+        ],
+        "lgs_taban_puan": 255.287,
+        "lgs_yuzdelik": 52.65,
+        "lgs_yil": 2026,
+        "giris_turu": "merkezi_yerlestirme",
+        "alan_puanlari": [
+          {
+            "alan": "Makine ve Tasarım Teknolojisi",
+            "puan": 255.287,
+            "yuzdelik": 52.65,
+            "yil": 2026
+          }
+        ],
+        "kaynak": [
+          "https://kecioren.meb.gov.tr/www/ortaogretim-kurumlarimiz/icerik/398",
+          "https://kecioren.meb.gov.tr/meb_iys_dosyalar/2025_01/09111156_keciorenmeslekliseleriinfografik.pdf",
+          "https://tabanpuanlari.net/lgs/ankara/kecioren",
+          "https://kecioreneml.meb.k12.tr"
+        ]
+      },
+      {
+        "adi": "Özel Akıllı Okul Keçiören Mesleki ve Teknik Anadolu Lisesi",
+        "tip": "ozel",
+        "adres": "Atapark Mah. Çambaşı Cd. No66 Keçiören/Ankara",
+        "telefon": "",
+        "web": "",
+        "alanlar": [],
+        "lgs_taban_puan": null,
+        "lgs_yuzdelik": null,
+        "lgs_yil": null,
+        "giris_turu": "ozel_okul",
+        "alan_puanlari": [],
+        "kaynak": [
+          "https://ozelokulkolej.com/ankara-mesleki-ve-teknik-liseler"
+        ]
+      },
+      {
+        "adi": "Özel Akıllı Okul Keçiören Vecihi Hürkuş Mesleki ve Teknik Anadolu Lisesi",
+        "tip": "ozel",
+        "adres": "Aktepe Mah. 951. Cd. No59A Keçiören/Ankara",
+        "telefon": "",
+        "web": "",
+        "alanlar": [],
+        "lgs_taban_puan": null,
+        "lgs_yuzdelik": null,
+        "lgs_yil": null,
+        "giris_turu": "ozel_okul",
+        "alan_puanlari": [],
+        "kaynak": [
+          "https://ozelokulkolej.com/ankara-mesleki-ve-teknik-liseler"
+        ]
+      },
+      {
+        "adi": "Özel Ankara Ayyıldız Mesleki ve Teknik Anadolu Lisesi",
+        "tip": "ozel",
+        "adres": "İncirli Mah. Yumak Sk. No13 Keçiören/Ankara",
+        "telefon": "",
+        "web": "",
+        "alanlar": [],
+        "lgs_taban_puan": null,
+        "lgs_yuzdelik": null,
+        "lgs_yil": null,
+        "giris_turu": "ozel_okul",
+        "alan_puanlari": [],
+        "kaynak": [
+          "https://ozelokulkolej.com/ankara-mesleki-ve-teknik-liseler"
+        ]
+      },
+      {
+        "adi": "Özel Ankara Buluş Mesleki ve Teknik Anadolu Lisesi",
+        "tip": "ozel",
+        "adres": "Esertepe Mah. 314. Cd. No7 Keçiören/Ankara",
+        "telefon": "",
+        "web": "",
+        "alanlar": [],
+        "lgs_taban_puan": null,
+        "lgs_yuzdelik": null,
+        "lgs_yil": null,
+        "giris_turu": "ozel_okul",
+        "alan_puanlari": [],
+        "kaynak": [
+          "https://ozelokulkolej.com/ankara-mesleki-ve-teknik-liseler"
+        ]
+      },
+      {
+        "adi": "Özel Ankara Çınar Mesleki ve Teknik Anadolu Lisesi",
+        "tip": "ozel",
+        "adres": "Çiçekli Mah. Tansel Sk. No28 Keçiören/Ankara",
+        "telefon": "",
+        "web": "",
+        "alanlar": [],
+        "lgs_taban_puan": null,
+        "lgs_yuzdelik": null,
+        "lgs_yil": null,
+        "giris_turu": "ozel_okul",
+        "alan_puanlari": [],
+        "kaynak": [
+          "https://ozelokulkolej.com/ankara-mesleki-ve-teknik-liseler"
+        ]
+      },
+      {
+        "adi": "Özel Ankara İbn-i Sina Mesleki ve Teknik Anadolu Lisesi",
+        "tip": "ozel",
+        "adres": "Çiçekli Mah. Akten Cd. No66 Keçiören/Ankara",
+        "telefon": "",
+        "web": "",
+        "alanlar": [],
+        "lgs_taban_puan": null,
+        "lgs_yuzdelik": null,
+        "lgs_yil": null,
+        "giris_turu": "ozel_okul",
+        "alan_puanlari": [],
+        "kaynak": [
+          "https://ozelokulkolej.com/ankara-mesleki-ve-teknik-liseler"
+        ]
+      },
+      {
+        "adi": "Özel Anlam Mesleki ve Teknik Anadolu Lisesi",
+        "tip": "ozel",
+        "adres": "Pınarbaşı Mah. Şehit Hakan Turan Sk. No10 Keçiören/Ankara",
+        "telefon": "",
+        "web": "",
+        "alanlar": [],
+        "lgs_taban_puan": null,
+        "lgs_yuzdelik": null,
+        "lgs_yil": null,
+        "giris_turu": "ozel_okul",
+        "alan_puanlari": [],
+        "kaynak": [
+          "https://ozelokulkolej.com/ankara-mesleki-ve-teknik-liseler"
+        ]
+      },
+      {
+        "adi": "Özel Ataçağ Mesleki ve Teknik Anadolu Lisesi",
+        "tip": "ozel",
+        "adres": "Yakacık Mah. Fatih Cd. No150 Keçiören/Ankara",
+        "telefon": "",
+        "web": "",
+        "alanlar": [],
+        "lgs_taban_puan": null,
+        "lgs_yuzdelik": null,
+        "lgs_yil": null,
+        "giris_turu": "ozel_okul",
+        "alan_puanlari": [],
+        "kaynak": [
+          "https://ozelokulkolej.com/ankara-mesleki-ve-teknik-liseler"
+        ]
+      },
+      {
+        "adi": "Özel Etlik Anlam Mesleki ve Teknik Anadolu Lisesi",
+        "tip": "ozel",
+        "adres": "Aşağı Eğlence Mah. Atadan Cd. No3 Keçiören/Ankara",
+        "telefon": "",
+        "web": "",
+        "alanlar": [],
+        "lgs_taban_puan": null,
+        "lgs_yuzdelik": null,
+        "lgs_yil": null,
+        "giris_turu": "ozel_okul",
+        "alan_puanlari": [],
+        "kaynak": [
+          "https://ozelokulkolej.com/ankara-mesleki-ve-teknik-liseler"
+        ]
+      },
+      {
+        "adi": "Özel Fatih İlgi Mesleki ve Teknik Anadolu Lisesi",
+        "tip": "ozel",
+        "adres": "Kavacık Subayevleri Mah. Üsküdar Sk. No12 Keçiören/Ankara",
+        "telefon": "",
+        "web": "",
+        "alanlar": [],
+        "lgs_taban_puan": null,
+        "lgs_yuzdelik": null,
+        "lgs_yil": null,
+        "giris_turu": "ozel_okul",
+        "alan_puanlari": [],
+        "kaynak": [
+          "https://ozelokulkolej.com/ankara-mesleki-ve-teknik-liseler"
+        ]
+      },
+      {
+        "adi": "Özel Gönül Yılmaz Mesleki ve Teknik Anadolu Lisesi",
+        "tip": "ozel",
+        "adres": "Pınarbaşı Mah. Aksaray Cd. No30 Keçiören/Ankara",
+        "telefon": "",
+        "web": "",
+        "alanlar": [],
+        "lgs_taban_puan": null,
+        "lgs_yuzdelik": null,
+        "lgs_yil": null,
+        "giris_turu": "ozel_okul",
+        "alan_puanlari": [],
+        "kaynak": [
+          "https://ozelokulkolej.com/ankara-mesleki-ve-teknik-liseler"
+        ]
+      },
+      {
+        "adi": "Özel İlke Mesleki ve Teknik Anadolu Lisesi",
+        "tip": "ozel",
+        "adres": "Atapark Mah. 1383. Sk. No2 Keçiören/Ankara",
+        "telefon": "",
+        "web": "",
+        "alanlar": [],
+        "lgs_taban_puan": null,
+        "lgs_yuzdelik": null,
+        "lgs_yil": null,
+        "giris_turu": "ozel_okul",
+        "alan_puanlari": [],
+        "kaynak": [
+          "https://ozelokulkolej.com/ankara-mesleki-ve-teknik-liseler"
+        ]
+      },
+      {
+        "adi": "Özel Keçiören Murat Yıldırım Mesleki ve Teknik Anadolu Lisesi",
+        "tip": "ozel",
+        "adres": "Kanuni Mah. Osmangazi Cd. No130 Keçiören/Ankara",
+        "telefon": "",
+        "web": "",
+        "alanlar": [],
+        "lgs_taban_puan": null,
+        "lgs_yuzdelik": null,
+        "lgs_yil": null,
+        "giris_turu": "ozel_okul",
+        "alan_puanlari": [],
+        "kaynak": [
+          "https://ozelokulkolej.com/ankara-mesleki-ve-teknik-liseler"
+        ]
+      }
+    ]
+  }
+]

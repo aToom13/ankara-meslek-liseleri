@@ -1,0 +1,417 @@
+[
+  {
+    "ilce": "Akyurt",
+    "okullar": [
+      {
+        "adi": "Prof. Dr. Nusret Fişek Mesleki ve Teknik Anadolu Lisesi",
+        "tip": "resmi",
+        "adres": "Yıldırım Mah. Dr. Neslihan Özenli Cad. No21 Akyurt/ANKARA",
+        "telefon": "0312 844 09 50",
+        "web": "https://akyurtasml.meb.k12.tr",
+        "alanlar": ["Sağlık Hizmetleri"],
+        "lgs_taban_puan": null,
+        "lgs_yuzdelik": null,
+        "lgs_yil": null,
+        "giris_turu": "yerel_yerlestirme",
+        "kaynak": [
+          "https://akyurtasml.meb.k12.tr/",
+          "https://okul.com.tr/lise/ankara/akyurt-mesleki-ve-teknik-anadolu-lisesi-7958",
+          "https://akyurt.meb.gov.tr/www/prof-drnusret-fisek-mesleki-ve-teknik-anadolu-lisesi-proje-kapanis-toplantisi/icerik/1538"
+        ]
+      },
+      {
+        "adi": "Nevzat Hüseyin Tiryaki Mesleki ve Teknik Anadolu Lisesi",
+        "tip": "resmi",
+        "adres": "Timurhan Mah. Kaymakam Abidin Coşkun Cad. No 48 06750 Akyurt/ANKARA",
+        "telefon": "3128440177",
+        "web": "https://ateml.meb.k12.tr",
+        "alanlar": [
+          "Bilişim Teknolojileri",
+          "Elektrik-Elektronik Teknolojisi",
+          "Metal Teknolojisi",
+          "Mobilya ve İç Mekan Tasarımı",
+          "Motorlu Araçlar Teknolojisi"
+        ],
+        "lgs_taban_puan": null,
+        "lgs_yuzdelik": null,
+        "lgs_yil": null,
+        "giris_turu": "yerel_yerlestirme",
+        "kaynak": [
+          "https://ateml.meb.k12.tr/",
+          "https://liseler.com.tr/nevzat-huseyin-tiryaki-mesleki-ve-teknik-anadolu-lisesi-ankara-akyurt-173-obp",
+          "https://www.aksiad.org.tr/nevzat-huseyin-tiryaki-mesleki-ve-teknik-anadolu-lisesi"
+        ]
+      },
+      {
+        "adi": "Akyurt Kız Mesleki ve Teknik Anadolu Lisesi",
+        "tip": "resmi",
+        "adres": "Yıldırım Mah. Mezarlık Cad. No11 06750 Akyurt/ANKARA",
+        "telefon": "3128440087",
+        "web": "https://akyurtktml.meb.k12.tr",
+        "alanlar": ["Hasta ve Yaşlı Hizmetleri", "Güzellik ve Saç Bakım Hizmetleri"],
+        "lgs_taban_puan": null,
+        "lgs_yuzdelik": null,
+        "lgs_yil": null,
+        "giris_turu": "yerel_yerlestirme",
+        "kaynak": [
+          "https://akyurtktml.meb.k12.tr/",
+          "https://akyurtktml.meb.k12.tr/icerikler/icerikler/listele_532993_Duyurular"
+        ]
+      }
+    ]
+  },
+  {
+    "ilce": "Ayaş",
+    "okullar": [
+      {
+        "adi": "Naime-Ali Karataş Mesleki ve Teknik Anadolu Lisesi (eski adı: Naime-Ali Karataş Çok Programlı Anadolu Lisesi)",
+        "tip": "resmi",
+        "adres": "Hacımemi Mah. Çakmak Sk. No 9 Ayaş / ANKARA",
+        "telefon": "0 312 712 17 18",
+        "web": "https://anakcpl.meb.k12.tr",
+        "alanlar": ["Elektrik-Elektronik Teknolojisi", "Raylı Sistemler Teknolojisi"],
+        "lgs_taban_puan": null,
+        "lgs_yuzdelik": null,
+        "lgs_yil": null,
+        "giris_turu": "yerel_yerlestirme",
+        "kaynak": [
+          "https://anakcpl.meb.k12.tr/",
+          "https://okul.com.tr/lise/ankara/naime-ali-karatas-mesleki-ve-teknik-anadolu-lisesi-7995",
+          "https://yandex.com.tr/maps/org/ayas_naime_ali_karatas_cok_programli_anadolu_lisesi/1107892157/"
+        ]
+      }
+    ]
+  },
+  {
+    "ilce": "Bala",
+    "okullar": [
+      {
+        "adi": "Bala Atatürk Mesleki ve Teknik Anadolu Lisesi",
+        "tip": "resmi",
+        "adres": "İsmetpaşa Mah. Alparslan Türkeş Bul. No75, 06720 Bala/ANKARA",
+        "telefon": "(312) 876 2120",
+        "web": "https://bamtal.meb.k12.tr",
+        "alanlar": ["Elektrik-Elektronik Teknolojisi"],
+        "lgs_taban_puan": null,
+        "lgs_yuzdelik": null,
+        "lgs_yil": null,
+        "giris_turu": "yerel_yerlestirme",
+        "kaynak": [
+          "https://bamtal.meb.k12.tr/",
+          "https://okul.com.tr/lise/ankara/bala-ataturk-mesleki-ve-teknik-anadolu-lisesi-7999"
+        ]
+      },
+      {
+        "adi": "Kemal Şahin Mesleki ve Teknik Anadolu Lisesi",
+        "tip": "resmi",
+        "adres": "Şentepe Mah. Atatürk Bulvarı No34 06720 Bala/ANKARA",
+        "telefon": "05524016029",
+        "web": "https://kemalsahinmtal.meb.k12.tr",
+        "alanlar": ["Sağlık Hizmetleri"],
+        "lgs_taban_puan": null,
+        "lgs_yuzdelik": null,
+        "lgs_yil": null,
+        "giris_turu": "yerel_yerlestirme",
+        "kaynak": [
+          "https://kemalsahinmtal.meb.k12.tr/",
+          "https://kemalsahinmtal.meb.k12.tr/tema/iletisim.php"
+        ]
+      },
+      {
+        "adi": "Bala Faik Güngör Çok Programlı Anadolu Lisesi",
+        "tip": "resmi",
+        "adres": "Kesikköprü Mah. Karayalçın Cad. No 6/3 Bala/ANKARA",
+        "telefon": "0312 874 13 23",
+        "web": "https://faikgungorcokprogramllisesi.meb.k12.tr",
+        "alanlar": [],
+        "lgs_taban_puan": null,
+        "lgs_yuzdelik": null,
+        "lgs_yil": null,
+        "giris_turu": "yerel_yerlestirme",
+        "kaynak": [
+          "https://faikgungorcokprogramllisesi.meb.k12.tr/",
+          "https://faikgungorcokprogramllisesi.meb.k12.tr/tema/iletisim.php"
+        ]
+      }
+    ]
+  },
+  {
+    "ilce": "Çamlıdere",
+    "okullar": [
+      {
+        "adi": "Çamlıdere Çok Programlı Anadolu Lisesi",
+        "tip": "resmi",
+        "adres": "Beyler Mah. Dikilitaş Küme Evleri ÇPL Blok No 183 Çamlıdere/ANKARA",
+        "telefon": "0312 753 15 18",
+        "web": "https://camliderecpal.meb.k12.tr",
+        "alanlar": ["Hayvan Sağlığı ve Yetiştiriciliği"],
+        "lgs_taban_puan": null,
+        "lgs_yuzdelik": null,
+        "lgs_yil": null,
+        "giris_turu": "yerel_yerlestirme",
+        "kaynak": [
+          "https://camliderecpal.meb.k12.tr/",
+          "https://camliderecpal.meb.k12.tr/tema/okulumuz_hakkinda.php",
+          "https://yandex.com.tr/maps/org/camlidere_cok_programli_anadolu_lisesi/86620252062/"
+        ]
+      }
+    ]
+  },
+  {
+    "ilce": "Evren",
+    "okullar": [
+      {
+        "adi": "Evren Çok Programlı Anadolu Lisesi",
+        "tip": "resmi",
+        "adres": "Esentepe Mah. Cumhuriyet Cad. No.30 Merkez Evren / ANKARA",
+        "telefon": "0312 893 51 49",
+        "web": "https://evrencpl.meb.k12.tr",
+        "alanlar": [],
+        "lgs_taban_puan": null,
+        "lgs_yuzdelik": null,
+        "lgs_yil": null,
+        "giris_turu": "yerel_yerlestirme",
+        "kaynak": [
+          "https://evrencpl.meb.k12.tr/",
+          "https://evrencpl.meb.k12.tr/tema/iletisim.php",
+          "https://evren.meb.gov.tr/"
+        ]
+      }
+    ]
+  },
+  {
+    "ilce": "Güdül",
+    "okullar": [
+      {
+        "adi": "Güdül Safiye Akdede Çok Programlı Anadolu Lisesi",
+        "tip": "resmi",
+        "adres": "Yukarı Mah. Özdal Sk. No: 3 Güdül / ANKARA",
+        "telefon": "0312 728 10 03",
+        "web": "https://gudulcpl.meb.k12.tr",
+        "alanlar": ["Konaklama ve Seyahat Hizmetleri"],
+        "lgs_taban_puan": null,
+        "lgs_yuzdelik": null,
+        "lgs_yil": null,
+        "giris_turu": "yerel_yerlestirme",
+        "kaynak": [
+          "https://gudulcpl.meb.k12.tr/",
+          "https://gudulcpl.meb.k12.tr/tema/iletisim.php",
+          "https://erensahineronatmtal.meb.k12.tr/icerikler/turkiyedekiturizmliseleri_7367196.html"
+        ]
+      }
+    ]
+  },
+  {
+    "ilce": "Haymana",
+    "okullar": [
+      {
+        "adi": "Haymana Mesleki ve Teknik Anadolu Lisesi",
+        "tip": "resmi",
+        "adres": "Yeni Mah. Ankara Cad. No 37 Haymana/ANKARA",
+        "telefon": "0312 658 24 54",
+        "web": "https://haymanamtal.meb.k12.tr",
+        "alanlar": ["Metal Teknolojisi", "Konaklama ve Seyahat Hizmetleri"],
+        "lgs_taban_puan": null,
+        "lgs_yuzdelik": null,
+        "lgs_yil": null,
+        "giris_turu": "yerel_yerlestirme",
+        "kaynak": [
+          "https://haymanamtal.meb.k12.tr/",
+          "https://www.dersten.com/okul/haymana-mesleki-ve-teknik-anadolu-lisesi/",
+          "https://erensahineronatmtal.meb.k12.tr/icerikler/turkiyedekiturizmliseleri_7367196.html"
+        ]
+      }
+    ]
+  },
+  {
+    "ilce": "Kalecik",
+    "okullar": [
+      {
+        "adi": "Kalecik Mesleki ve Teknik Anadolu Lisesi",
+        "tip": "resmi",
+        "adres": "Ahi Kemal Şenyurt Mah. Prof. Günal Akbay Sk. No:10, 06870 Kalecik/ANKARA",
+        "telefon": "0312 857 15 17",
+        "web": "https://kalecikmtal.meb.k12.tr",
+        "alanlar": ["Sağlık Hizmetleri"],
+        "lgs_taban_puan": null,
+        "lgs_yuzdelik": null,
+        "lgs_yil": null,
+        "giris_turu": "yerel_yerlestirme",
+        "kaynak": [
+          "https://kalecikmtal.meb.k12.tr/",
+          "https://ilceler.org/ankara/kalecik/okul/kalecik-mesleki-ve-teknik-anadolu-lisesi-72-okul",
+          "https://yandex.com.tr/maps/org/kalecik_mesleki_ve_teknik_anadolu_lisesi/1102822812/"
+        ]
+      },
+      {
+        "adi": "Kalecik Şehit Mehmet Yıldırım Mesleki ve Teknik Anadolu Lisesi",
+        "tip": "resmi",
+        "adres": "Ahi Kemal Şenyurt Mah. İstasyon Cad. No112, 06870 Kalecik / ANKARA",
+        "telefon": "312 857 13 09",
+        "web": "https://kaleciksmymtal.meb.k12.tr",
+        "alanlar": [],
+        "lgs_taban_puan": null,
+        "lgs_yuzdelik": null,
+        "lgs_yil": null,
+        "giris_turu": "yerel_yerlestirme",
+        "kaynak": [
+          "https://kaleciksmymtal.meb.k12.tr/",
+          "https://sinavizcisi.com/lise/kalecik-sehit-mehmet-yildirim-mesleki-ve-teknik-anadolu-lisesi--16704353/"
+        ]
+      }
+    ]
+  },
+  {
+    "ilce": "Kızılcahamam",
+    "okullar": [
+      {
+        "adi": "TUSAŞ Şehit Hakan Gülşen Mesleki ve Teknik Anadolu Lisesi",
+        "tip": "resmi",
+        "adres": "Akçay Mah. Şehit Hüseyin Köksal Cad. No20/A 06890 Kızılcahamam / ANKARA",
+        "telefon": "3127360040",
+        "web": "https://tusassehithakan.meb.k12.tr",
+        "alanlar": ["Uçak Bakım"],
+        "lgs_taban_puan": 412.69,
+        "lgs_yuzdelik": 10.78,
+        "lgs_yil": 2026,
+        "giris_turu": "merkezi_yerlestirme",
+        "kaynak": [
+          "https://sinavtime.com/tusas-sehit-hakan-gulsen-mesleki-ve-teknik-anadolu-lisesi-80358-taban-puani/",
+          "https://liseler.com.tr/tusas-sehit-hakan-gulsen-mesleki-ve-teknik-anadolu-lisesi-ankara-kizilcahamam-211",
+          "https://www.e-sehir.com/egitim/tusas-sehit-hakan-gulsen-mesleki-ve-teknik-anadolu-lisesi-ankara-kizilcahamam-lgs-yuzdelik-dilimleri.html",
+          "https://www.rehberim.gen.tr/lgs/sonuc/2025-ankara-kizilcahamam-lgs-sonuclari",
+          "https://tusassehithakan.meb.k12.tr/"
+        ]
+      },
+      {
+        "adi": "Kızılcahamam İbn-i Sina Mesleki ve Teknik Anadolu Lisesi",
+        "tip": "resmi",
+        "adres": "Akçay Mah. Yarbaşı Sk. No 11 Kızılcahamam / ANKARA",
+        "telefon": "(312) 736 0032",
+        "web": "https://kizilcahamamibnisina.meb.k12.tr",
+        "alanlar": ["Sağlık Hizmetleri", "Çocuk Gelişimi ve Eğitimi", "Adalet", "Yiyecek İçecek Hizmetleri"],
+        "lgs_taban_puan": null,
+        "lgs_yuzdelik": null,
+        "lgs_yil": null,
+        "giris_turu": "yerel_yerlestirme",
+        "kaynak": [
+          "https://kizilcahamamibnisina.meb.k12.tr/",
+          "https://kizilcahamamibnisina.meb.k12.tr/tema/okulumuz_hakkinda.php",
+          "https://www.sorubak.com/teogrobot/mektep/8818/kizilcahamam-ibn-i-sina-mesleki-ve-teknik-anadolu-lisesi"
+        ]
+      },
+      {
+        "adi": "Kızılcahamam Ayşe Bezci Mesleki ve Teknik Anadolu Lisesi",
+        "tip": "resmi",
+        "adres": "Akçay Mah. Şehit Hüseyin Köksal Cad. No 20C Kızılcahamam / ANKARA",
+        "telefon": "0 312 736 10 21",
+        "web": "",
+        "alanlar": ["Konaklama ve Seyahat Hizmetleri", "Yiyecek İçecek Hizmetleri", "Sağlık Hizmetleri", "Çocuk Gelişimi ve Eğitimi"],
+        "lgs_taban_puan": null,
+        "lgs_yuzdelik": null,
+        "lgs_yil": null,
+        "giris_turu": "yerel_yerlestirme",
+        "kaynak": [
+          "https://okul.com.tr/lise/ankara/kizilcahamam-ayse-bezci-mesleki-ve-teknik-anadolu-lisesi-8255",
+          "https://yandex.com.tr/maps/org/ayse_bezci_mesleki_ve_teknik_anadolu_lisesi/1132646237",
+          "https://turkiyeturizmansiklopedisi.com/ayse-bezci-otelcilik-ve-turizm-meslek-lisesi-ayse-bezci-mesleki-ve-teknik-anadolu-lisesi"
+        ]
+      }
+    ]
+  },
+  {
+    "ilce": "Nallıhan",
+    "okullar": [
+      {
+        "adi": "Nallıhan Fettah Güngör Mesleki ve Teknik Anadolu Lisesi",
+        "tip": "resmi",
+        "adres": "Fatih Mah. Gazi Cad. Fettah Güngör MTAL Blok No 5 Nallıhan / ANKARA",
+        "telefon": "3127852193",
+        "web": "https://nallihaneml.meb.k12.tr",
+        "alanlar": ["Tarım"],
+        "lgs_taban_puan": 268.70,
+        "lgs_yuzdelik": 80.80,
+        "lgs_yil": 2025,
+        "giris_turu": "merkezi_yerlestirme",
+        "kaynak": [
+          "https://liseler.com.tr/nallihan-fettah-gungor-mesleki-ve-teknik-anadolu-lisesi-ankara-nallihan-278",
+          "https://www.rehberim.gen.tr/lgs/sonuc/2025-ankara-genel-teknikmeslek-liseleri",
+          "https://nallihaneml.meb.k12.tr/"
+        ]
+      },
+      {
+        "adi": "Nallıhan Şehit Hulki Beydili Mesleki ve Teknik Anadolu Lisesi",
+        "tip": "resmi",
+        "adres": "Fatih Mah. Seyrangah Cad. No 11 Nallıhan / ANKARA",
+        "telefon": "",
+        "web": "https://nallihanshbmtal.meb.k12.tr",
+        "alanlar": ["Gıda Teknolojisi"],
+        "lgs_taban_puan": 258.84,
+        "lgs_yuzdelik": null,
+        "lgs_yil": 2025,
+        "giris_turu": "merkezi_yerlestirme",
+        "kaynak": [
+          "https://liseler.com.tr/nallihan-sehit-hulki-beydili-mesleki-ve-teknik-anadolu-lisesi-ankara-nallihan-297",
+          "https://www.rehberim.gen.tr/lgs/sonuc/2025-ankara-genel-teknikmeslek-liseleri",
+          "https://nallihanshbmtal.meb.k12.tr/"
+        ]
+      }
+    ]
+  },
+  {
+    "ilce": "Şereflikoçhisar",
+    "okullar": [
+      {
+        "adi": "Şehit Murat Alkan Mesleki ve Teknik Anadolu Lisesi",
+        "tip": "resmi",
+        "adres": "İstiklal Mah. E90 Karayolu Cad. Şereflikoçhisar / ANKARA",
+        "telefon": "0312 687 18 53",
+        "web": "https://sereflikochisareml.meb.k12.tr",
+        "alanlar": ["Elektrik-Elektronik Teknolojisi", "Motorlu Araçlar Teknolojisi"],
+        "lgs_taban_puan": null,
+        "lgs_yuzdelik": null,
+        "lgs_yil": null,
+        "giris_turu": "yerel_yerlestirme",
+        "kaynak": [
+          "https://sereflikochisareml.meb.k12.tr/",
+          "https://okul.com.tr/lise/ankara/sehit-murat-alkan-mesleki-ve-teknik-anadolu-lisesi-8364",
+          "https://yandex.com.tr/maps/org/sehit_murat_alkan_mesleki_ve_teknik_anadolu_lisesi/233346878702/"
+        ]
+      },
+      {
+        "adi": "Şehit Orhan Durukan Kız Mesleki ve Teknik Anadolu Lisesi",
+        "tip": "resmi",
+        "adres": "İstiklal Mah. Şereflikoçhisar / ANKARA",
+        "telefon": "(312) 687 17 97",
+        "web": "https://sehitorhandurukanmtal.meb.k12.tr",
+        "alanlar": ["Yiyecek İçecek Hizmetleri"],
+        "lgs_taban_puan": null,
+        "lgs_yuzdelik": null,
+        "lgs_yil": null,
+        "giris_turu": "yerel_yerlestirme",
+        "kaynak": [
+          "https://sehitorhandurukanmtal.meb.k12.tr/",
+          "https://okul.bilgegenc.com/bilgi/sehit-orhan-durukan-mesleki-ve-teknik-anadolu-lisesi",
+          "https://okul.com.tr/lise/ankara/sehit-orhan-durukan-mesleki-ve-teknik-anadolu-lisesi-8360"
+        ]
+      },
+      {
+        "adi": "Çalören Mesleki ve Teknik Anadolu Lisesi",
+        "tip": "resmi",
+        "adres": "Çalören Mah. Şereflikoçhisar / ANKARA",
+        "telefon": "0312 683 30 10",
+        "web": "",
+        "alanlar": [],
+        "lgs_taban_puan": null,
+        "lgs_yuzdelik": null,
+        "lgs_yil": null,
+        "giris_turu": "yerel_yerlestirme",
+        "kaynak": [
+          "https://yandex.com.tr/maps/org/caloren_mesleki_ve_teknik_anadolu_lisesi/1065196499",
+          "https://sinavizcisi.com/lise/caloren-mesleki-ve-teknik-anadolu-lisesi--16194945",
+          "https://www.egitimhane.com/sereflikochisar-mesleki-ve-teknik-anadolu-lisesi-o122761.html"
+        ]
+      }
+    ]
+  }
+]

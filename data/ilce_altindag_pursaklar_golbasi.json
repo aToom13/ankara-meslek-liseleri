@@ -1,0 +1,492 @@
+{
+  "ilce": "Altındağ, Pursaklar, Gölbaşı",
+  "olusturma_tarihi": "2026-08-05",
+  "okullar": [
+    {
+      "adi": "İskitler Mesleki ve Teknik Anadolu Lisesi",
+      "ilce": "Altındağ",
+      "tip": "resmi",
+      "adres": "Aslanbey Cad. No 11, Altındağ / Ankara",
+      "telefon": "0312 342 06 90",
+      "web": "https://iskitler.meb.k12.tr",
+      "alanlar": ["Endüstriyel Otomasyon Teknolojileri"],
+      "lgs_taban_puan": 303.732,
+      "lgs_yuzdelik": 34.0,
+      "lgs_yil": 2026,
+      "giris_turu": "merkezi_yerlestirme",
+      "alan_puanlari": [
+        {"alan": "Endüstriyel Otomasyon Teknolojileri", "lgs_taban_puan": 303.732, "lgs_yuzdelik": 34.0, "lgs_yil": 2026, "kaynak": "tabanpuanlari.net"},
+        {"alan": "Endüstriyel Otomasyon Teknolojileri", "lgs_taban_puan": 286.433, "lgs_yuzdelik": 35.61, "lgs_yil": 2025, "kaynak": "tabanpuanlari.net"},
+        {"program": "Anadolu Teknik Programı", "lgs_taban_puan": 254.6, "lgs_yuzdelik": 57.6, "lgs_yil": 2025, "kaynak": "permaakademi.com.tr"}
+      ],
+      "kaynak": ["https://tabanpuanlari.net/lgs/ankara/altindag", "https://iskitler.meb.k12.tr", "https://permaakademi.com.tr/ankara-liseleri-taban-puanlari"]
+    },
+    {
+      "adi": "Ankara Ticaret Mesleki ve Teknik Anadolu Lisesi",
+      "ilce": "Altındağ",
+      "tip": "resmi",
+      "adres": "Hacı Bayram Mah. Derman Cad. No 2/B, Altındağ / Ankara",
+      "telefon": "0312 312 45 16",
+      "web": "https://ankaratml.meb.k12.tr",
+      "alanlar": ["Adalet"],
+      "lgs_taban_puan": 266.395,
+      "lgs_yuzdelik": 47.73,
+      "lgs_yil": 2026,
+      "giris_turu": "merkezi_yerlestirme",
+      "alan_puanlari": [
+        {"alan": "Adalet", "lgs_taban_puan": 266.395, "lgs_yuzdelik": 47.73, "lgs_yil": 2026, "kaynak": "tabanpuanlari.net"},
+        {"alan": "Adalet", "lgs_taban_puan": 230.717, "lgs_yuzdelik": 56.02, "lgs_yil": 2025, "kaynak": "tabanpuanlari.net"}
+      ],
+      "not": "Eski adı 'Altındağ İMKB Ticaret Meslek Lisesi' olarak da geçer (aynı adres/telefon).",
+      "kaynak": ["https://tabanpuanlari.net/lgs/ankara/altindag", "https://ankaratml.meb.k12.tr", "https://okul.com.tr/lise/ankara-altindag-mesleki-ve-teknik-anadolu-liseleri"]
+    },
+    {
+      "adi": "Atatürk Mesleki ve Teknik Anadolu Lisesi",
+      "ilce": "Altındağ",
+      "tip": "resmi",
+      "adres": "Hacı Bayram Mh. Çankırı Cd. No 41, Altındağ / Ankara",
+      "telefon": "(312) 311 45 29",
+      "web": "https://atamml.meb.k12.tr",
+      "alanlar": ["Yiyecek İçecek Hizmetleri"],
+      "lgs_taban_puan": 240.231,
+      "lgs_yuzdelik": 60.31,
+      "lgs_yil": 2026,
+      "giris_turu": "merkezi_yerlestirme",
+      "alan_puanlari": [
+        {"alan": "Yiyecek İçecek Hizmetleri", "lgs_taban_puan": 240.231, "lgs_yuzdelik": 60.31, "lgs_yil": 2026, "kaynak": "tabanpuanlari.net"},
+        {"alan": "Yiyecek İçecek Hizmetleri", "lgs_taban_puan": 230.228, "lgs_yuzdelik": 56.27, "lgs_yil": 2025, "kaynak": "tabanpuanlari.net"},
+        {"program": "Anadolu Meslek Programı", "lgs_taban_puan": 258.51, "lgs_yuzdelik": 55.43, "lgs_yil": 2025, "kaynak": "permaakademi.com.tr"}
+      ],
+      "kaynak": ["https://tabanpuanlari.net/lgs/ankara/altindag", "https://atamml.meb.k12.tr", "https://permaakademi.com.tr/ankara-liseleri-taban-puanlari"]
+    },
+    {
+      "adi": "Altındağ Mesleki ve Teknik Anadolu Lisesi",
+      "ilce": "Altındağ",
+      "tip": "resmi",
+      "adres": "Altındağ / Ankara",
+      "telefon": "(312) 317 02 70",
+      "web": "https://ametal.meb.k12.tr",
+      "alanlar": ["Makine ve Tasarım Teknolojisi"],
+      "lgs_taban_puan": 227.647,
+      "lgs_yuzdelik": 67.85,
+      "lgs_yil": 2026,
+      "giris_turu": "merkezi_yerlestirme",
+      "alan_puanlari": [
+        {"alan": "Makine ve Tasarım Teknolojisi", "lgs_taban_puan": 227.647, "lgs_yuzdelik": 67.85, "lgs_yil": 2026, "kaynak": "tabanpuanlari.net"},
+        {"alan": "Makine ve Tasarım Teknolojisi", "lgs_taban_puan": 222.414, "lgs_yuzdelik": 61.36, "lgs_yil": 2025, "kaynak": "tabanpuanlari.net"},
+        {"program": "Yerel Yerleştirme (sınavsız)", "lgs_yuzdelik": 38.8089, "lgs_yil": 2025, "kaynak": "terapotikakademi.com"}
+      ],
+      "kaynak": ["https://tabanpuanlari.net/lgs/ankara/altindag", "https://ametal.meb.k12.tr", "https://terapotikakademi.com/ankara-yerel-yerlestirme-ile-ogrenci-alan-okullarin-taban-puanlari"]
+    },
+    {
+      "adi": "Ulus Mesleki ve Teknik Anadolu Lisesi",
+      "ilce": "Altındağ",
+      "tip": "resmi",
+      "adres": "Atatürk Bulvarı No 9, Ulus, Altındağ / Ankara",
+      "telefon": "0312 310 58 34",
+      "web": "https://uluseml.meb.k12.tr",
+      "alanlar": [],
+      "lgs_taban_puan": 265.46,
+      "lgs_yuzdelik": 51.73,
+      "lgs_yil": 2025,
+      "giris_turu": "merkezi_yerlestirme",
+      "alan_puanlari": [
+        {"program": "Anadolu Teknik Programı", "lgs_taban_puan": 265.46, "lgs_yuzdelik": 51.73, "lgs_yil": 2025, "kaynak": "permaakademi.com.tr"}
+      ],
+      "kaynak": ["https://permaakademi.com.tr/ankara-liseleri-taban-puanlari", "https://uluseml.meb.k12.tr"]
+    },
+    {
+      "adi": "Necatibey Mesleki ve Teknik Anadolu Lisesi",
+      "ilce": "Altındağ",
+      "tip": "resmi",
+      "adres": "Hisarparkı Cad. Karakuş Sok. No 8, Ulus, Altındağ / Ankara",
+      "telefon": "0312 311 27 12",
+      "web": "https://ankaranecatibeymeslekiveteknik.meb.k12.tr",
+      "alanlar": [],
+      "lgs_taban_puan": null,
+      "lgs_yuzdelik": null,
+      "lgs_yil": null,
+      "giris_turu": "merkezi_yerlestirme",
+      "alan_puanlari": [],
+      "kaynak": ["https://ankaranecatibeymeslekiveteknik.meb.k12.tr", "https://okul.com.tr/lise/ankara-altindag-mesleki-ve-teknik-anadolu-liseleri"]
+    },
+    {
+      "adi": "Ahmet Yesevi Mesleki ve Teknik Anadolu Lisesi",
+      "ilce": "Altındağ",
+      "tip": "resmi",
+      "adres": "Önder Mah. Yalınç Cad. No 1, Altındağ / Ankara",
+      "telefon": "0312 351 26 16",
+      "web": "https://ahmetyesevieml.meb.k12.tr",
+      "alanlar": [],
+      "lgs_taban_puan": null,
+      "lgs_yuzdelik": null,
+      "lgs_yil": null,
+      "giris_turu": "yerel_yerlestirme",
+      "alan_puanlari": [
+        {"program": "Yerel Yerleştirme (sınavsız)", "lgs_yuzdelik": 25.8126, "lgs_yil": 2025, "kaynak": "terapotikakademi.com"}
+      ],
+      "kaynak": ["https://ahmetyesevieml.meb.k12.tr", "https://terapotikakademi.com/ankara-yerel-yerlestirme-ile-ogrenci-alan-okullarin-taban-puanlari", "https://placera.com.tr/altindag/en-iyi/ascilik-sinifi"]
+    },
+    {
+      "adi": "Çamlık Mesleki ve Teknik Anadolu Lisesi (Kız)",
+      "ilce": "Altındağ",
+      "tip": "resmi",
+      "adres": "Battalgazi Mah. 1844. Sok., Altındağ / Ankara",
+      "telefon": "0312 377 17 33",
+      "web": "https://camlikmtal.meb.k12.tr",
+      "alanlar": ["Yiyecek İçecek Hizmetleri"],
+      "lgs_taban_puan": null,
+      "lgs_yuzdelik": null,
+      "lgs_yil": null,
+      "giris_turu": "yerel_yerlestirme",
+      "alan_puanlari": [
+        {"program": "Yerel Yerleştirme (sınavsız)", "lgs_yuzdelik": 22.094, "lgs_yil": 2025, "kaynak": "terapotikakademi.com"}
+      ],
+      "kaynak": ["https://camlikmtal.meb.k12.tr", "https://terapotikakademi.com/ankara-yerel-yerlestirme-ile-ogrenci-alan-okullarin-taban-puanlari", "https://placera.com.tr/ascilik-sinifi/1252333807219448193"]
+    },
+    {
+      "adi": "Zübeyde Hanım Kız Mesleki ve Teknik Anadolu Lisesi",
+      "ilce": "Altındağ",
+      "tip": "resmi",
+      "adres": "Altındağ / Ankara",
+      "telefon": "(312) 324 56 63",
+      "web": "https://zhkml.meb.k12.tr",
+      "alanlar": [],
+      "lgs_taban_puan": null,
+      "lgs_yuzdelik": null,
+      "lgs_yil": null,
+      "giris_turu": "yerel_yerlestirme",
+      "alan_puanlari": [
+        {"program": "Yerel Yerleştirme (sınavsız)", "lgs_yuzdelik": 38.8597, "lgs_yil": 2025, "kaynak": "terapotikakademi.com"}
+      ],
+      "kaynak": ["https://zhkml.meb.k12.tr", "https://terapotikakademi.com/ankara-yerel-yerlestirme-ile-ogrenci-alan-okullarin-taban-puanlari"]
+    },
+    {
+      "adi": "Süleyman Şah Mesleki ve Teknik Anadolu Lisesi",
+      "ilce": "Altındağ",
+      "tip": "resmi",
+      "adres": "Karapürçek Mah. 311. Cad. No 10/A, Altındağ / Ankara",
+      "telefon": "0312 375 70 83",
+      "web": "https://suleymansahmtal.meb.k12.tr",
+      "alanlar": [],
+      "lgs_taban_puan": null,
+      "lgs_yuzdelik": null,
+      "lgs_yil": null,
+      "giris_turu": "yerel_yerlestirme",
+      "alan_puanlari": [
+        {"program": "Yerel Yerleştirme (sınavsız)", "lgs_yuzdelik": 44.6134, "lgs_yil": 2025, "kaynak": "terapotikakademi.com"}
+      ],
+      "kaynak": ["https://suleymansahmtal.meb.k12.tr", "https://terapotikakademi.com/ankara-yerel-yerlestirme-ile-ogrenci-alan-okullarin-taban-puanlari"]
+    },
+    {
+      "adi": "Yıldırım Beyazıt Kız Mesleki ve Teknik Anadolu Lisesi",
+      "ilce": "Altındağ",
+      "tip": "resmi",
+      "adres": "Server Somuncuoğlu Mah. Babür Cad. No 30, Altındağ / Ankara",
+      "telefon": "0312 316 59 06",
+      "web": "https://ybmtal.meb.k12.tr",
+      "alanlar": [],
+      "lgs_taban_puan": null,
+      "lgs_yuzdelik": null,
+      "lgs_yil": null,
+      "giris_turu": "yerel_yerlestirme",
+      "alan_puanlari": [],
+      "kaynak": ["https://ybmtal.meb.k12.tr", "https://okul.com.tr/lise/ankara-altindag-mesleki-ve-teknik-anadolu-liseleri"]
+    },
+    {
+      "adi": "Ahmet Haluk Dursun Mesleki ve Teknik Anadolu Lisesi",
+      "ilce": "Altındağ",
+      "tip": "resmi",
+      "adres": "Feridun Çelik Mah. 1756 Sk. No 2, 06360 Altındağ / Ankara",
+      "telefon": null,
+      "web": null,
+      "alanlar": ["Bilişim Teknolojileri"],
+      "lgs_taban_puan": null,
+      "lgs_yuzdelik": null,
+      "lgs_yil": null,
+      "giris_turu": "yerel_yerlestirme",
+      "alan_puanlari": [
+        {"program": "Yerel Yerleştirme (sınavsız)", "lgs_yuzdelik": 33.2775, "lgs_yil": 2025, "kaynak": "terapotikakademi.com"}
+      ],
+      "kaynak": ["https://placera.com.tr/ascilik-sinifi/1252333807219448193", "https://terapotikakademi.com/ankara-yerel-yerlestirme-ile-ogrenci-alan-okullarin-taban-puanlari"]
+    },
+    {
+      "adi": "Altındağ Şehit Yıldız Gürsoy Kız Mesleki ve Teknik Anadolu Lisesi",
+      "ilce": "Altındağ",
+      "tip": "resmi",
+      "adres": "Baraj Mah. Karahanlılar Sok. 3/4, Altındağ / Ankara",
+      "telefon": "0 312 502 20 74",
+      "web": "https://yildizgursoymtal.meb.k12.tr",
+      "alanlar": [],
+      "lgs_taban_puan": null,
+      "lgs_yuzdelik": null,
+      "lgs_yil": null,
+      "giris_turu": "yerel_yerlestirme",
+      "alan_puanlari": [
+        {"program": "Yerel Yerleştirme (sınavsız)", "lgs_yuzdelik": 43.1227, "lgs_yil": 2025, "kaynak": "terapotikakademi.com"}
+      ],
+      "kaynak": ["https://yildizgursoymtal.meb.k12.tr", "https://yandex.com.tr/maps/org/sehit_yildiz_gursoy_mesleki_ve_teknik_anadolu_lisesi/205729003758", "https://terapotikakademi.com/ankara-yerel-yerlestirme-ile-ogrenci-alan-okullarin-taban-puanlari"]
+    },
+    {
+      "adi": "Aktaş Atatürk Mesleki ve Teknik Anadolu Lisesi",
+      "ilce": "Altındağ",
+      "tip": "resmi",
+      "adres": "Gültepe Mah. 734. Cadde No 4, Aktaş, Altındağ / Ankara",
+      "telefon": "(312) 363 70 00",
+      "web": "https://ataturkeml.meb.k12.tr",
+      "alanlar": [],
+      "lgs_taban_puan": null,
+      "lgs_yuzdelik": null,
+      "lgs_yil": null,
+      "giris_turu": "yerel_yerlestirme",
+      "alan_puanlari": [
+        {"program": "Yerel Yerleştirme (sınavsız)", "lgs_yuzdelik": 18.8822, "lgs_yil": 2025, "kaynak": "terapotikakademi.com"}
+      ],
+      "kaynak": ["https://ataturkeml.meb.k12.tr", "https://terapotikakademi.com/ankara-yerel-yerlestirme-ile-ogrenci-alan-okullarin-taban-puanlari"]
+    },
+    {
+      "adi": "Altındağ Şerife Bacı Kız Mesleki ve Teknik Anadolu Lisesi",
+      "ilce": "Altındağ",
+      "tip": "resmi",
+      "adres": "Karapürçek Mah. 321. Sok. No 2, Altındağ / Ankara",
+      "telefon": "(312) 375 13 52",
+      "web": "https://altndagserifebacimtal.meb.k12.tr",
+      "alanlar": [],
+      "lgs_taban_puan": null,
+      "lgs_yuzdelik": null,
+      "lgs_yil": null,
+      "giris_turu": "yerel_yerlestirme",
+      "alan_puanlari": [],
+      "kaynak": ["https://altndagserifebacimtal.meb.k12.tr/tema/iletisim.php", "https://yandex.com.tr/maps/org/serife_baci_mesleki_ve_teknik_anadolu_lisesi/170090203799"]
+    },
+    {
+      "adi": "Özel Tulpar Havacılık Mesleki ve Teknik Anadolu Lisesi",
+      "ilce": "Altındağ",
+      "tip": "ozel",
+      "adres": "Zübeyde Hanım Mah., Altındağ / Ankara",
+      "telefon": "0312 357 07 07",
+      "web": "https://www.tulparokullari.com",
+      "alanlar": ["Sivil Havacılık Kabin Hizmetleri", "Sivil Havacılık Yer Hizmetleri"],
+      "lgs_taban_puan": null,
+      "lgs_yuzdelik": null,
+      "lgs_yil": null,
+      "giris_turu": "ozel_okul",
+      "alan_puanlari": [],
+      "kaynak": ["https://okul.com.tr/lise/ankara-altindag-mesleki-ve-teknik-anadolu-liseleri", "https://www.tulparokullari.com"]
+    },
+    {
+      "adi": "Pursaklar Kız Mesleki ve Teknik Anadolu Lisesi",
+      "ilce": "Pursaklar",
+      "tip": "resmi",
+      "adres": "Mimar Sinan Mah. Simge Sk. No 1, Pursaklar / Ankara",
+      "telefon": "(312) 527 00 35",
+      "web": "https://pursaklarmtal.meb.k12.tr",
+      "alanlar": ["Çocuk Gelişimi ve Eğitimi", "Bilişim Teknolojileri", "Moda Tasarım Teknolojileri", "Yiyecek İçecek Hizmetleri", "Güzellik Hizmetleri"],
+      "lgs_taban_puan": 217.696,
+      "lgs_yuzdelik": 74.54,
+      "lgs_yil": 2026,
+      "giris_turu": "merkezi_yerlestirme",
+      "alan_puanlari": [
+        {"alan": "Çocuk Gelişimi ve Eğitimi", "lgs_taban_puan": 217.696, "lgs_yuzdelik": 74.54, "lgs_yil": 2026, "kaynak": "tabanpuanlari.net"},
+        {"alan": "Çocuk Gelişimi ve Eğitimi", "lgs_taban_puan": 190.693, "lgs_yuzdelik": 82.14, "lgs_yil": 2025, "kaynak": "tabanpuanlari.net"},
+        {"program": "Anadolu Teknik Programı", "lgs_taban_puan": 259.46, "lgs_yuzdelik": 54.91, "lgs_yil": 2025, "kaynak": "permaakademi.com.tr (eski adı: Pursaklar MTAL)"}
+      ],
+      "kaynak": ["https://tabanpuanlari.net/lgs/ankara/pursaklar", "https://pursaklarmtal.meb.k12.tr", "https://permaakademi.com.tr/ankara-liseleri-taban-puanlari"]
+    },
+    {
+      "adi": "Güzide Ülker Ticaret Mesleki ve Teknik Anadolu Lisesi",
+      "ilce": "Pursaklar",
+      "tip": "resmi",
+      "adres": "Altınova Mah., Pursaklar / Ankara",
+      "telefon": "(312) 399 80 80",
+      "web": "https://guzideulkertml.meb.k12.tr",
+      "alanlar": ["Ulaştırma Hizmetleri", "Muhasebe ve Finansman", "Büro Yönetimi", "Perakende ve Satış", "Sivil Havacılık"],
+      "lgs_taban_puan": 276.34,
+      "lgs_yuzdelik": 43.7,
+      "lgs_yil": 2026,
+      "giris_turu": "merkezi_yerlestirme",
+      "alan_puanlari": [
+        {"alan": "Ulaştırma Hizmetleri", "lgs_taban_puan": 276.34, "lgs_yuzdelik": 43.7, "lgs_yil": 2026, "kaynak": "tabanpuanlari.net"},
+        {"alan": "Ulaştırma Hizmetleri", "lgs_taban_puan": 268.139, "lgs_yuzdelik": 42.17, "lgs_yil": 2025, "kaynak": "tabanpuanlari.net"}
+      ],
+      "kaynak": ["https://tabanpuanlari.net/lgs/ankara/pursaklar", "https://guzideulkertml.meb.k12.tr"]
+    },
+    {
+      "adi": "Pursaklar Borsa İstanbul Mesleki ve Teknik Anadolu Lisesi",
+      "ilce": "Pursaklar",
+      "tip": "resmi",
+      "adres": "Merkez Mh. Gülyaz Cad. Saray Sk. No 10, Pursaklar / Ankara",
+      "telefon": "0 312 527 00 82",
+      "web": "https://pursaklarborsaistanbulmtal.meb.k12.tr",
+      "alanlar": ["Bilişim Teknolojileri", "Elektrik-Elektronik Teknolojisi", "Metal Teknolojisi", "Mobilya ve İç Mekan Tasarımı"],
+      "lgs_taban_puan": null,
+      "lgs_yuzdelik": null,
+      "lgs_yil": null,
+      "giris_turu": "yerel_yerlestirme",
+      "alan_puanlari": [],
+      "kaynak": ["https://pursaklarborsaistanbulmtal.meb.k12.tr/tema/iletisim.php", "Pursaklar İlçe MEM tanıtım PDF"]
+    },
+    {
+      "adi": "Şehit Büyükelçi Daniş Tunalıgil Mesleki ve Teknik Anadolu Lisesi",
+      "ilce": "Pursaklar",
+      "tip": "resmi",
+      "adres": "Saray Cumhuriyet Mah., Pursaklar / Ankara",
+      "telefon": "(312) 393 02 12",
+      "web": "https://danistunaligil.meb.k12.tr",
+      "alanlar": ["Bilişim Teknolojileri", "Elektrik-Elektronik Teknolojisi", "Makine Teknolojisi"],
+      "lgs_taban_puan": null,
+      "lgs_yuzdelik": null,
+      "lgs_yil": null,
+      "giris_turu": "yerel_yerlestirme",
+      "alan_puanlari": [],
+      "kaynak": ["https://danistunaligil.meb.k12.tr", "Pursaklar İlçe MEM tanıtım PDF"]
+    },
+    {
+      "adi": "Pursaklar Yahya Kemal ve M. Sönmez Mesleki ve Teknik Anadolu Lisesi",
+      "ilce": "Pursaklar",
+      "tip": "resmi",
+      "adres": "Mimar Sinan Mah. Gazel Cad. Turna Sk. No 1/B, Pursaklar / Ankara",
+      "telefon": "0312 557 45 14",
+      "web": "https://pursaklarasml.meb.k12.tr",
+      "alanlar": ["Hemşire Yardımcılığı", "Ebe Yardımcılığı", "Sağlık Bakım Teknisyenliği"],
+      "lgs_taban_puan": null,
+      "lgs_yuzdelik": null,
+      "lgs_yil": null,
+      "giris_turu": "yerel_yerlestirme",
+      "alan_puanlari": [],
+      "kaynak": ["https://pursaklarasml.meb.k12.tr", "Pursaklar İlçe MEM tanıtım PDF"]
+    },
+    {
+      "adi": "Özel Pursaklar Ankatek Koleji Mesleki ve Teknik Anadolu Lisesi",
+      "ilce": "Pursaklar",
+      "tip": "ozel",
+      "adres": "Saray Cumhuriyet Mah. Işık Sk. No 6/1, 06146 Pursaklar / Ankara",
+      "telefon": "0 312 275 02 22",
+      "web": "https://www.ankatekkoleji.com",
+      "alanlar": ["Elektrik-Elektronik Teknolojisi"],
+      "lgs_taban_puan": null,
+      "lgs_yuzdelik": null,
+      "lgs_yil": null,
+      "giris_turu": "ozel_okul",
+      "alan_puanlari": [],
+      "kaynak": ["https://www.ankatekkoleji.com", "https://okul.com.tr/lise/ankara/ozel-ankatek-koleji-mesleki-ve-teknik-anadolu-lisesi-17653", "https://www.facebook.com/ankaraakyurt/posts/1347081544133011"]
+    },
+    {
+      "adi": "Gölbaşı Mesleki ve Teknik Anadolu Lisesi",
+      "ilce": "Gölbaşı",
+      "tip": "resmi",
+      "adres": "Karşıyaka Mah. 809. Cad. No 4, Gölbaşı / Ankara",
+      "telefon": "0 (312) 485 23 17",
+      "web": "https://golbasimtal.meb.k12.tr",
+      "alanlar": ["Elektrik-Elektronik Teknolojisi"],
+      "lgs_taban_puan": 261.299,
+      "lgs_yuzdelik": 50.44,
+      "lgs_yil": 2026,
+      "giris_turu": "merkezi_yerlestirme",
+      "alan_puanlari": [
+        {"alan": "Elektrik-Elektronik Teknolojisi", "lgs_taban_puan": 261.299, "lgs_yuzdelik": 50.44, "lgs_yil": 2026, "kaynak": "tabanpuanlari.net"},
+        {"alan": "Elektrik-Elektronik Teknolojisi", "lgs_taban_puan": 236.212, "lgs_yuzdelik": 53.62, "lgs_yil": 2025, "kaynak": "tabanpuanlari.net"},
+        {"program": "Anadolu Teknik Programı", "lgs_taban_puan": 264.6, "lgs_yuzdelik": 52.18, "lgs_yil": 2025, "kaynak": "permaakademi.com.tr"}
+      ],
+      "kaynak": ["https://tabanpuanlari.net/lgs/ankara/golbasi", "https://golbasimtal.meb.k12.tr", "https://permaakademi.com.tr/ankara-liseleri-taban-puanlari"]
+    },
+    {
+      "adi": "Mogan Turizm Mesleki ve Teknik Anadolu Lisesi",
+      "ilce": "Gölbaşı",
+      "tip": "resmi",
+      "adres": "Karşıyaka Mah. 629 Sk. No 2, Gölbaşı / Ankara",
+      "telefon": "0 (312) 479 56 56",
+      "web": "https://mogan.meb.k12.tr",
+      "alanlar": ["Konaklama ve Seyahat Hizmetleri", "Yiyecek İçecek Hizmetleri"],
+      "lgs_taban_puan": 226.362,
+      "lgs_yuzdelik": 68.67,
+      "lgs_yil": 2026,
+      "giris_turu": "merkezi_yerlestirme",
+      "alan_puanlari": [
+        {"alan": "Yiyecek İçecek Hizmetleri", "lgs_taban_puan": 226.362, "lgs_yuzdelik": 68.67, "lgs_yil": 2026, "kaynak": "tabanpuanlari.net"},
+        {"alan": "Yiyecek İçecek Hizmetleri", "lgs_taban_puan": 202.499, "lgs_yuzdelik": 74.39, "lgs_yil": 2025, "kaynak": "tabanpuanlari.net"},
+        {"alan": "Konaklama ve Seyahat Hizmetleri", "lgs_taban_puan": 215.445, "lgs_yuzdelik": 75.53, "lgs_yil": 2026, "kaynak": "tabanpuanlari.net"},
+        {"alan": "Konaklama ve Seyahat Hizmetleri", "lgs_taban_puan": 199.081, "lgs_yuzdelik": 76.63, "lgs_yil": 2025, "kaynak": "tabanpuanlari.net"}
+      ],
+      "kaynak": ["https://tabanpuanlari.net/lgs/ankara/golbasi", "https://mogan.meb.k12.tr/tema/iletisim.php"]
+    },
+    {
+      "adi": "Karaali Tarım Mesleki ve Teknik Anadolu Lisesi",
+      "ilce": "Gölbaşı",
+      "tip": "resmi",
+      "adres": "Karaali Yazlık Mah. Fatih Cad. No 88/A, Gölbaşı / Ankara",
+      "telefon": "0 312 882 41 99",
+      "web": "https://karaalimtal.meb.k12.tr",
+      "alanlar": ["Tarım"],
+      "lgs_taban_puan": 202.403,
+      "lgs_yuzdelik": 85.14,
+      "lgs_yil": 2026,
+      "giris_turu": "merkezi_yerlestirme",
+      "alan_puanlari": [
+        {"alan": "Tarım", "lgs_taban_puan": 202.403, "lgs_yuzdelik": 85.14, "lgs_yil": 2026, "kaynak": "tabanpuanlari.net"},
+        {"alan": "Tarım", "lgs_taban_puan": 169.479, "lgs_yuzdelik": 87.46, "lgs_yil": 2025, "kaynak": "tabanpuanlari.net"}
+      ],
+      "kaynak": ["https://tabanpuanlari.net/lgs/ankara/golbasi", "https://karaalimtal.meb.k12.tr"]
+    },
+    {
+      "adi": "Gölbaşı Gevher Nesibe Mesleki ve Teknik Anadolu Lisesi",
+      "ilce": "Gölbaşı",
+      "tip": "resmi",
+      "adres": "Karşıyaka Mah. 713 Sok. 10/A, Gölbaşı / Ankara",
+      "telefon": "0312 484 24 33",
+      "web": "https://gasml.meb.k12.tr",
+      "alanlar": [],
+      "lgs_taban_puan": null,
+      "lgs_yuzdelik": null,
+      "lgs_yil": null,
+      "giris_turu": "yerel_yerlestirme",
+      "alan_puanlari": [],
+      "kaynak": ["https://gasml.meb.k12.tr", "https://www.bulurum.com/details/5h7k730i620_6cb1072e7b7gce32_036"]
+    },
+    {
+      "adi": "Necip Fazıl Kısakürek Ticaret Mesleki ve Teknik Anadolu Lisesi",
+      "ilce": "Gölbaşı",
+      "tip": "resmi",
+      "adres": "Şafak Mah., Gölbaşı / Ankara",
+      "telefon": "(312) 485 35 93",
+      "web": "https://golbasitml.meb.k12.tr",
+      "alanlar": [],
+      "lgs_taban_puan": null,
+      "lgs_yuzdelik": null,
+      "lgs_yil": null,
+      "giris_turu": "yerel_yerlestirme",
+      "alan_puanlari": [],
+      "kaynak": ["https://golbasitml.meb.k12.tr", "https://okul.com.tr/lise/ankara-golbasi-mesleki-ve-teknik-anadolu-liseleri"]
+    },
+    {
+      "adi": "Gölbaşı Zübeyde Hanım Kız Mesleki ve Teknik Anadolu Lisesi",
+      "ilce": "Gölbaşı",
+      "tip": "resmi",
+      "adres": "Seğmenler Mah. Şehit Abdullah Yıldız Cad. No 50/A, Gölbaşı / Ankara",
+      "telefon": "0 (312) 484 11 16",
+      "web": "https://golbasikml.meb.k12.tr",
+      "alanlar": [],
+      "lgs_taban_puan": null,
+      "lgs_yuzdelik": null,
+      "lgs_yil": null,
+      "giris_turu": "yerel_yerlestirme",
+      "alan_puanlari": [],
+      "kaynak": ["https://golbasikml.meb.k12.tr", "https://okul.com.tr/lise/ankara-golbasi-mesleki-ve-teknik-anadolu-liseleri"]
+    },
+    {
+      "adi": "Özel Ankara Darüşşifa Mogan Mesleki ve Teknik Anadolu Lisesi",
+      "ilce": "Gölbaşı",
+      "tip": "ozel",
+      "adres": "Gaziosmanpaşa Mah., Gölbaşı / Ankara",
+      "telefon": "0 312 963 13 56",
+      "web": "https://www.darussifa.com.tr",
+      "alanlar": ["Uçak Bakım"],
+      "lgs_taban_puan": null,
+      "lgs_yuzdelik": null,
+      "lgs_yil": null,
+      "giris_turu": "ozel_okul",
+      "alan_puanlari": [],
+      "kaynak": ["https://okul.com.tr/lise/ankara/ozel-ankara-darussifa-mogan-mesleki-ve-teknik-anadolu-lisesi-8174", "https://www.darussifa.com.tr"]
+    }
+  ]
+}
